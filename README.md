@@ -1,6 +1,6 @@
-# RAG Customer Support Assistant — Algérie Télécom
-
-An intelligent virtual assistant built on a **Retrieval-Augmented Generation (RAG)** architecture combined with an **intent/smalltalk classification** module, designed to automate and personalize customer support for Algérie Télécom. The system runs **fully locally** (local embedding model, local vector store, local LLM).
+# RAG Customer Support Assistant Chatbot — Algérie Télécom
+This project is an AI chatbot designed for telecom customer support.
+An intelligent virtual assistant Chatbot built on a **Retrieval-Augmented Generation (RAG)** architecture combined with an **intent/smalltalk classification** module, designed to automate and personalize customer support for Algérie Télécom. The system runs **fully locally** (local embedding model, local vector store, local LLM).
 
 Developed as part of a Master's thesis (M2) in Artificial Intelligence.
 
