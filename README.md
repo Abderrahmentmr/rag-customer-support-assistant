@@ -8,10 +8,9 @@ Developed as part of a Master's thesis (M2) in Artificial Intelligence.
 
 ## Overview
 
-The system combines two complementary approaches:
+The Chatbot assistant is built around a **RAG (Retrieval-Augmented Generation)** pipeline, using a **local pretrained LLM** that acts both as the **NLP/NLU engine** (understanding and classifying the user's message) and as the **generation engine** (producing the final answer from the retrieved context).
 
-1. **Smalltalk detection** — handles simple conversational messages (greetings, thanks) directly, without triggering the full RAG pipeline.
-2. **RAG (Retrieval-Augmented Generation)** — for real questions, retrieves relevant chunks from a local knowledge base and generates a grounded response using a local LLM.
+The system retrieves relevant chunks from a local knowledge base and generates a grounded, context-aware response using the local LLM.
 
 ## Architecture
 
@@ -130,7 +129,7 @@ python app/main.py
 ```
 
 ## Future Improvements
-
+- **Client API integration** — add an API to fetch client information on request (e.g. subscription details, invoices, ticket status) and link it to the client's database, enabling truly personalized responses.
 - **Conversation memory** — keep track of previous exchanges to support multi-turn, context-aware conversations instead of treating each question independently.
 - **Hybrid retrieval** — combine vector search with keyword-based search (e.g. BM25) to improve retrieval accuracy on exact terms (offer names, error codes).
 - **Personalization via customer profile** — connect to Algérie Télécom's CRM/subscriber data to tailor answers to the user's actual plan, contract, or ticket history.
