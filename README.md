@@ -146,7 +146,7 @@ python app/main.py
 
 ## Author
 
-**Abderrahmen Tamamra** — M2 Artificial Intelligence
+**Abderrahmen Tamamra** 
 
 
 
