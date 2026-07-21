@@ -1,0 +1,691 @@
+[
+  {
+    "id": "svc_001",
+    "source": "generated_from_kb_articles_and_kb_faq",
+    "service": "ADSL",
+    "segment": "Individual",
+    "titre": "Service ADSL",
+    "type_service": "Internet fixe sur ligne téléphonique",
+    "description": "Le service ADSL couvre l'accès internet fixe pour les clients particuliers, avec un support orienté continuité de service, performance de la ligne et opérations commerciales liées au compte ou à l'abonnement.",
+    "positionnement": "Service d'accès internet fixe pour domicile ou petit usage bureautique.",
+    "prerequis_generaux": [
+      "ligne compatible ou déjà équipée",
+      "modem correctement alimenté et raccordé",
+      "compte client actif"
+    ],
+    "documents_possibles": [
+      "référence de ligne ou numéro de contrat",
+      "identité du titulaire si une opération commerciale est demandée"
+    ],
+    "canaux_support": [
+      "chatbot",
+      "agent",
+      "support technique",
+      "service commercial"
+    ],
+    "orientation_support": "Support technique pour instabilité, lenteur ou erreurs de connexion ; support commercial pour ajustement, accès au service, compensation et crédit non attribué.",
+    "categories_couvertes": [
+      "Technique",
+      "Commercial"
+    ],
+    "sous_categories_couvertes": [
+      "Chute de débit",
+      "Déconnexion fréquente",
+      "Erreur 651/678",
+      "Erreur 691 solde positive",
+      "Impossible d'afficher les pages",
+      "Link instable",
+      "Ajustement",
+      "Changement de débit",
+      "Demande de compensation",
+      "Omission activ/désactiv pause",
+      "Accès au service refusé",
+      "Solde non attribué"
+    ],
+    "intents_associes": [
+      "debit_lent",
+      "internet_panne",
+      "probleme_modem",
+      "paiement_facture",
+      "autre",
+      "resiliation"
+    ],
+    "problemes_frequents": [
+      "Chute de débit",
+      "Déconnexion fréquente",
+      "Erreur 651/678",
+      "Erreur 691 solde positive",
+      "Impossible d'afficher les pages",
+      "Link instable"
+    ],
+    "cas_usage": [
+      "navigation web",
+      "messagerie",
+      "cours en ligne",
+      "usage familial standard"
+    ],
+    "actions_selfcare": [
+      "redémarrer le modem",
+      "vérifier le câble DSL, le filtre et l'alimentation",
+      "tester la connexion avec un seul appareil",
+      "effectuer un test de débit si possible"
+    ],
+    "faq_associees": [
+      "faq_025",
+      "faq_026",
+      "faq_027",
+      "faq_028",
+      "faq_029",
+      "faq_030",
+      "faq_001",
+      "faq_002",
+      "faq_003",
+      "faq_004",
+      "faq_005",
+      "faq_006"
+    ],
+    "articles_associes": [
+      "kb_001",
+      "kb_002",
+      "kb_003",
+      "kb_004",
+      "kb_005",
+      "kb_006",
+      "kb_025",
+      "kb_026",
+      "kb_027",
+      "kb_028",
+      "kb_029",
+      "kb_030"
+    ],
+    "resume_support": {
+      "nb_articles": 12,
+      "nb_faq": 12,
+      "nb_categories": 2,
+      "nb_sous_categories": 12
+    },
+    "mots_cles": [
+      "ADSL",
+      "Internet fixe sur ligne téléphonique",
+      "Technique",
+      "Commercial",
+      "debit_lent",
+      "internet_panne",
+      "probleme_modem",
+      "paiement_facture",
+      "Chute de débit",
+      "Déconnexion fréquente",
+      "Erreur 651/678",
+      "Erreur 691 solde positive",
+      "Impossible d'afficher les pages",
+      "Link instable"
+    ],
+    "limites_connues": [
+      "performance dépendante de la qualité de ligne",
+      "sensibilité aux défauts de câblage ou de signal"
+    ],
+    "informations_a_completer": [
+      "offres commerciales détaillées",
+      "tarification et frais exacts",
+      "délais réels de traitement ou d'intervention",
+      "conditions contractuelles officielles"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "svc_002",
+    "source": "generated_from_kb_articles_and_kb_faq",
+    "service": "4G",
+    "segment": "Individual",
+    "titre": "Service 4G",
+    "type_service": "Internet mobile / données mobiles",
+    "description": "Le service 4G couvre l'accès mobile aux données ainsi que plusieurs opérations commerciales associées au crédit, au volume data, aux bonus et à la disponibilité des offres.",
+    "positionnement": "Service mobile pour connectivité en déplacement ou accès internet sans ligne fixe.",
+    "prerequis_generaux": [
+      "zone couverte par le réseau mobile",
+      "terminal compatible et correctement configuré",
+      "carte SIM ou compte actif"
+    ],
+    "documents_possibles": [
+      "numéro de ligne ou identifiant client",
+      "historique de recharge ou d'opération si réclamation commerciale"
+    ],
+    "canaux_support": [
+      "chatbot",
+      "agent",
+      "support technique",
+      "service commercial"
+    ],
+    "orientation_support": "Support technique pour couverture, lenteur et déconnexions ; support commercial pour volume, bonus, crédit et disponibilité d'offre.",
+    "categories_couvertes": [
+      "Technique",
+      "Commercial"
+    ],
+    "sous_categories_couvertes": [
+      "Chute de débit",
+      "Couverture réseau",
+      "Déconnexion fréquente",
+      "Non disponibilité",
+      "Perte de volume data",
+      "Perte de bonus data",
+      "Appel vers short code",
+      "Appels émission et réception",
+      "Perte de crédits",
+      "Réception appels",
+      "Perte de bonus"
+    ],
+    "intents_associes": [
+      "debit_lent",
+      "autre",
+      "internet_panne",
+      "paiement_facture"
+    ],
+    "problemes_frequents": [
+      "Chute de débit",
+      "Couverture réseau",
+      "Déconnexion fréquente",
+      "Non disponibilité",
+      "Perte de volume data",
+      "Perte de bonus data"
+    ],
+    "cas_usage": [
+      "connexion mobile",
+      "partage de connexion",
+      "navigation et réseaux sociaux",
+      "accès internet dans les zones sans ligne fixe"
+    ],
+    "actions_selfcare": [
+      "vérifier la couverture réseau dans la zone",
+      "activer puis désactiver le mode avion",
+      "redémarrer le terminal ou le modem 4G",
+      "contrôler le volume data, le bonus et le crédit restants"
+    ],
+    "faq_associees": [
+      "faq_031",
+      "faq_032",
+      "faq_033",
+      "faq_034",
+      "faq_035",
+      "faq_036",
+      "faq_037",
+      "faq_038",
+      "faq_007",
+      "faq_008",
+      "faq_009"
+    ],
+    "articles_associes": [
+      "kb_007",
+      "kb_008",
+      "kb_009",
+      "kb_031",
+      "kb_032",
+      "kb_033",
+      "kb_034",
+      "kb_035",
+      "kb_036",
+      "kb_037",
+      "kb_038"
+    ],
+    "resume_support": {
+      "nb_articles": 11,
+      "nb_faq": 11,
+      "nb_categories": 2,
+      "nb_sous_categories": 11
+    },
+    "mots_cles": [
+      "4G",
+      "Internet mobile / données mobiles",
+      "Technique",
+      "Commercial",
+      "debit_lent",
+      "internet_panne",
+      "paiement_facture",
+      "Chute de débit",
+      "Couverture réseau",
+      "Déconnexion fréquente",
+      "Non disponibilité",
+      "Perte de volume data",
+      "Perte de bonus data"
+    ],
+    "limites_connues": [
+      "qualité de service dépendante de la couverture et de la charge radio",
+      "consommation de volume variable selon les usages"
+    ],
+    "informations_a_completer": [
+      "offres commerciales détaillées",
+      "tarification et frais exacts",
+      "délais réels de traitement ou d'intervention",
+      "conditions contractuelles officielles"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "svc_003",
+    "source": "generated_from_kb_articles_and_kb_faq",
+    "service": "FTTx",
+    "segment": "Individual",
+    "titre": "Service FTTx / Fibre",
+    "type_service": "Internet fixe à très haut débit sur fibre",
+    "description": "Le service FTTx regroupe les cas de support liés à la fibre : absence d'accès internet, perte ou instabilité du signal et baisse de débit sur un accès fixe à haut débit.",
+    "positionnement": "Service fixe à haut ou très haut débit pour usage résidentiel intensif.",
+    "prerequis_generaux": [
+      "zone éligible ou raccordement fibre disponible",
+      "ONT / modem fibre alimenté et raccordé",
+      "compte client actif"
+    ],
+    "documents_possibles": [
+      "référence client ou contrat",
+      "coordonnées d'installation si intervention nécessaire"
+    ],
+    "canaux_support": [
+      "chatbot",
+      "agent",
+      "support technique",
+      "service commercial"
+    ],
+    "orientation_support": "Support principalement technique pour débit, perte de signal ou absence d'internet.",
+    "categories_couvertes": [
+      "Technique"
+    ],
+    "sous_categories_couvertes": [
+      "Chute de débit",
+      "Déconnexion fréquente",
+      "Impossible d'afficher les pages",
+      "Pas d'internet",
+      "Pas de signal réseau",
+      "Signal réseau instable"
+    ],
+    "intents_associes": [
+      "debit_lent",
+      "internet_panne",
+      "installation_fibre"
+    ],
+    "problemes_frequents": [
+      "Chute de débit",
+      "Déconnexion fréquente",
+      "Impossible d'afficher les pages",
+      "Pas d'internet",
+      "Pas de signal réseau",
+      "Signal réseau instable"
+    ],
+    "cas_usage": [
+      "streaming",
+      "télétravail",
+      "visioconférence",
+      "usage multi-appareils"
+    ],
+    "actions_selfcare": [
+      "vérifier l'alimentation de l'ONT ou du modem fibre",
+      "contrôler les câbles optiques et ethernet sans les manipuler excessivement",
+      "redémarrer les équipements puis attendre quelques minutes",
+      "tester la connexion sur un appareil unique"
+    ],
+    "faq_associees": [
+      "faq_901",
+      "faq_010",
+      "faq_011",
+      "faq_012",
+      "faq_013",
+      "faq_014",
+      "faq_015"
+    ],
+    "articles_associes": [
+      "kb_010",
+      "kb_011",
+      "kb_012",
+      "kb_013",
+      "kb_014",
+      "kb_015"
+    ],
+    "resume_support": {
+      "nb_articles": 6,
+      "nb_faq": 7,
+      "nb_categories": 1,
+      "nb_sous_categories": 6
+    },
+    "mots_cles": [
+      "FTTx",
+      "Internet fixe à très haut débit sur fibre",
+      "Technique",
+      "debit_lent",
+      "internet_panne",
+      "Chute de débit",
+      "Déconnexion fréquente",
+      "Impossible d'afficher les pages",
+      "Pas d'internet",
+      "Pas de signal réseau",
+      "Signal réseau instable"
+    ],
+    "limites_connues": [
+      "qualité dépendante de la continuité du signal optique et du réseau local",
+      "certaines anomalies nécessitent une intervention technique"
+    ],
+    "informations_a_completer": [
+      "offres commerciales détaillées",
+      "tarification et frais exacts",
+      "délais réels de traitement ou d'intervention",
+      "conditions contractuelles officielles"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "svc_004",
+    "source": "generated_from_kb_articles_and_kb_faq",
+    "service": "Téléphonie",
+    "segment": "Individual",
+    "titre": "Service Téléphonie",
+    "type_service": "Téléphonie fixe",
+    "description": "Le service Téléphonie couvre les incidents de voix sur ligne fixe, comme l'absence de tonalité, les coupures de communication, les problèmes d'audition ou les défauts d'émission et de réception.",
+    "positionnement": "Service voix fixe destiné à la communication locale, nationale et internationale selon l'offre du client.",
+    "prerequis_generaux": [
+      "poste téléphonique fonctionnel et correctement branché",
+      "ligne active",
+      "câblage interne accessible pour vérification simple"
+    ],
+    "documents_possibles": [
+      "numéro de ligne fixe",
+      "identité du titulaire si traitement administratif requis"
+    ],
+    "canaux_support": [
+      "chatbot",
+      "agent",
+      "support technique",
+      "service commercial"
+    ],
+    "orientation_support": "Support essentiellement technique pour qualité de voix, tonalité, émission et réception.",
+    "categories_couvertes": [
+      "Technique"
+    ],
+    "sous_categories_couvertes": [
+      "Coupure de communication",
+      "Inversion de ligne",
+      "Mauvaise audition et friture",
+      "Pas de tonalité téléphone",
+      "Mélange de communication",
+      "Problème de réception",
+      "Problème émission national",
+      "Problème émission international",
+      "Problème émission numéros courts"
+    ],
+    "intents_associes": [
+      "internet_panne",
+      "autre"
+    ],
+    "problemes_frequents": [
+      "Coupure de communication",
+      "Inversion de ligne",
+      "Mauvaise audition et friture",
+      "Pas de tonalité téléphone",
+      "Mélange de communication",
+      "Problème de réception"
+    ],
+    "cas_usage": [
+      "communications locales",
+      "communications nationales",
+      "communications internationales",
+      "appels vers numéros courts selon autorisation"
+    ],
+    "actions_selfcare": [
+      "vérifier le branchement du téléphone",
+      "tester avec un autre combiné si possible",
+      "contrôler la présence de tonalité",
+      "noter si le problème concerne l'émission, la réception ou la qualité audio"
+    ],
+    "faq_associees": [
+      "faq_016",
+      "faq_017",
+      "faq_018",
+      "faq_019",
+      "faq_020",
+      "faq_021",
+      "faq_022",
+      "faq_023",
+      "faq_024"
+    ],
+    "articles_associes": [
+      "kb_016",
+      "kb_017",
+      "kb_018",
+      "kb_019",
+      "kb_020",
+      "kb_021",
+      "kb_022",
+      "kb_023",
+      "kb_024"
+    ],
+    "resume_support": {
+      "nb_articles": 9,
+      "nb_faq": 9,
+      "nb_categories": 1,
+      "nb_sous_categories": 9
+    },
+    "mots_cles": [
+      "Téléphonie",
+      "Téléphonie fixe",
+      "Technique",
+      "internet_panne",
+      "Coupure de communication",
+      "Inversion de ligne",
+      "Mauvaise audition et friture",
+      "Pas de tonalité téléphone",
+      "Mélange de communication",
+      "Problème de réception"
+    ],
+    "limites_connues": [
+      "défauts parfois liés au poste téléphonique ou au câblage interne",
+      "certaines anomalies exigent un diagnostic de ligne"
+    ],
+    "informations_a_completer": [
+      "offres commerciales détaillées",
+      "tarification et frais exacts",
+      "délais réels de traitement ou d'intervention",
+      "conditions contractuelles officielles"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "svc_999",
+    "source": "generated_from_kb_articles_and_kb_faq",
+    "service": "Tous",
+    "segment": "Individual",
+    "titre": "Orientation générale des services",
+    "type_service": "Catalogue de support multi-services",
+    "description": "Cette fiche sert d'entrée générale pour orienter le chatbot vers le bon domaine de service avant d'interroger les articles détaillés. Elle couvre les services ADSL, 4G, FTTx et Téléphonie.",
+    "positionnement": "Point d'entrée de routage et d'explication globale des services pris en charge.",
+    "prerequis_generaux": [
+      "identifier le service concerné par la demande",
+      "déterminer s'il s'agit d'un incident technique ou d'une demande commerciale",
+      "récupérer une formulation claire du problème utilisateur"
+    ],
+    "documents_possibles": [
+      "numéro de ligne, contrat ou référence client selon le service",
+      "captures ou détails de l'anomalie si disponibles"
+    ],
+    "canaux_support": [
+      "chatbot",
+      "agent",
+      "support technique",
+      "service commercial"
+    ],
+    "orientation_support": "Utiliser cette fiche pour router la demande vers ADSL, 4G, FTTx ou Téléphonie avant d'interroger les articles métier détaillés.",
+    "categories_couvertes": [
+      "Technique",
+      "Commercial"
+    ],
+    "sous_categories_couvertes": [
+      "Chute de débit",
+      "Déconnexion fréquente",
+      "Erreur 651/678",
+      "Erreur 691 solde positive",
+      "Impossible d'afficher les pages",
+      "Link instable",
+      "Couverture réseau",
+      "Pas d'internet",
+      "Pas de signal réseau",
+      "Signal réseau instable",
+      "Coupure de communication",
+      "Inversion de ligne",
+      "Mauvaise audition et friture",
+      "Pas de tonalité téléphone",
+      "Mélange de communication",
+      "Problème de réception",
+      "Problème émission national",
+      "Problème émission international",
+      "Problème émission numéros courts",
+      "Ajustement",
+      "Changement de débit",
+      "Demande de compensation",
+      "Omission activ/désactiv pause",
+      "Accès au service refusé",
+      "Solde non attribué",
+      "Non disponibilité",
+      "Perte de volume data",
+      "Perte de bonus data",
+      "Appel vers short code",
+      "Appels émission et réception",
+      "Perte de crédits",
+      "Réception appels",
+      "Perte de bonus"
+    ],
+    "intents_associes": [
+      "debit_lent",
+      "internet_panne",
+      "probleme_modem",
+      "paiement_facture",
+      "autre",
+      "installation_fibre",
+      "resiliation"
+    ],
+    "problemes_frequents": [
+      "chute de débit",
+      "déconnexion fréquente",
+      "pas d'internet",
+      "problème de réception",
+      "paiement, solde ou bonus",
+      "accès au service refusé"
+    ],
+    "cas_usage": [
+      "orienter une demande entrante",
+      "faire le lien entre intention utilisateur et service métier",
+      "choisir quelle base interroger dans le RAG"
+    ],
+    "actions_selfcare": [
+      "faire préciser le service concerné",
+      "faire préciser le symptôme principal",
+      "diriger ensuite vers l'article ou la FAQ adaptés"
+    ],
+    "faq_associees": [
+      "faq_031",
+      "faq_032",
+      "faq_033",
+      "faq_034",
+      "faq_035",
+      "faq_036",
+      "faq_037",
+      "faq_038",
+      "faq_007",
+      "faq_008",
+      "faq_009",
+      "faq_025",
+      "faq_026",
+      "faq_027",
+      "faq_028",
+      "faq_029",
+      "faq_030",
+      "faq_001",
+      "faq_002",
+      "faq_003",
+      "faq_004",
+      "faq_005",
+      "faq_006",
+      "faq_901",
+      "faq_010",
+      "faq_011",
+      "faq_012",
+      "faq_013",
+      "faq_014",
+      "faq_015",
+      "faq_900",
+      "faq_905",
+      "faq_902",
+      "faq_903",
+      "faq_904",
+      "faq_906",
+      "faq_016",
+      "faq_017",
+      "faq_018",
+      "faq_019",
+      "faq_020",
+      "faq_021",
+      "faq_022",
+      "faq_023",
+      "faq_024"
+    ],
+    "articles_associes": [
+      "kb_001",
+      "kb_002",
+      "kb_003",
+      "kb_004",
+      "kb_005",
+      "kb_006",
+      "kb_007",
+      "kb_008",
+      "kb_009",
+      "kb_010",
+      "kb_011",
+      "kb_012",
+      "kb_013",
+      "kb_014",
+      "kb_015",
+      "kb_016",
+      "kb_017",
+      "kb_018",
+      "kb_019",
+      "kb_020",
+      "kb_021",
+      "kb_022",
+      "kb_023",
+      "kb_024",
+      "kb_025",
+      "kb_026",
+      "kb_027",
+      "kb_028",
+      "kb_029",
+      "kb_030",
+      "kb_031",
+      "kb_032",
+      "kb_033",
+      "kb_034",
+      "kb_035",
+      "kb_036",
+      "kb_037",
+      "kb_038"
+    ],
+    "resume_support": {
+      "nb_services": 4,
+      "nb_articles": 38,
+      "nb_faq": 45,
+      "nb_categories": 2,
+      "nb_sous_categories": 33
+    },
+    "mots_cles": [
+      "ADSL",
+      "4G",
+      "FTTx",
+      "Téléphonie",
+      "orientation",
+      "routage",
+      "support"
+    ],
+    "limites_connues": [
+      "ne remplace pas les fiches service détaillées",
+      "ne contient pas à elle seule les procédures de traitement"
+    ],
+    "informations_a_completer": [
+      "règles officielles de routage",
+      "priorisation métier",
+      "matrice de transfert par service et type de demande"
+    ],
+    "statut": "brouillon_a_valider"
+  }
+]

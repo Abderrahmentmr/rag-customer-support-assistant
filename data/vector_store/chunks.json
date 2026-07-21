@@ -1,0 +1,1910 @@
+[
+  {
+    "id": 0,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_001",
+    "title": "ADSL - Chute de débit",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_001\nTitre: ADSL - Chute de débit\nService: ADSL\nCatégorie: Technique\nSous-catégorie: Chute de débit\nIntent possible: debit_lent\nDescription: Article de connaissance pour le traitement du cas « Chute de débit » sur le service ADSL (technique).\nSymptômes: connexion lente | pages qui chargent lentement | vidéos ou appels qui se coupent\nCauses possibles: saturation temporaire | signal ou ligne instable | équipement dégradé | usage simultané important\nVérification client: vérifier l'alimentation du modem | contrôler le câble téléphonique/DSL et le filtre | redémarrer le modem puis attendre 3 à 5 minutes | tester l'accès avec un seul appareil | faire un test de débit si possible\nAction agent: vérifier l'environnement de connexion, confirmer le type d'usage et"
+  },
+  {
+    "id": 1,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_001",
+    "title": "ADSL - Chute de débit",
+    "chunk_index": 1,
+    "text": "| faire un test de débit si possible\nAction agent: vérifier l'environnement de connexion, confirmer le type d'usage et proposer un test de débit.\nRéponse agent: Je comprends votre demande concernant « Chute de débit » pour le service ADSL. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket technique ADSL si le défaut persiste après vérification du modem et de la ligne.\nMots-clés: ADSL | Technique | Chute de débit | connexion lente | pages qui chargent lentement | vidéos ou appels qui se coupent | debit_lent\nExemples de requêtes utilisateur: pouvez-vous m'aider internet est lent depuis plus"
+  },
+  {
+    "id": 2,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_001",
+    "title": "ADSL - Chute de débit",
+    "chunk_index": 2,
+    "text": "u appels qui se coupent | debit_lent\nExemples de requêtes utilisateur: pouvez-vous m'aider internet est lent depuis plusieurs jours | internet est lent depuis ce matin | bonjour internet est lent depuis ce matin\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 3,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_002",
+    "title": "ADSL - Déconnexion fréquente",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_002\nTitre: ADSL - Déconnexion fréquente\nService: ADSL\nCatégorie: Technique\nSous-catégorie: Déconnexion fréquente\nIntent possible: internet_panne\nDescription: Article de connaissance pour le traitement du cas « Déconnexion fréquente » sur le service ADSL (technique).\nSymptômes: coupures répétées | connexion qui revient puis repart | service instable\nCauses possibles: couverture ou synchronisation instable | incident réseau | câble ou branchement défectueux | modem/routeur instable\nVérification client: vérifier l'alimentation du modem | contrôler le câble téléphonique/DSL et le filtre | redémarrer le modem puis attendre 3 à 5 minutes | tester l'accès avec un seul appareil | noter la fréquence des coupures et les horaires\nAction agent: qualifier la fréquen"
+  },
+  {
+    "id": 4,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_002",
+    "title": "ADSL - Déconnexion fréquente",
+    "chunk_index": 1,
+    "text": "ester l'accès avec un seul appareil | noter la fréquence des coupures et les horaires\nAction agent: qualifier la fréquence des coupures et vérifier s'il existe un incident collectif.\nRéponse agent: Je comprends votre demande concernant « Déconnexion fréquente » pour le service ADSL. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket technique ADSL si le défaut persiste après vérification du modem et de la ligne.\nMots-clés: ADSL | Technique | Déconnexion fréquente | coupures répétées | connexion qui revient puis repart | service instable | internet_panne\nExemples de requêtes utilisateur: pou"
+  },
+  {
+    "id": 5,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_002",
+    "title": "ADSL - Déconnexion fréquente",
+    "chunk_index": 2,
+    "text": "s répétées | connexion qui revient puis repart | service instable | internet_panne\nExemples de requêtes utilisateur: pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours | je n'ai plus internet depuis plusieurs jours | je n'ai plus internet dans mon quartier\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 6,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_003",
+    "title": "ADSL - Erreur 651/678",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_003\nTitre: ADSL - Erreur 651/678\nService: ADSL\nCatégorie: Technique\nSous-catégorie: Erreur 651/678\nIntent possible: probleme_modem\nDescription: Article de connaissance pour le traitement du cas « Erreur 651/678 » sur le service ADSL (technique).\nSymptômes: erreur 651/678\nCauses possibles: incident réseau local | configuration ou paramétrage incorrect | équipement ou ligne dégradé(e)\nVérification client: vérifier l'alimentation du modem | contrôler le câble téléphonique/DSL et le filtre | redémarrer le modem puis attendre 3 à 5 minutes | tester l'accès avec un seul appareil\nAction agent: guider le client dans les vérifications de premier niveau puis qualifier le dossier.\nRéponse agent: Je comprends votre demande concernant « Erreur 651/678 » pour le serv"
+  },
+  {
+    "id": 7,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_003",
+    "title": "ADSL - Erreur 651/678",
+    "chunk_index": 1,
+    "text": "r niveau puis qualifier le dossier.\nRéponse agent: Je comprends votre demande concernant « Erreur 651/678 » pour le service ADSL. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket technique ADSL si le défaut persiste après vérification du modem et de la ligne.\nMots-clés: ADSL | Technique | Erreur 651/678 | erreur 651/678 | probleme_modem\nExemples de requêtes utilisateur: j'ai un souci le modem ne fonctionne pas depuis plusieurs jours | le modem ne fonctionne pas depuis hier | le modem ne fonctionne pas\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 8,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_004",
+    "title": "ADSL - Erreur 691 solde positive",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_004\nTitre: ADSL - Erreur 691 solde positive\nService: ADSL\nCatégorie: Technique\nSous-catégorie: Erreur 691 solde positive\nIntent possible: paiement_facture\nDescription: Article de connaissance pour le traitement du cas « Erreur 691 solde positive » sur le service ADSL (technique).\nSymptômes: message erreur 691 | accès refusé malgré un solde positif\nCauses possibles: identifiants PPP incorrects | profil non mis à jour | incident d'authentification\nVérification client: vérifier l'alimentation du modem | contrôler le câble téléphonique/DSL et le filtre | redémarrer le modem puis attendre 3 à 5 minutes | tester l'accès avec un seul appareil | confirmer l'état du solde et les identifiants saisis\nAction agent: vérifier l'authentification et la cohérence entre"
+  },
+  {
+    "id": 9,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_004",
+    "title": "ADSL - Erreur 691 solde positive",
+    "chunk_index": 1,
+    "text": "| confirmer l'état du solde et les identifiants saisis\nAction agent: vérifier l'authentification et la cohérence entre solde, profil et accès.\nRéponse agent: Je comprends votre demande concernant « Erreur 691 solde positive » pour le service ADSL. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket technique ADSL si le défaut persiste après vérification du modem et de la ligne.\nMots-clés: ADSL | Technique | Erreur 691 solde positive | message erreur 691 | accès refusé malgré un solde positif | paiement_facture\nExemples de requêtes utilisateur: je veux payer ma facture depuis hier | pouvez-v"
+  },
+  {
+    "id": 10,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_004",
+    "title": "ADSL - Erreur 691 solde positive",
+    "chunk_index": 2,
+    "text": "ré un solde positif | paiement_facture\nExemples de requêtes utilisateur: je veux payer ma facture depuis hier | pouvez-vous m'aider je veux payer ma facture | s'il vous plaît je veux payer ma facture\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 11,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_005",
+    "title": "ADSL - Impossible d'afficher les pages",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_005\nTitre: ADSL - Impossible d'afficher les pages\nService: ADSL\nCatégorie: Technique\nSous-catégorie: Impossible d'afficher les pages\nIntent possible: internet_panne\nDescription: Article de connaissance pour le traitement du cas « Impossible d'afficher les pages » sur le service ADSL (technique).\nSymptômes: ouverture du navigateur impossible | certaines pages ne s'affichent pas | service partiellement accessible\nCauses possibles: problème DNS | connexion partielle | navigateur ou appareil | coupure intermittente\nVérification client: vérifier l'alimentation du modem | contrôler le câble téléphonique/DSL et le filtre | redémarrer le modem puis attendre 3 à 5 minutes | tester l'accès avec un seul appareil | tester l'accès à plusieurs sites différents\nAction"
+  },
+  {
+    "id": 12,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_005",
+    "title": "ADSL - Impossible d'afficher les pages",
+    "chunk_index": 1,
+    "text": "puis attendre 3 à 5 minutes | tester l'accès avec un seul appareil | tester l'accès à plusieurs sites différents\nAction agent: distinguer un problème internet général d'un problème de navigation ou DNS.\nRéponse agent: Je comprends votre demande concernant « Impossible d'afficher les pages » pour le service ADSL. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket technique ADSL si le défaut persiste après vérification du modem et de la ligne.\nMots-clés: ADSL | Technique | Impossible d'afficher les pages | ouverture du navigateur impossible | certaines pages ne s'affichent pas | service part"
+  },
+  {
+    "id": 13,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_005",
+    "title": "ADSL - Impossible d'afficher les pages",
+    "chunk_index": 2,
+    "text": "Impossible d'afficher les pages | ouverture du navigateur impossible | certaines pages ne s'affichent pas | service partiellement accessible | internet_panne\nExemples de requêtes utilisateur: pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours | je n'ai plus internet depuis plusieurs jours | je n'ai plus internet dans mon quartier\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 14,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_006",
+    "title": "ADSL - Link instable",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_006\nTitre: ADSL - Link instable\nService: ADSL\nCatégorie: Technique\nSous-catégorie: Link instable\nIntent possible: internet_panne\nDescription: Article de connaissance pour le traitement du cas « Link instable » sur le service ADSL (technique).\nSymptômes: coupures répétées | connexion qui revient puis repart | service instable\nCauses possibles: couverture ou synchronisation instable | incident réseau | câble ou branchement défectueux | modem/routeur instable\nVérification client: vérifier l'alimentation du modem | contrôler le câble téléphonique/DSL et le filtre | redémarrer le modem puis attendre 3 à 5 minutes | tester l'accès avec un seul appareil | noter la fréquence des coupures et les horaires\nAction agent: qualifier la fréquence des coupures et vérif"
+  },
+  {
+    "id": 15,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_006",
+    "title": "ADSL - Link instable",
+    "chunk_index": 1,
+    "text": "ul appareil | noter la fréquence des coupures et les horaires\nAction agent: qualifier la fréquence des coupures et vérifier s'il existe un incident collectif.\nRéponse agent: Je comprends votre demande concernant « Link instable » pour le service ADSL. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket technique ADSL si le défaut persiste après vérification du modem et de la ligne.\nMots-clés: ADSL | Technique | Link instable | coupures répétées | connexion qui revient puis repart | service instable | internet_panne\nExemples de requêtes utilisateur: pouvez-vous m'aider je n'ai plus internet d"
+  },
+  {
+    "id": 16,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_006",
+    "title": "ADSL - Link instable",
+    "chunk_index": 2,
+    "text": "repart | service instable | internet_panne\nExemples de requêtes utilisateur: pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours | je n'ai plus internet depuis plusieurs jours | je n'ai plus internet dans mon quartier\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 17,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_007",
+    "title": "4G - Chute de débit",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_007\nTitre: 4G - Chute de débit\nService: 4G\nCatégorie: Technique\nSous-catégorie: Chute de débit\nIntent possible: debit_lent\nDescription: Article de connaissance pour le traitement du cas « Chute de débit » sur le service 4G (technique).\nSymptômes: connexion lente | pages qui chargent lentement | vidéos ou appels qui se coupent\nCauses possibles: saturation temporaire | signal ou ligne instable | équipement dégradé | usage simultané important\nVérification client: redémarrer le routeur ou le téléphone | vérifier la couverture et le niveau du signal | tester dans une autre pièce ou à l'extérieur | contrôler le volume data disponible | faire un test de débit si possible\nAction agent: vérifier l'environnement de connexion, confirmer le type d'usage et proposer"
+  },
+  {
+    "id": 18,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_007",
+    "title": "4G - Chute de débit",
+    "chunk_index": 1,
+    "text": "un test de débit si possible\nAction agent: vérifier l'environnement de connexion, confirmer le type d'usage et proposer un test de débit.\nRéponse agent: Je comprends votre demande concernant « Chute de débit » pour le service 4G. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket réseau/mobile si le défaut persiste après vérification du signal et du volume.\nMots-clés: 4G | Technique | Chute de débit | connexion lente | pages qui chargent lentement | vidéos ou appels qui se coupent | debit_lent\nExemples de requêtes utilisateur: pouvez-vous m'aider internet est lent depuis plusieurs jours |"
+  },
+  {
+    "id": 19,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_007",
+    "title": "4G - Chute de débit",
+    "chunk_index": 2,
+    "text": "e coupent | debit_lent\nExemples de requêtes utilisateur: pouvez-vous m'aider internet est lent depuis plusieurs jours | internet est lent depuis ce matin | bonjour internet est lent depuis ce matin\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 20,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_008",
+    "title": "4G - Couverture réseau",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_008\nTitre: 4G - Couverture réseau\nService: 4G\nCatégorie: Technique\nSous-catégorie: Couverture réseau\nIntent possible: autre\nDescription: Article de connaissance pour le traitement du cas « Couverture réseau » sur le service 4G (technique).\nSymptômes: aucun signal | barres réseau faibles ou absentes | impossibilité de se connecter\nCauses possibles: zone faiblement couverte | incident radio | obstacle ou localisation défavorable | équipement ou SIM\nVérification client: redémarrer le routeur ou le téléphone | vérifier la couverture et le niveau du signal | tester dans une autre pièce ou à l'extérieur | contrôler le volume data disponible | tester dans une autre zone ou avec un autre appareil si possible\nAction agent: qualifier la couverture, la zone concer"
+  },
+  {
+    "id": 21,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_008",
+    "title": "4G - Couverture réseau",
+    "chunk_index": 1,
+    "text": "| tester dans une autre zone ou avec un autre appareil si possible\nAction agent: qualifier la couverture, la zone concernée et l'équipement utilisé.\nRéponse agent: Je comprends votre demande concernant « Couverture réseau » pour le service 4G. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket réseau/mobile si le défaut persiste après vérification du signal et du volume.\nMots-clés: 4G | Technique | Couverture réseau | aucun signal | barres réseau faibles ou absentes | impossibilité de se connecter | autre\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 22,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_009",
+    "title": "4G - Déconnexion fréquente",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_009\nTitre: 4G - Déconnexion fréquente\nService: 4G\nCatégorie: Technique\nSous-catégorie: Déconnexion fréquente\nIntent possible: internet_panne\nDescription: Article de connaissance pour le traitement du cas « Déconnexion fréquente » sur le service 4G (technique).\nSymptômes: coupures répétées | connexion qui revient puis repart | service instable\nCauses possibles: couverture ou synchronisation instable | incident réseau | câble ou branchement défectueux | modem/routeur instable\nVérification client: redémarrer le routeur ou le téléphone | vérifier la couverture et le niveau du signal | tester dans une autre pièce ou à l'extérieur | contrôler le volume data disponible | noter la fréquence des coupures et les horaires\nAction agent: qualifier la fréquence des c"
+  },
+  {
+    "id": 23,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_009",
+    "title": "4G - Déconnexion fréquente",
+    "chunk_index": 1,
+    "text": "r le volume data disponible | noter la fréquence des coupures et les horaires\nAction agent: qualifier la fréquence des coupures et vérifier s'il existe un incident collectif.\nRéponse agent: Je comprends votre demande concernant « Déconnexion fréquente » pour le service 4G. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket réseau/mobile si le défaut persiste après vérification du signal et du volume.\nMots-clés: 4G | Technique | Déconnexion fréquente | coupures répétées | connexion qui revient puis repart | service instable | internet_panne\nExemples de requêtes utilisateur: pouvez-vous m'aid"
+  },
+  {
+    "id": 24,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_009",
+    "title": "4G - Déconnexion fréquente",
+    "chunk_index": 2,
+    "text": "onnexion qui revient puis repart | service instable | internet_panne\nExemples de requêtes utilisateur: pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours | je n'ai plus internet depuis plusieurs jours | je n'ai plus internet dans mon quartier\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 25,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_010",
+    "title": "FTTx - Chute de débit",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_010\nTitre: FTTx - Chute de débit\nService: FTTx\nCatégorie: Technique\nSous-catégorie: Chute de débit\nIntent possible: debit_lent\nDescription: Article de connaissance pour le traitement du cas « Chute de débit » sur le service FTTx (technique).\nSymptômes: connexion lente | pages qui chargent lentement | vidéos ou appels qui se coupent\nCauses possibles: saturation temporaire | signal ou ligne instable | équipement dégradé | usage simultané important\nVérification client: vérifier l'alimentation de l'ONT/modem | contrôler les câbles optiques/ethernet sans les forcer | redémarrer l'équipement puis attendre 3 à 5 minutes | tester l'accès avec un seul appareil | faire un test de débit si possible\nAction agent: vérifier l'environnement de connexion, confirmer le"
+  },
+  {
+    "id": 26,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_010",
+    "title": "FTTx - Chute de débit",
+    "chunk_index": 1,
+    "text": "un seul appareil | faire un test de débit si possible\nAction agent: vérifier l'environnement de connexion, confirmer le type d'usage et proposer un test de débit.\nRéponse agent: Je comprends votre demande concernant « Chute de débit » pour le service FTTx. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket technique fibre si le défaut persiste après vérification de l'ONT/modem.\nMots-clés: FTTx | Technique | Chute de débit | connexion lente | pages qui chargent lentement | vidéos ou appels qui se coupent | debit_lent\nExemples de requêtes utilisateur: pouvez-vous m'aider internet est lent dep"
+  },
+  {
+    "id": 27,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_010",
+    "title": "FTTx - Chute de débit",
+    "chunk_index": 2,
+    "text": "vidéos ou appels qui se coupent | debit_lent\nExemples de requêtes utilisateur: pouvez-vous m'aider internet est lent depuis plusieurs jours | internet est lent depuis ce matin | bonjour internet est lent depuis ce matin\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 28,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_011",
+    "title": "FTTx - Déconnexion fréquente",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_011\nTitre: FTTx - Déconnexion fréquente\nService: FTTx\nCatégorie: Technique\nSous-catégorie: Déconnexion fréquente\nIntent possible: internet_panne\nDescription: Article de connaissance pour le traitement du cas « Déconnexion fréquente » sur le service FTTx (technique).\nSymptômes: coupures répétées | connexion qui revient puis repart | service instable\nCauses possibles: couverture ou synchronisation instable | incident réseau | câble ou branchement défectueux | modem/routeur instable\nVérification client: vérifier l'alimentation de l'ONT/modem | contrôler les câbles optiques/ethernet sans les forcer | redémarrer l'équipement puis attendre 3 à 5 minutes | tester l'accès avec un seul appareil | noter la fréquence des coupures et les horaires\nAction agent: qual"
+  },
+  {
+    "id": 29,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_011",
+    "title": "FTTx - Déconnexion fréquente",
+    "chunk_index": 1,
+    "text": "à 5 minutes | tester l'accès avec un seul appareil | noter la fréquence des coupures et les horaires\nAction agent: qualifier la fréquence des coupures et vérifier s'il existe un incident collectif.\nRéponse agent: Je comprends votre demande concernant « Déconnexion fréquente » pour le service FTTx. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket technique fibre si le défaut persiste après vérification de l'ONT/modem.\nMots-clés: FTTx | Technique | Déconnexion fréquente | coupures répétées | connexion qui revient puis repart | service instable | internet_panne\nExemples de requêtes utilisat"
+  },
+  {
+    "id": 30,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_011",
+    "title": "FTTx - Déconnexion fréquente",
+    "chunk_index": 2,
+    "text": "coupures répétées | connexion qui revient puis repart | service instable | internet_panne\nExemples de requêtes utilisateur: pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours | je n'ai plus internet depuis plusieurs jours | je n'ai plus internet dans mon quartier\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 31,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_012",
+    "title": "FTTx - Impossible d'afficher les pages",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_012\nTitre: FTTx - Impossible d'afficher les pages\nService: FTTx\nCatégorie: Technique\nSous-catégorie: Impossible d'afficher les pages\nIntent possible: internet_panne\nDescription: Article de connaissance pour le traitement du cas « Impossible d'afficher les pages » sur le service FTTx (technique).\nSymptômes: ouverture du navigateur impossible | certaines pages ne s'affichent pas | service partiellement accessible\nCauses possibles: problème DNS | connexion partielle | navigateur ou appareil | coupure intermittente\nVérification client: vérifier l'alimentation de l'ONT/modem | contrôler les câbles optiques/ethernet sans les forcer | redémarrer l'équipement puis attendre 3 à 5 minutes | tester l'accès avec un seul appareil | tester l'accès à plusieurs sites d"
+  },
+  {
+    "id": 32,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_012",
+    "title": "FTTx - Impossible d'afficher les pages",
+    "chunk_index": 1,
+    "text": "rer l'équipement puis attendre 3 à 5 minutes | tester l'accès avec un seul appareil | tester l'accès à plusieurs sites différents\nAction agent: distinguer un problème internet général d'un problème de navigation ou DNS.\nRéponse agent: Je comprends votre demande concernant « Impossible d'afficher les pages » pour le service FTTx. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket technique fibre si le défaut persiste après vérification de l'ONT/modem.\nMots-clés: FTTx | Technique | Impossible d'afficher les pages | ouverture du navigateur impossible | certaines pages ne s'affichent pas | serv"
+  },
+  {
+    "id": 33,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_012",
+    "title": "FTTx - Impossible d'afficher les pages",
+    "chunk_index": 2,
+    "text": "nique | Impossible d'afficher les pages | ouverture du navigateur impossible | certaines pages ne s'affichent pas | service partiellement accessible | internet_panne\nExemples de requêtes utilisateur: pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours | je n'ai plus internet depuis plusieurs jours | je n'ai plus internet dans mon quartier\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 34,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_013",
+    "title": "FTTx - Pas d'internet",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_013\nTitre: FTTx - Pas d'internet\nService: FTTx\nCatégorie: Technique\nSous-catégorie: Pas d'internet\nIntent possible: internet_panne\nDescription: Article de connaissance pour le traitement du cas « Pas d'internet » sur le service FTTx (technique).\nSymptômes: aucune connexion | voyant internet éteint ou rouge | aucun accès au web\nCauses possibles: incident réseau | câble débranché | ONT/modem mal synchronisé | panne locale\nVérification client: vérifier l'alimentation de l'ONT/modem | contrôler les câbles optiques/ethernet sans les forcer | redémarrer l'équipement puis attendre 3 à 5 minutes | tester l'accès avec un seul appareil\nAction agent: vérifier les voyants, le branchement et l'existence d'un incident collectif.\nRéponse agent: Je comprends votre dema"
+  },
+  {
+    "id": 35,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_013",
+    "title": "FTTx - Pas d'internet",
+    "chunk_index": 1,
+    "text": "ent: vérifier les voyants, le branchement et l'existence d'un incident collectif.\nRéponse agent: Je comprends votre demande concernant « Pas d'internet » pour le service FTTx. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket technique fibre si le défaut persiste après vérification de l'ONT/modem.\nMots-clés: FTTx | Technique | Pas d'internet | aucune connexion | voyant internet éteint ou rouge | aucun accès au web | internet_panne\nExemples de requêtes utilisateur: pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours | je n'ai plus internet depuis plusieurs jours | je n'ai plus"
+  },
+  {
+    "id": 36,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_013",
+    "title": "FTTx - Pas d'internet",
+    "chunk_index": 2,
+    "text": "vous m'aider je n'ai plus internet depuis plusieurs jours | je n'ai plus internet depuis plusieurs jours | je n'ai plus internet dans mon quartier\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 37,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_014",
+    "title": "FTTx - Pas de signal réseau",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_014\nTitre: FTTx - Pas de signal réseau\nService: FTTx\nCatégorie: Technique\nSous-catégorie: Pas de signal réseau\nIntent possible: installation_fibre\nDescription: Article de connaissance pour le traitement du cas « Pas de signal réseau » sur le service FTTx (technique).\nSymptômes: aucun signal | barres réseau faibles ou absentes | impossibilité de se connecter\nCauses possibles: zone faiblement couverte | incident radio | obstacle ou localisation défavorable | équipement ou SIM\nVérification client: vérifier l'alimentation de l'ONT/modem | contrôler les câbles optiques/ethernet sans les forcer | redémarrer l'équipement puis attendre 3 à 5 minutes | tester l'accès avec un seul appareil | tester dans une autre zone ou avec un autre appareil si possible\nAction"
+  },
+  {
+    "id": 38,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_014",
+    "title": "FTTx - Pas de signal réseau",
+    "chunk_index": 1,
+    "text": "inutes | tester l'accès avec un seul appareil | tester dans une autre zone ou avec un autre appareil si possible\nAction agent: qualifier la couverture, la zone concernée et l'équipement utilisé.\nRéponse agent: Je comprends votre demande concernant « Pas de signal réseau » pour le service FTTx. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket technique fibre si le défaut persiste après vérification de l'ONT/modem.\nMots-clés: FTTx | Technique | Pas de signal réseau | aucun signal | barres réseau faibles ou absentes | impossibilité de se connecter | installation_fibre\nExemples de requêtes ut"
+  },
+  {
+    "id": 39,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_014",
+    "title": "FTTx - Pas de signal réseau",
+    "chunk_index": 2,
+    "text": "signal | barres réseau faibles ou absentes | impossibilité de se connecter | installation_fibre\nExemples de requêtes utilisateur: pouvez-vous m'aider je veux installer la fibre depuis hier | merci de vérifier je veux installer la fibre dans mon quartier | je veux installer la fibre\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 40,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_015",
+    "title": "FTTx - Signal réseau instable",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_015\nTitre: FTTx - Signal réseau instable\nService: FTTx\nCatégorie: Technique\nSous-catégorie: Signal réseau instable\nIntent possible: internet_panne\nDescription: Article de connaissance pour le traitement du cas « Signal réseau instable » sur le service FTTx (technique).\nSymptômes: coupures répétées | connexion qui revient puis repart | service instable\nCauses possibles: couverture ou synchronisation instable | incident réseau | câble ou branchement défectueux | modem/routeur instable\nVérification client: vérifier l'alimentation de l'ONT/modem | contrôler les câbles optiques/ethernet sans les forcer | redémarrer l'équipement puis attendre 3 à 5 minutes | tester l'accès avec un seul appareil | noter la fréquence des coupures et les horaires\nAction agent: q"
+  },
+  {
+    "id": 41,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_015",
+    "title": "FTTx - Signal réseau instable",
+    "chunk_index": 1,
+    "text": "e 3 à 5 minutes | tester l'accès avec un seul appareil | noter la fréquence des coupures et les horaires\nAction agent: qualifier la fréquence des coupures et vérifier s'il existe un incident collectif.\nRéponse agent: Je comprends votre demande concernant « Signal réseau instable » pour le service FTTx. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket technique fibre si le défaut persiste après vérification de l'ONT/modem.\nMots-clés: FTTx | Technique | Signal réseau instable | coupures répétées | connexion qui revient puis repart | service instable | internet_panne\nExemples de requêtes uti"
+  },
+  {
+    "id": 42,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_015",
+    "title": "FTTx - Signal réseau instable",
+    "chunk_index": 2,
+    "text": "ble | coupures répétées | connexion qui revient puis repart | service instable | internet_panne\nExemples de requêtes utilisateur: pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours | je n'ai plus internet depuis plusieurs jours | je n'ai plus internet dans mon quartier\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 43,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_016",
+    "title": "Téléphonie - Coupure de communication",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_016\nTitre: Téléphonie - Coupure de communication\nService: Téléphonie\nCatégorie: Technique\nSous-catégorie: Coupure de communication\nIntent possible: internet_panne\nDescription: Article de connaissance pour le traitement du cas « Coupure de communication » sur le service Téléphonie (technique).\nSymptômes: appel coupé en cours de conversation | communication interrompue | appel instable\nCauses possibles: qualité de ligne insuffisante | incident réseau | bruit ou perturbation sur la ligne\nVérification client: vérifier le branchement du téléphone | tester avec un autre combiné si possible | contrôler la présence de tonalité | confirmer si le problème concerne tous les appels ou certains numéros | demander si le problème touche tous les correspondants\nAction"
+  },
+  {
+    "id": 44,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_016",
+    "title": "Téléphonie - Coupure de communication",
+    "chunk_index": 1,
+    "text": "e problème concerne tous les appels ou certains numéros | demander si le problème touche tous les correspondants\nAction agent: qualifier la coupure et distinguer un problème local d'un incident réseau.\nRéponse agent: Je comprends votre demande concernant « Coupure de communication » pour le service Téléphonie. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket téléphonie si le défaut persiste après test du combiné et de la ligne.\nMots-clés: Téléphonie | Technique | Coupure de communication | appel coupé en cours de conversation | communication interrompue | appel instable | internet_panne\nE"
+  },
+  {
+    "id": 45,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_016",
+    "title": "Téléphonie - Coupure de communication",
+    "chunk_index": 2,
+    "text": "de communication | appel coupé en cours de conversation | communication interrompue | appel instable | internet_panne\nExemples de requêtes utilisateur: pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours | je n'ai plus internet depuis plusieurs jours | je n'ai plus internet dans mon quartier\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 46,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_017",
+    "title": "Téléphonie - Inversion de ligne",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_017\nTitre: Téléphonie - Inversion de ligne\nService: Téléphonie\nCatégorie: Technique\nSous-catégorie: Inversion de ligne\nIntent possible: autre\nDescription: Article de connaissance pour le traitement du cas « Inversion de ligne » sur le service Téléphonie (technique).\nSymptômes: appels ou tonalité associés à une autre ligne | mauvais numéro ou mauvaise ligne\nCauses possibles: erreur de câblage | mauvaise affectation de ligne | incident d'infrastructure\nVérification client: vérifier le branchement du téléphone | tester avec un autre combiné si possible | contrôler la présence de tonalité | confirmer si le problème concerne tous les appels ou certains numéros | confirmer le numéro affecté et les symptômes exacts\nAction agent: recueillir le numéro concerné e"
+  },
+  {
+    "id": 47,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_017",
+    "title": "Téléphonie - Inversion de ligne",
+    "chunk_index": 1,
+    "text": "ou certains numéros | confirmer le numéro affecté et les symptômes exacts\nAction agent: recueillir le numéro concerné et remonter en priorité car il s'agit d'un défaut de ligne.\nRéponse agent: Je comprends votre demande concernant « Inversion de ligne » pour le service Téléphonie. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket téléphonie si le défaut persiste après test du combiné et de la ligne.\nMots-clés: Téléphonie | Technique | Inversion de ligne | appels ou tonalité associés à une autre ligne | mauvais numéro ou mauvaise ligne | autre\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 48,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_018",
+    "title": "Téléphonie - Mauvaise audition et friture",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_018\nTitre: Téléphonie - Mauvaise audition et friture\nService: Téléphonie\nCatégorie: Technique\nSous-catégorie: Mauvaise audition et friture\nIntent possible: autre\nDescription: Article de connaissance pour le traitement du cas « Mauvaise audition et friture » sur le service Téléphonie (technique).\nSymptômes: parasites | grésillement | mauvaise qualité audio\nCauses possibles: ligne bruitée | combiné défectueux | branchement interne | incident sur la boucle locale\nVérification client: vérifier le branchement du téléphone | tester avec un autre combiné si possible | contrôler la présence de tonalité | confirmer si le problème concerne tous les appels ou certains numéros | tester avec un autre téléphone si possible\nAction agent: isoler l'origine du bruit : co"
+  },
+  {
+    "id": 49,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_018",
+    "title": "Téléphonie - Mauvaise audition et friture",
+    "chunk_index": 1,
+    "text": "les appels ou certains numéros | tester avec un autre téléphone si possible\nAction agent: isoler l'origine du bruit : combiné, câblage interne ou ligne réseau.\nRéponse agent: Je comprends votre demande concernant « Mauvaise audition et friture » pour le service Téléphonie. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket téléphonie si le défaut persiste après test du combiné et de la ligne.\nMots-clés: Téléphonie | Technique | Mauvaise audition et friture | parasites | grésillement | mauvaise qualité audio | autre\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 50,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_019",
+    "title": "Téléphonie - Pas de tonalité téléphone",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_019\nTitre: Téléphonie - Pas de tonalité téléphone\nService: Téléphonie\nCatégorie: Technique\nSous-catégorie: Pas de tonalité téléphone\nIntent possible: internet_panne\nDescription: Article de connaissance pour le traitement du cas « Pas de tonalité téléphone » sur le service Téléphonie (technique).\nSymptômes: aucune tonalité | impossibilité d'émettre un appel | téléphone muet\nCauses possibles: ligne inactive | câble débranché | panne de ligne | combiné défectueux\nVérification client: vérifier le branchement du téléphone | tester avec un autre combiné si possible | contrôler la présence de tonalité | confirmer si le problème concerne tous les appels ou certains numéros\nAction agent: vérifier la présence de tonalité et l'état de la ligne avant création d'inc"
+  },
+  {
+    "id": 51,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_019",
+    "title": "Téléphonie - Pas de tonalité téléphone",
+    "chunk_index": 1,
+    "text": "les appels ou certains numéros\nAction agent: vérifier la présence de tonalité et l'état de la ligne avant création d'incident.\nRéponse agent: Je comprends votre demande concernant « Pas de tonalité téléphone » pour le service Téléphonie. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket téléphonie si le défaut persiste après test du combiné et de la ligne.\nMots-clés: Téléphonie | Technique | Pas de tonalité téléphone | aucune tonalité | impossibilité d'émettre un appel | téléphone muet | internet_panne\nExemples de requêtes utilisateur: pouvez-vous m'aider je n'ai plus internet depuis plusi"
+  },
+  {
+    "id": 52,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_019",
+    "title": "Téléphonie - Pas de tonalité téléphone",
+    "chunk_index": 2,
+    "text": "téléphone muet | internet_panne\nExemples de requêtes utilisateur: pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours | je n'ai plus internet depuis plusieurs jours | je n'ai plus internet dans mon quartier\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 53,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_020",
+    "title": "Téléphonie - Mélange de communication",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_020\nTitre: Téléphonie - Mélange de communication\nService: Téléphonie\nCatégorie: Technique\nSous-catégorie: Mélange de communication\nIntent possible: internet_panne\nDescription: Article de connaissance pour le traitement du cas « Mélange de communication » sur le service Téléphonie (technique).\nSymptômes: conversation d'un tiers entendue | interférences anormales | mélange de communications\nCauses possibles: défaut de ligne | problème de câblage | incident réseau\nVérification client: vérifier le branchement du téléphone | tester avec un autre combiné si possible | contrôler la présence de tonalité | confirmer si le problème concerne tous les appels ou certains numéros\nAction agent: remonter rapidement car le problème peut affecter la confidentialité et la"
+  },
+  {
+    "id": 54,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_020",
+    "title": "Téléphonie - Mélange de communication",
+    "chunk_index": 1,
+    "text": "les appels ou certains numéros\nAction agent: remonter rapidement car le problème peut affecter la confidentialité et la qualité du service.\nRéponse agent: Je comprends votre demande concernant « Mélange de communication » pour le service Téléphonie. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket téléphonie si le défaut persiste après test du combiné et de la ligne.\nMots-clés: Téléphonie | Technique | Mélange de communication | conversation d'un tiers entendue | interférences anormales | mélange de communications | internet_panne\nExemples de requêtes utilisateur: pouvez-vous m'aider je"
+  },
+  {
+    "id": 55,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_020",
+    "title": "Téléphonie - Mélange de communication",
+    "chunk_index": 2,
+    "text": "érences anormales | mélange de communications | internet_panne\nExemples de requêtes utilisateur: pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours | je n'ai plus internet depuis plusieurs jours | je n'ai plus internet dans mon quartier\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 56,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_021",
+    "title": "Téléphonie - Problème de réception",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_021\nTitre: Téléphonie - Problème de réception\nService: Téléphonie\nCatégorie: Technique\nSous-catégorie: Problème de réception\nIntent possible: internet_panne\nDescription: Article de connaissance pour le traitement du cas « Problème de réception » sur le service Téléphonie (technique).\nSymptômes: appels entrants non reçus | certains appels n'aboutissent pas | réception irrégulière\nCauses possibles: incident réseau | restriction ou configuration | défaut de ligne\nVérification client: vérifier le branchement du téléphone | tester avec un autre combiné si possible | contrôler la présence de tonalité | confirmer si le problème concerne tous les appels ou certains numéros | demander si tous les appelants sont concernés\nAction agent: qualifier la réception des"
+  },
+  {
+    "id": 57,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_021",
+    "title": "Téléphonie - Problème de réception",
+    "chunk_index": 1,
+    "text": "les appels ou certains numéros | demander si tous les appelants sont concernés\nAction agent: qualifier la réception des appels et vérifier si le problème est généralisé.\nRéponse agent: Je comprends votre demande concernant « Problème de réception » pour le service Téléphonie. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket téléphonie si le défaut persiste après test du combiné et de la ligne.\nMots-clés: Téléphonie | Technique | Problème de réception | appels entrants non reçus | certains appels n'aboutissent pas | réception irrégulière | internet_panne\nExemples de requêtes utilisateur: p"
+  },
+  {
+    "id": 58,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_021",
+    "title": "Téléphonie - Problème de réception",
+    "chunk_index": 2,
+    "text": "n reçus | certains appels n'aboutissent pas | réception irrégulière | internet_panne\nExemples de requêtes utilisateur: pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours | je n'ai plus internet depuis plusieurs jours | je n'ai plus internet dans mon quartier\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 59,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_022",
+    "title": "Téléphonie - Problème émission national",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_022\nTitre: Téléphonie - Problème émission national\nService: Téléphonie\nCatégorie: Technique\nSous-catégorie: Problème émission national\nIntent possible: autre\nDescription: Article de connaissance pour le traitement du cas « Problème émission national » sur le service Téléphonie (technique).\nSymptômes: impossibilité d'appeler des numéros nationaux | échec à l'émission nationale\nCauses possibles: restriction de service | configuration erronée | incident réseau\nVérification client: vérifier le branchement du téléphone | tester avec un autre combiné si possible | contrôler la présence de tonalité | confirmer si le problème concerne tous les appels ou certains numéros | tester plusieurs numéros nationaux\nAction agent: vérifier si l'incident concerne tous les"
+  },
+  {
+    "id": 60,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_022",
+    "title": "Téléphonie - Problème émission national",
+    "chunk_index": 1,
+    "text": "appels ou certains numéros | tester plusieurs numéros nationaux\nAction agent: vérifier si l'incident concerne tous les appels nationaux ou certains préfixes.\nRéponse agent: Je comprends votre demande concernant « Problème émission national » pour le service Téléphonie. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket téléphonie si le défaut persiste après test du combiné et de la ligne.\nMots-clés: Téléphonie | Technique | Problème émission national | impossibilité d'appeler des numéros nationaux | échec à l'émission nationale | autre\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 61,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_023",
+    "title": "Téléphonie - Problème émission international",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_023\nTitre: Téléphonie - Problème émission international\nService: Téléphonie\nCatégorie: Technique\nSous-catégorie: Problème émission international\nIntent possible: autre\nDescription: Article de connaissance pour le traitement du cas « Problème émission international » sur le service Téléphonie (technique).\nSymptômes: impossibilité d'appeler l'international | échec vers des destinations internationales\nCauses possibles: service international non activé | restriction commerciale | incident réseau\nVérification client: vérifier le branchement du téléphone | tester avec un autre combiné si possible | contrôler la présence de tonalité | confirmer si le problème concerne tous les appels ou certains numéros | confirmer si l'option internationale est active\nAction"
+  },
+  {
+    "id": 62,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_023",
+    "title": "Téléphonie - Problème émission international",
+    "chunk_index": 1,
+    "text": "mer si le problème concerne tous les appels ou certains numéros | confirmer si l'option internationale est active\nAction agent: vérifier l'éligibilité et l'activation du service international.\nRéponse agent: Je comprends votre demande concernant « Problème émission international » pour le service Téléphonie. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket téléphonie si le défaut persiste après test du combiné et de la ligne.\nMots-clés: Téléphonie | Technique | Problème émission international | impossibilité d'appeler l'international | échec vers des destinations internationales | autre\nS"
+  },
+  {
+    "id": 63,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_023",
+    "title": "Téléphonie - Problème émission international",
+    "chunk_index": 2,
+    "text": "émission international | impossibilité d'appeler l'international | échec vers des destinations internationales | autre\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 64,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_024",
+    "title": "Téléphonie - Problème émission numéros courts",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_024\nTitre: Téléphonie - Problème émission numéros courts\nService: Téléphonie\nCatégorie: Technique\nSous-catégorie: Problème émission numéros courts\nIntent possible: autre\nDescription: Article de connaissance pour le traitement du cas « Problème émission numéros courts » sur le service Téléphonie (technique).\nSymptômes: impossibilité d'appeler un numéro court | échec vers short code\nCauses possibles: restriction de service | numéro non accessible depuis l'offre | incident réseau\nVérification client: vérifier le branchement du téléphone | tester avec un autre combiné si possible | contrôler la présence de tonalité | confirmer si le problème concerne tous les appels ou certains numéros | tester plusieurs numéros courts si possible\nAction agent: qualifier le"
+  },
+  {
+    "id": 65,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_024",
+    "title": "Téléphonie - Problème émission numéros courts",
+    "chunk_index": 1,
+    "text": "me concerne tous les appels ou certains numéros | tester plusieurs numéros courts si possible\nAction agent: qualifier les numéros courts concernés et l'offre utilisée.\nRéponse agent: Je comprends votre demande concernant « Problème émission numéros courts » pour le service Téléphonie. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.\nEscalade: ouvrir un ticket téléphonie si le défaut persiste après test du combiné et de la ligne.\nMots-clés: Téléphonie | Technique | Problème émission numéros courts | impossibilité d'appeler un numéro court | échec vers short code | autre\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 66,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_025",
+    "title": "ADSL - Ajustement",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_025\nTitre: ADSL - Ajustement\nService: ADSL\nCatégorie: Commercial\nSous-catégorie: Ajustement\nIntent possible: autre\nDescription: Article de connaissance pour le traitement du cas « Ajustement » sur le service ADSL (commercial).\nSymptômes: écart sur la facturation | demande de correction commerciale\nCauses possibles: erreur de calcul | mise à jour non prise en compte | écart entre usage et facturation\nVérification client: vérifier le numéro de client/contrat | contrôler la période concernée | rassembler les éléments de facturation\nAction agent: documenter l'écart signalé et transmettre au traitement commercial si nécessaire.\nRéponse agent: Je comprends votre demande concernant « Ajustement » pour le service ADSL. Je vais d'abord vérifier les informations"
+  },
+  {
+    "id": 67,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_025",
+    "title": "ADSL - Ajustement",
+    "chunk_index": 1,
+    "text": "t: Je comprends votre demande concernant « Ajustement » pour le service ADSL. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.\nEscalade: transmettre au service commercial ADSL si une action sur l'offre ou la facturation est nécessaire.\nMots-clés: ADSL | Commercial | Ajustement | écart sur la facturation | demande de correction commerciale | autre\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 68,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_026",
+    "title": "ADSL - Changement de débit",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_026\nTitre: ADSL - Changement de débit\nService: ADSL\nCatégorie: Commercial\nSous-catégorie: Changement de débit\nIntent possible: debit_lent\nDescription: Article de connaissance pour le traitement du cas « Changement de débit » sur le service ADSL (commercial).\nSymptômes: demande d'augmentation ou diminution de débit | souhait de changement d'offre technique\nCauses possibles: besoin d'adaptation de l'offre | insatisfaction liée au débit actuel\nVérification client: vérifier l'offre actuelle | confirmer le débit souhaité | contrôler l'éligibilité technique\nAction agent: expliquer les options disponibles et vérifier la faisabilité avant toute demande commerciale.\nRéponse agent: Je comprends votre demande concernant « Changement de débit » pour le service ADSL"
+  },
+  {
+    "id": 69,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_026",
+    "title": "ADSL - Changement de débit",
+    "chunk_index": 1,
+    "text": "e demande commerciale.\nRéponse agent: Je comprends votre demande concernant « Changement de débit » pour le service ADSL. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.\nEscalade: transmettre au service commercial ADSL si une action sur l'offre ou la facturation est nécessaire.\nMots-clés: ADSL | Commercial | Changement de débit | demande d'augmentation ou diminution de débit | souhait de changement d'offre technique | debit_lent\nExemples de requêtes utilisateur: pouvez-vous m'aider internet est lent depuis plusieurs jours | internet est lent depuis ce matin | bonjour internet est lent depuis ce matin\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 70,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_027",
+    "title": "ADSL - Demande de compensation",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_027\nTitre: ADSL - Demande de compensation\nService: ADSL\nCatégorie: Commercial\nSous-catégorie: Demande de compensation\nIntent possible: autre\nDescription: Article de connaissance pour le traitement du cas « Demande de compensation » sur le service ADSL (commercial).\nSymptômes: réclamation commerciale | demande de geste ou compensation\nCauses possibles: incident prolongé | indisponibilité du service | insatisfaction client\nVérification client: vérifier la durée de l'incident | contrôler l'historique du dossier | collecter les justificatifs si nécessaires\nAction agent: documenter l'impact subi et orienter vers le traitement commercial.\nRéponse agent: Je comprends votre demande concernant « Demande de compensation » pour le service ADSL. Je vais d'abord vér"
+  },
+  {
+    "id": 71,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_027",
+    "title": "ADSL - Demande de compensation",
+    "chunk_index": 1,
+    "text": "ponse agent: Je comprends votre demande concernant « Demande de compensation » pour le service ADSL. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.\nEscalade: transmettre au service commercial ADSL si une action sur l'offre ou la facturation est nécessaire.\nMots-clés: ADSL | Commercial | Demande de compensation | réclamation commerciale | demande de geste ou compensation | autre\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 72,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_028",
+    "title": "ADSL - Omission activ/désactiv pause",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_028\nTitre: ADSL - Omission activ/désactiv pause\nService: ADSL\nCatégorie: Commercial\nSous-catégorie: Omission activ/désactiv pause\nIntent possible: autre\nDescription: Article de connaissance pour le traitement du cas « Omission activ/désactiv pause » sur le service ADSL (commercial).\nSymptômes: service pause non activé ou désactivé à tort | état de service incohérent\nCauses possibles: mise à jour non appliquée | erreur de traitement commercial | demande incomplète\nVérification client: vérifier la demande du client | contrôler le statut actuel du service | vérifier la date de prise en compte\nAction agent: vérifier le statut du service et corriger ou transmettre au service concerné.\nRéponse agent: Je comprends votre demande concernant « Omission activ/désa"
+  },
+  {
+    "id": 73,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_028",
+    "title": "ADSL - Omission activ/désactiv pause",
+    "chunk_index": 1,
+    "text": "corriger ou transmettre au service concerné.\nRéponse agent: Je comprends votre demande concernant « Omission activ/désactiv pause » pour le service ADSL. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.\nEscalade: transmettre au service commercial ADSL si une action sur l'offre ou la facturation est nécessaire.\nMots-clés: ADSL | Commercial | Omission activ/désactiv pause | service pause non activé ou désactivé à tort | état de service incohérent | autre\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 74,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_029",
+    "title": "ADSL - Accès au service refusé",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_029\nTitre: ADSL - Accès au service refusé\nService: ADSL\nCatégorie: Commercial\nSous-catégorie: Accès au service refusé\nIntent possible: resiliation\nDescription: Article de connaissance pour le traitement du cas « Accès au service refusé » sur le service ADSL (commercial).\nSymptômes: accès refusé | demande rejetée | service inaccessible malgré une demande\nCauses possibles: incomplétude du dossier | ineligibilité | restriction ou impayé | erreur de traitement\nVérification client: vérifier le statut du dossier | contrôler les conditions d'éligibilité | vérifier la situation du compte\nAction agent: expliquer le motif probable et orienter vers la régularisation si nécessaire.\nRéponse agent: Je comprends votre demande concernant « Accès au service refusé » pou"
+  },
+  {
+    "id": 75,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_029",
+    "title": "ADSL - Accès au service refusé",
+    "chunk_index": 1,
+    "text": "rs la régularisation si nécessaire.\nRéponse agent: Je comprends votre demande concernant « Accès au service refusé » pour le service ADSL. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.\nEscalade: transmettre au service commercial ADSL si une action sur l'offre ou la facturation est nécessaire.\nMots-clés: ADSL | Commercial | Accès au service refusé | accès refusé | demande rejetée | service inaccessible malgré une demande | resiliation\nExemples de requêtes utilisateur: s'il vous plaît je veux résilier mon abonnement depuis hier | je veux résilier mon abonnement dans mon quartier | merci de vérifier je veux résilier mon abonnement depuis ce matin"
+  },
+  {
+    "id": 76,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_029",
+    "title": "ADSL - Accès au service refusé",
+    "chunk_index": 2,
+    "text": "| je veux résilier mon abonnement dans mon quartier | merci de vérifier je veux résilier mon abonnement depuis ce matin\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 77,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_030",
+    "title": "ADSL - Solde non attribué",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_030\nTitre: ADSL - Solde non attribué\nService: ADSL\nCatégorie: Commercial\nSous-catégorie: Solde non attribué\nIntent possible: paiement_facture\nDescription: Article de connaissance pour le traitement du cas « Solde non attribué » sur le service ADSL (commercial).\nSymptômes: bonus, crédit ou volume non visible | solde attendu non crédité\nCauses possibles: mise à jour retardée | offre non éligible | consommation déjà déduite | anomalie commerciale\nVérification client: vérifier l'offre et la date de rechargement/bonus | contrôler le solde actuel | confirmer la période concernée\nAction agent: vérifier le cycle commercial et la bonne attribution du bonus ou du crédit.\nRéponse agent: Je comprends votre demande concernant « Solde non attribué » pour le service A"
+  },
+  {
+    "id": 78,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_030",
+    "title": "ADSL - Solde non attribué",
+    "chunk_index": 1,
+    "text": "ion du bonus ou du crédit.\nRéponse agent: Je comprends votre demande concernant « Solde non attribué » pour le service ADSL. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.\nEscalade: transmettre au service commercial ADSL si une action sur l'offre ou la facturation est nécessaire.\nMots-clés: ADSL | Commercial | Solde non attribué | bonus, crédit ou volume non visible | solde attendu non crédité | paiement_facture\nExemples de requêtes utilisateur: je veux payer ma facture depuis hier | pouvez-vous m'aider je veux payer ma facture | s'il vous plaît je veux payer ma facture\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 79,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_031",
+    "title": "4G - Non disponibilité",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_031\nTitre: 4G - Non disponibilité\nService: 4G\nCatégorie: Commercial\nSous-catégorie: Non disponibilité\nIntent possible: autre\nDescription: Article de connaissance pour le traitement du cas « Non disponibilité » sur le service 4G (commercial).\nSymptômes: service ou offre indisponible | demande non réalisable dans la zone\nCauses possibles: non couverture | rupture de stock ou indisponibilité locale | offre non encore déployée\nVérification client: vérifier la zone ou l'adresse | contrôler la disponibilité de l'offre | proposer une alternative si possible\nAction agent: informer le client sur la disponibilité réelle et les alternatives éventuelles.\nRéponse agent: Je comprends votre demande concernant « Non disponibilité » pour le service 4G. Je vais d'abord v"
+  },
+  {
+    "id": 80,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_031",
+    "title": "4G - Non disponibilité",
+    "chunk_index": 1,
+    "text": "uelles.\nRéponse agent: Je comprends votre demande concernant « Non disponibilité » pour le service 4G. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.\nEscalade: transmettre au service commercial mobile si une vérification sur bonus, crédit ou offre est nécessaire.\nMots-clés: 4G | Commercial | Non disponibilité | service ou offre indisponible | demande non réalisable dans la zone | autre\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 81,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_032",
+    "title": "4G - Perte de volume data",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_032\nTitre: 4G - Perte de volume data\nService: 4G\nCatégorie: Commercial\nSous-catégorie: Perte de volume data\nIntent possible: paiement_facture\nDescription: Article de connaissance pour le traitement du cas « Perte de volume data » sur le service 4G (commercial).\nSymptômes: bonus, crédit ou volume non visible | solde attendu non crédité\nCauses possibles: mise à jour retardée | offre non éligible | consommation déjà déduite | anomalie commerciale\nVérification client: vérifier l'offre et la date de rechargement/bonus | contrôler le solde actuel | confirmer la période concernée\nAction agent: vérifier le cycle commercial et la bonne attribution du bonus ou du crédit.\nRéponse agent: Je comprends votre demande concernant « Perte de volume data » pour le service"
+  },
+  {
+    "id": 82,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_032",
+    "title": "4G - Perte de volume data",
+    "chunk_index": 1,
+    "text": "ion du bonus ou du crédit.\nRéponse agent: Je comprends votre demande concernant « Perte de volume data » pour le service 4G. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.\nEscalade: transmettre au service commercial mobile si une vérification sur bonus, crédit ou offre est nécessaire.\nMots-clés: 4G | Commercial | Perte de volume data | bonus, crédit ou volume non visible | solde attendu non crédité | paiement_facture\nExemples de requêtes utilisateur: je veux payer ma facture depuis hier | pouvez-vous m'aider je veux payer ma facture | s'il vous plaît je veux payer ma facture\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 83,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_033",
+    "title": "4G - Perte de bonus data",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_033\nTitre: 4G - Perte de bonus data\nService: 4G\nCatégorie: Commercial\nSous-catégorie: Perte de bonus data\nIntent possible: paiement_facture\nDescription: Article de connaissance pour le traitement du cas « Perte de bonus data » sur le service 4G (commercial).\nSymptômes: bonus, crédit ou volume non visible | solde attendu non crédité\nCauses possibles: mise à jour retardée | offre non éligible | consommation déjà déduite | anomalie commerciale\nVérification client: vérifier l'offre et la date de rechargement/bonus | contrôler le solde actuel | confirmer la période concernée\nAction agent: vérifier le cycle commercial et la bonne attribution du bonus ou du crédit.\nRéponse agent: Je comprends votre demande concernant « Perte de bonus data » pour le service 4G."
+  },
+  {
+    "id": 84,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_033",
+    "title": "4G - Perte de bonus data",
+    "chunk_index": 1,
+    "text": "du bonus ou du crédit.\nRéponse agent: Je comprends votre demande concernant « Perte de bonus data » pour le service 4G. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.\nEscalade: transmettre au service commercial mobile si une vérification sur bonus, crédit ou offre est nécessaire.\nMots-clés: 4G | Commercial | Perte de bonus data | bonus, crédit ou volume non visible | solde attendu non crédité | paiement_facture\nExemples de requêtes utilisateur: je veux payer ma facture depuis hier | pouvez-vous m'aider je veux payer ma facture | s'il vous plaît je veux payer ma facture\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 85,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_034",
+    "title": "4G - Appel vers short code",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_034\nTitre: 4G - Appel vers short code\nService: 4G\nCatégorie: Commercial\nSous-catégorie: Appel vers short code\nIntent possible: autre\nDescription: Article de connaissance pour le traitement du cas « Appel vers short code » sur le service 4G (commercial).\nSymptômes: impossibilité d'appeler un numéro court | échec vers short code\nCauses possibles: restriction de service | numéro non accessible depuis l'offre | incident réseau\nVérification client: redémarrer le routeur ou le téléphone | vérifier la couverture et le niveau du signal | tester dans une autre pièce ou à l'extérieur | contrôler le volume data disponible | tester plusieurs numéros courts si possible\nAction agent: qualifier les numéros courts concernés et l'offre utilisée.\nRéponse agent: Je compre"
+  },
+  {
+    "id": 86,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_034",
+    "title": "4G - Appel vers short code",
+    "chunk_index": 1,
+    "text": "os courts si possible\nAction agent: qualifier les numéros courts concernés et l'offre utilisée.\nRéponse agent: Je comprends votre demande concernant « Appel vers short code » pour le service 4G. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.\nEscalade: transmettre au service commercial mobile si une vérification sur bonus, crédit ou offre est nécessaire.\nMots-clés: 4G | Commercial | Appel vers short code | impossibilité d'appeler un numéro court | échec vers short code | autre\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 87,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_035",
+    "title": "4G - Appels émission et réception",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_035\nTitre: 4G - Appels émission et réception\nService: 4G\nCatégorie: Commercial\nSous-catégorie: Appels émission et réception\nIntent possible: internet_panne\nDescription: Article de connaissance pour le traitement du cas « Appels émission et réception » sur le service 4G (commercial).\nSymptômes: problème global sur les appels entrants et sortants | émission et réception indisponibles\nCauses possibles: incident réseau | restriction de service | compte ou SIM non conforme\nVérification client: redémarrer le routeur ou le téléphone | vérifier la couverture et le niveau du signal | tester dans une autre pièce ou à l'extérieur | contrôler le volume data disponible | vérifier si les données mobiles fonctionnent\nAction agent: qualifier si le problème concerne seu"
+  },
+  {
+    "id": 88,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_035",
+    "title": "4G - Appels émission et réception",
+    "chunk_index": 1,
+    "text": "olume data disponible | vérifier si les données mobiles fonctionnent\nAction agent: qualifier si le problème concerne seulement la voix ou l'ensemble des services.\nRéponse agent: Je comprends votre demande concernant « Appels émission et réception » pour le service 4G. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.\nEscalade: transmettre au service commercial mobile si une vérification sur bonus, crédit ou offre est nécessaire.\nMots-clés: 4G | Commercial | Appels émission et réception | problème global sur les appels entrants et sortants | émission et réception indisponibles | internet_panne\nExemples de requêtes utilisateur: pouvez-vous m'aider j"
+  },
+  {
+    "id": 89,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_035",
+    "title": "4G - Appels émission et réception",
+    "chunk_index": 2,
+    "text": "sortants | émission et réception indisponibles | internet_panne\nExemples de requêtes utilisateur: pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours | je n'ai plus internet depuis plusieurs jours | je n'ai plus internet dans mon quartier\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 90,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_036",
+    "title": "4G - Perte de crédits",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_036\nTitre: 4G - Perte de crédits\nService: 4G\nCatégorie: Commercial\nSous-catégorie: Perte de crédits\nIntent possible: paiement_facture\nDescription: Article de connaissance pour le traitement du cas « Perte de crédits » sur le service 4G (commercial).\nSymptômes: bonus, crédit ou volume non visible | solde attendu non crédité\nCauses possibles: mise à jour retardée | offre non éligible | consommation déjà déduite | anomalie commerciale\nVérification client: vérifier l'offre et la date de rechargement/bonus | contrôler le solde actuel | confirmer la période concernée\nAction agent: vérifier le cycle commercial et la bonne attribution du bonus ou du crédit.\nRéponse agent: Je comprends votre demande concernant « Perte de crédits » pour le service 4G. Je vais d'a"
+  },
+  {
+    "id": 91,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_036",
+    "title": "4G - Perte de crédits",
+    "chunk_index": 1,
+    "text": "ou du crédit.\nRéponse agent: Je comprends votre demande concernant « Perte de crédits » pour le service 4G. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.\nEscalade: transmettre au service commercial mobile si une vérification sur bonus, crédit ou offre est nécessaire.\nMots-clés: 4G | Commercial | Perte de crédits | bonus, crédit ou volume non visible | solde attendu non crédité | paiement_facture\nExemples de requêtes utilisateur: je veux payer ma facture depuis hier | pouvez-vous m'aider je veux payer ma facture | s'il vous plaît je veux payer ma facture\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 92,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_037",
+    "title": "4G - Réception appels",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_037\nTitre: 4G - Réception appels\nService: 4G\nCatégorie: Commercial\nSous-catégorie: Réception appels\nIntent possible: internet_panne\nDescription: Article de connaissance pour le traitement du cas « Réception appels » sur le service 4G (commercial).\nSymptômes: appels entrants non reçus | certains appels n'aboutissent pas | réception irrégulière\nCauses possibles: incident réseau | restriction ou configuration | défaut de ligne\nVérification client: redémarrer le routeur ou le téléphone | vérifier la couverture et le niveau du signal | tester dans une autre pièce ou à l'extérieur | contrôler le volume data disponible | demander si tous les appelants sont concernés\nAction agent: qualifier la réception des appels et vérifier si le problème est généralisé.\nRépo"
+  },
+  {
+    "id": 93,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_037",
+    "title": "4G - Réception appels",
+    "chunk_index": 1,
+    "text": "appelants sont concernés\nAction agent: qualifier la réception des appels et vérifier si le problème est généralisé.\nRéponse agent: Je comprends votre demande concernant « Réception appels » pour le service 4G. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.\nEscalade: transmettre au service commercial mobile si une vérification sur bonus, crédit ou offre est nécessaire.\nMots-clés: 4G | Commercial | Réception appels | appels entrants non reçus | certains appels n'aboutissent pas | réception irrégulière | internet_panne\nExemples de requêtes utilisateur: pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours | je n'ai plus internet depuis"
+  },
+  {
+    "id": 94,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_037",
+    "title": "4G - Réception appels",
+    "chunk_index": 2,
+    "text": "e requêtes utilisateur: pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours | je n'ai plus internet depuis plusieurs jours | je n'ai plus internet dans mon quartier\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 95,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_038",
+    "title": "4G - Perte de bonus",
+    "chunk_index": 0,
+    "text": "Type: article de connaissance\nID: kb_038\nTitre: 4G - Perte de bonus\nService: 4G\nCatégorie: Commercial\nSous-catégorie: Perte de bonus\nIntent possible: paiement_facture\nDescription: Article de connaissance pour le traitement du cas « Perte de bonus » sur le service 4G (commercial).\nSymptômes: bonus, crédit ou volume non visible | solde attendu non crédité\nCauses possibles: mise à jour retardée | offre non éligible | consommation déjà déduite | anomalie commerciale\nVérification client: vérifier l'offre et la date de rechargement/bonus | contrôler le solde actuel | confirmer la période concernée\nAction agent: vérifier le cycle commercial et la bonne attribution du bonus ou du crédit.\nRéponse agent: Je comprends votre demande concernant « Perte de bonus » pour le service 4G. Je vais d'abord vér"
+  },
+  {
+    "id": 96,
+    "source": "kb_articles.json",
+    "doc_type": "article",
+    "record_id": "kb_038",
+    "title": "4G - Perte de bonus",
+    "chunk_index": 1,
+    "text": "crédit.\nRéponse agent: Je comprends votre demande concernant « Perte de bonus » pour le service 4G. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.\nEscalade: transmettre au service commercial mobile si une vérification sur bonus, crédit ou offre est nécessaire.\nMots-clés: 4G | Commercial | Perte de bonus | bonus, crédit ou volume non visible | solde attendu non crédité | paiement_facture\nExemples de requêtes utilisateur: je veux payer ma facture depuis hier | pouvez-vous m'aider je veux payer ma facture | s'il vous plaît je veux payer ma facture\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 97,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_031",
+    "title": "Que signifie la non-disponibilité d'un service 4G ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_031\nQuestion: Que signifie la non-disponibilité d'un service 4G ?\nRéponse: Une non-disponibilité commerciale peut être liée à l'absence d'éligibilité, à une indisponibilité d'offre ou à une limitation de distribution. Il faut vérifier l'offre demandée, la zone et le statut du dossier avant d'orienter le client.\nService: 4G\nCatégorie: Commercial\nSous-catégorie: Non disponibilité\nIntent possible: autre\nVariantes de question: le service 4g n'est pas disponible | offre indisponible | non disponible dans ma zone\nMots-clés: 4G | Commercial | Non disponibilité | autre | demande non réalisable dans la zone | service ou offre indisponible\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 98,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_032",
+    "title": "Que faire si mon volume data 4G a diminué anormalement ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_032\nQuestion: Que faire si mon volume data 4G a diminué anormalement ?\nRéponse: En cas de perte de volume data, il faut vérifier la consommation, la validité du forfait et l'historique des opérations. Si l'écart semble injustifié, le cas doit être transmis pour vérification commerciale.\nService: 4G\nCatégorie: Commercial\nSous-catégorie: Perte de volume data\nIntent possible: autre\nVariantes de question: mon solde n'apparaît pas | j'ai perdu mon crédit | mon bonus a disparu\nMots-clés: 4G | Commercial | Perte de volume data | bonus, crédit ou volume non visible | paiement_facture | solde attendu non crédité\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 99,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_033",
+    "title": "Que faire si mon bonus data 4G a disparu ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_033\nQuestion: Que faire si mon bonus data 4G a disparu ?\nRéponse: Il faut contrôler les conditions d'attribution du bonus, sa période de validité et l'historique du compte. Si le bonus était attendu mais n'apparaît plus, une réclamation commerciale doit être enregistrée.\nService: 4G\nCatégorie: Commercial\nSous-catégorie: Perte de bonus data\nIntent possible: paiement_facture\nVariantes de question: mon solde n'apparaît pas | j'ai perdu mon crédit | mon bonus a disparu\nMots-clés: 4G | Commercial | Perte de bonus data | bonus, crédit ou volume non visible | paiement_facture | solde attendu non crédité\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 100,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_034",
+    "title": "Pourquoi les appels vers les short codes ne fonctionnent pas en 4G ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_034\nQuestion: Pourquoi les appels vers les short codes ne fonctionnent pas en 4G ?\nRéponse: Il faut d'abord vérifier si les short codes concernés sont autorisés par l'offre et si le service voix fonctionne normalement. Si l'anomalie ne touche que ces numéros, le dossier doit être transmis au service compétent.\nService: 4G\nCatégorie: Commercial\nSous-catégorie: Appel vers short code\nIntent possible: autre\nVariantes de question: Pourquoi les appels vers les short codes ne fonctionnent pas en 4G ? | demande appel vers short code | comment traiter appel vers short code\nMots-clés: 4G | Appel vers short code | Commercial | autre | impossibilité d'appeler un numéro court | échec vers short code\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 101,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_035",
+    "title": "Que faire si j'ai un problème d'émission et de réception d'appels sur ma ligne 4G ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_035\nQuestion: Que faire si j'ai un problème d'émission et de réception d'appels sur ma ligne 4G ?\nRéponse: Il faut vérifier le statut de la ligne, la disponibilité du service voix, le crédit ou l'état du forfait, puis tester après redémarrage de l'appareil. Si le problème persiste, une vérification commerciale ou technique doit être menée.\nService: 4G\nCatégorie: Commercial\nSous-catégorie: Appels émission et réception\nIntent possible: autre\nVariantes de question: Que faire si j'ai un problème d'émission et de réception d'appels sur ma ligne 4G ? | demande appels émission et réception | comment traiter appels émission et réception\nMots-clés: 4G | Appels émission et réception | Commercial | internet_panne | problème global sur les appels entrants et sortants | émission et ré"
+  },
+  {
+    "id": 102,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_035",
+    "title": "Que faire si j'ai un problème d'émission et de réception d'appels sur ma ligne 4G ?",
+    "chunk_index": 1,
+    "text": "ission et réception | Commercial | internet_panne | problème global sur les appels entrants et sortants | émission et réception indisponibles\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 103,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_036",
+    "title": "Que faire si mon crédit 4G a été perdu ou consommé anormalement ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_036\nQuestion: Que faire si mon crédit 4G a été perdu ou consommé anormalement ?\nRéponse: Il faut contrôler les dernières opérations, la consommation récente et la validité du crédit. Si une anomalie est suspectée, le client doit fournir les informations du compte pour vérification commerciale.\nService: 4G\nCatégorie: Commercial\nSous-catégorie: Perte de crédits\nIntent possible: paiement_facture\nVariantes de question: mon solde n'apparaît pas | j'ai perdu mon crédit | mon bonus a disparu\nMots-clés: 4G | Commercial | Perte de crédits | bonus, crédit ou volume non visible | paiement_facture | solde attendu non crédité\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 104,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_037",
+    "title": "Pourquoi je ne reçois pas les appels sur ma ligne 4G ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_037\nQuestion: Pourquoi je ne reçois pas les appels sur ma ligne 4G ?\nRéponse: Il faut vérifier le statut de la ligne, le signal réseau et confirmer si seuls les appels entrants sont touchés. Si le défaut est confirmé, le dossier doit être orienté vers l'équipe compétente.\nService: 4G\nCatégorie: Commercial\nSous-catégorie: Réception appels\nIntent possible: autre\nVariantes de question: Pourquoi je ne reçois pas les appels sur ma ligne 4G ? | demande réception appels | comment traiter réception appels\nMots-clés: 4G | Commercial | Réception appels | appels entrants non reçus | certains appels n'aboutissent pas | internet_panne | réception irrégulière\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 105,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_038",
+    "title": "Que faire si mon bonus 4G a été perdu ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_038\nQuestion: Que faire si mon bonus 4G a été perdu ?\nRéponse: Il faut vérifier les conditions d'obtention du bonus, sa durée de validité et l'historique des opérations sur la ligne. Si le bonus devait être actif, une réclamation commerciale doit être enregistrée.\nService: 4G\nCatégorie: Commercial\nSous-catégorie: Perte de bonus\nIntent possible: paiement_facture\nVariantes de question: mon solde n'apparaît pas | j'ai perdu mon crédit | mon bonus a disparu\nMots-clés: 4G | Commercial | Perte de bonus | bonus, crédit ou volume non visible | paiement_facture | solde attendu non crédité\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 106,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_007",
+    "title": "Pourquoi mon débit 4G est faible ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_007\nQuestion: Pourquoi mon débit 4G est faible ?\nRéponse: Une baisse de débit 4G peut être causée par la couverture radio, la saturation de cellule ou la qualité du signal. Il faut vérifier le niveau de réseau, se déplacer légèrement, redémarrer l'appareil et relancer les données mobiles. Si le problème reste constant dans la zone, une vérification réseau doit être demandée.\nService: 4G\nCatégorie: Technique\nSous-catégorie: Chute de débit\nIntent possible: debit_lent\nVariantes de question: mon 4g est lent | j'ai un débit faible en 4g | la connexion est lente\nMots-clés: 4G | Chute de débit | Technique | connexion lente | debit_lent | pages qui chargent lentement | vidéos ou appels qui se coupent\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 107,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_008",
+    "title": "Comment vérifier si le problème vient de la couverture réseau 4G ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_008\nQuestion: Comment vérifier si le problème vient de la couverture réseau 4G ?\nRéponse: Le premier réflexe est de contrôler le niveau de signal et de tester la connexion dans un autre endroit proche. Si le réseau revient en changeant d'emplacement, le problème peut venir de la couverture radio locale. Si le service reste indisponible dans toute la zone, un contrôle réseau doit être envisagé.\nService: 4G\nCatégorie: Technique\nSous-catégorie: Couverture réseau\nIntent possible: internet_panne\nVariantes de question: Comment vérifier si le problème vient de la couverture réseau 4G ? | problème couverture réseau | que faire pour couverture réseau\nMots-clés: 4G | Couverture réseau | Technique | aucun signal | autre | barres réseau faibles ou absentes | impossibilité de se conne"
+  },
+  {
+    "id": 108,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_008",
+    "title": "Comment vérifier si le problème vient de la couverture réseau 4G ?",
+    "chunk_index": 1,
+    "text": "G | Couverture réseau | Technique | aucun signal | autre | barres réseau faibles ou absentes | impossibilité de se connecter\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 109,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_009",
+    "title": "Pourquoi ma connexion 4G se coupe souvent ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_009\nQuestion: Pourquoi ma connexion 4G se coupe souvent ?\nRéponse: Des déconnexions fréquentes en 4G peuvent être liées à une couverture instable, à un appareil perturbé ou à une saturation locale. Il faut activer puis désactiver le mode avion, redémarrer le téléphone ou le routeur 4G et tester dans une autre zone. Si le défaut persiste, le cas doit être remonté.\nService: 4G\nCatégorie: Technique\nSous-catégorie: Déconnexion fréquente\nIntent possible: internet_panne\nVariantes de question: mon 4g se déconnecte souvent | la connexion coupe souvent | j'ai des coupures fréquentes\nMots-clés: 4G | Déconnexion fréquente | Technique | connexion qui revient puis repart | coupures répétées | internet_panne | service instable\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 110,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_025",
+    "title": "Comment demander un ajustement sur mon service ADSL ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_025\nQuestion: Comment demander un ajustement sur mon service ADSL ?\nRéponse: Une demande d'ajustement doit être enregistrée avec le numéro de ligne, la nature du besoin et la période concernée. Il faut vérifier le dossier client puis transmettre la demande au service commercial pour traitement.\nService: ADSL\nCatégorie: Commercial\nSous-catégorie: Ajustement\nIntent possible: autre\nVariantes de question: Comment demander un ajustement sur mon service ADSL ? | demande ajustement | comment traiter ajustement\nMots-clés: ADSL | Ajustement | Commercial | autre | demande de correction commerciale | écart sur la facturation\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 111,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_026",
+    "title": "Comment demander un changement de débit pour mon abonnement ADSL ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_026\nQuestion: Comment demander un changement de débit pour mon abonnement ADSL ?\nRéponse: Un changement de débit ADSL nécessite de vérifier l'éligibilité technique de la ligne et l'offre souhaitée. Après validation, la demande peut être orientée vers le service commercial ou le processus de modification d'offre.\nService: ADSL\nCatégorie: Commercial\nSous-catégorie: Changement de débit\nIntent possible: debit_lent\nVariantes de question: je veux changer de débit | modifier mon débit adsl | passer à un autre débit\nMots-clés: ADSL | Changement de débit | Commercial | debit_lent | demande d'augmentation ou diminution de débit | souhait de changement d'offre technique\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 112,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_027",
+    "title": "Comment faire une demande de compensation pour un service ADSL ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_027\nQuestion: Comment faire une demande de compensation pour un service ADSL ?\nRéponse: Une demande de compensation doit être liée à un incident clairement identifié. Il faut recueillir la période concernée, le numéro de service et tout justificatif utile, puis transmettre la demande selon la procédure commerciale.\nService: ADSL\nCatégorie: Commercial\nSous-catégorie: Demande de compensation\nIntent possible: paiement_facture\nVariantes de question: je veux une compensation | comment faire une réclamation | demande de compensation service\nMots-clés: ADSL | Commercial | Demande de compensation | autre | demande de geste ou compensation | réclamation commerciale\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 113,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_028",
+    "title": "Que faire en cas d'omission d'activation ou de désactivation de pause sur l'ADSL ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_028\nQuestion: Que faire en cas d'omission d'activation ou de désactivation de pause sur l'ADSL ?\nRéponse: Il faut vérifier l'état du service dans le dossier client et la date de la demande initiale. Si l'action attendue n'a pas été appliquée correctement, la correction doit être transmise au service commercial compétent.\nService: ADSL\nCatégorie: Commercial\nSous-catégorie: Omission activ/désactiv pause\nIntent possible: autre\nVariantes de question: Que faire en cas d'omission d'activation ou de désactivation de pause sur l'ADSL ? | demande omission activ/désactiv pause | comment traiter omission activ/désactiv pause\nMots-clés: ADSL | Commercial | Omission activ/désactiv pause | autre | service pause non activé ou désactivé à tort | état de service incohérent\nStatut: brouill"
+  },
+  {
+    "id": 114,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_028",
+    "title": "Que faire en cas d'omission d'activation ou de désactivation de pause sur l'ADSL ?",
+    "chunk_index": 1,
+    "text": "activ/désactiv pause | autre | service pause non activé ou désactivé à tort | état de service incohérent\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 115,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_029",
+    "title": "Pourquoi l'accès à mon service ADSL est refusé ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_029\nQuestion: Pourquoi l'accès à mon service ADSL est refusé ?\nRéponse: Un accès refusé peut être lié à un dossier incomplet, à une suspension commerciale ou à une restriction sur le compte. Il faut vérifier le statut du service et la situation administrative avant de relancer le traitement.\nService: ADSL\nCatégorie: Commercial\nSous-catégorie: Accès au service refusé\nIntent possible: autre\nVariantes de question: accès refusé à mon service | je n'arrive pas à activer le service | service refusé\nMots-clés: ADSL | Accès au service refusé | Commercial | accès refusé | demande rejetée | resiliation | service inaccessible malgré une demande\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 116,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_030",
+    "title": "Que faire si mon paiement ou mon solde ADSL n'a pas été attribué ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_030\nQuestion: Que faire si mon paiement ou mon solde ADSL n'a pas été attribué ?\nRéponse: Si le solde n'apparaît pas après paiement, il faut vérifier la référence, la date et le justificatif du règlement. Le dossier doit ensuite être transmis pour régularisation commerciale.\nService: ADSL\nCatégorie: Commercial\nSous-catégorie: Solde non attribué\nIntent possible: paiement_facture\nVariantes de question: mon solde n'apparaît pas | j'ai perdu mon crédit | mon bonus a disparu\nMots-clés: ADSL | Commercial | Solde non attribué | bonus, crédit ou volume non visible | paiement_facture | solde attendu non crédité\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 117,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_001",
+    "title": "Que faire si ma connexion ADSL est lente ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_001\nQuestion: Que faire si ma connexion ADSL est lente ?\nRéponse: Une chute de débit ADSL peut venir de la ligne, du modem ou d'une saturation temporaire. Commencez par redémarrer le modem, vérifier le câble téléphonique/DSL et le filtre, puis testez la connexion avec un seul appareil. Si la lenteur persiste après ces vérifications, il faut orienter le dossier vers un diagnostic technique.\nService: ADSL\nCatégorie: Technique\nSous-catégorie: Chute de débit\nIntent possible: debit_lent\nVariantes de question: mon adsl est lent | j'ai un débit faible en adsl | la connexion est lente\nMots-clés: ADSL | Chute de débit | Technique | connexion lente | debit_lent | pages qui chargent lentement | vidéos ou appels qui se coupent\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 118,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_002",
+    "title": "Pourquoi ma connexion ADSL se déconnecte souvent ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_002\nQuestion: Pourquoi ma connexion ADSL se déconnecte souvent ?\nRéponse: Des déconnexions fréquentes ADSL peuvent être liées à une ligne instable, à un filtre défectueux ou à un modem perturbé. Il faut vérifier les branchements, redémarrer le modem et observer si la coupure revient. Si le défaut reste récurrent, un ticket technique doit être ouvert.\nService: ADSL\nCatégorie: Technique\nSous-catégorie: Déconnexion fréquente\nIntent possible: internet_panne\nVariantes de question: mon adsl se déconnecte souvent | la connexion coupe souvent | j'ai des coupures fréquentes\nMots-clés: ADSL | Déconnexion fréquente | Technique | connexion qui revient puis repart | coupures répétées | internet_panne | service instable\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 119,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_003",
+    "title": "Comment résoudre l'erreur 651/678 sur une connexion ADSL ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_003\nQuestion: Comment résoudre l'erreur 651/678 sur une connexion ADSL ?\nRéponse: L'erreur 651/678 est généralement liée à un échec de connexion entre l'équipement et le réseau. Il faut redémarrer le modem et l'ordinateur, contrôler les câbles et vérifier que la ligne est bien synchronisée. Si l'erreur persiste, le cas doit être transmis au support technique.\nService: ADSL\nCatégorie: Technique\nSous-catégorie: Erreur 651/678\nIntent possible: autre\nVariantes de question: Comment résoudre l'erreur 651/678 sur une connexion ADSL ? | problème erreur 651/678 | que faire pour erreur 651/678\nMots-clés: ADSL | Erreur 651/678 | Technique | erreur 651/678 | probleme_modem\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 120,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_004",
+    "title": "Que signifie l'erreur 691 alors que le solde est positif ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_004\nQuestion: Que signifie l'erreur 691 alors que le solde est positif ?\nRéponse: L'erreur 691 correspond le plus souvent à un problème d'authentification ou d'activation de service. Il faut vérifier que les identifiants sont corrects, que le compte est bien actif et que le service n'est pas suspendu. Si tout semble normal, il faut remonter le dossier pour vérification technique ou commerciale.\nService: ADSL\nCatégorie: Technique\nSous-catégorie: Erreur 691 solde positive\nIntent possible: paiement_facture\nVariantes de question: Que signifie l'erreur 691 alors que le solde est positif ? | problème erreur 691 solde positive | que faire pour erreur 691 solde positive\nMots-clés: ADSL | Erreur 691 solde positive | Technique | accès refusé malgré un solde positif | message erreur"
+  },
+  {
+    "id": 121,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_004",
+    "title": "Que signifie l'erreur 691 alors que le solde est positif ?",
+    "chunk_index": 1,
+    "text": "positive\nMots-clés: ADSL | Erreur 691 solde positive | Technique | accès refusé malgré un solde positif | message erreur 691 | paiement_facture\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 122,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_005",
+    "title": "Pourquoi les pages web ne s'affichent pas alors que l'ADSL semble connecté ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_005\nQuestion: Pourquoi les pages web ne s'affichent pas alors que l'ADSL semble connecté ?\nRéponse: Si la connexion paraît active mais que les pages ne s'affichent pas, il faut tester un autre site, redémarrer le modem, vérifier le navigateur et essayer avec un autre appareil. Cela permet de distinguer un souci local d'un problème réseau. Si aucun accès web n'est possible, une analyse technique est nécessaire.\nService: ADSL\nCatégorie: Technique\nSous-catégorie: Impossible d'afficher les pages\nIntent possible: internet_panne\nVariantes de question: Pourquoi les pages web ne s'affichent pas alors que l'ADSL semble connecté ? | problème impossible d'afficher les pages | que faire pour impossible d'afficher les pages\nMots-clés: ADSL | Impossible d'afficher les pages | Technique"
+  },
+  {
+    "id": 123,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_005",
+    "title": "Pourquoi les pages web ne s'affichent pas alors que l'ADSL semble connecté ?",
+    "chunk_index": 1,
+    "text": "les pages | que faire pour impossible d'afficher les pages\nMots-clés: ADSL | Impossible d'afficher les pages | Technique | certaines pages ne s'affichent pas | internet_panne | ouverture du navigateur impossible | service partiellement accessible\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 124,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_006",
+    "title": "Que faire si la liaison ADSL est instable ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_006\nQuestion: Que faire si la liaison ADSL est instable ?\nRéponse: Une liaison ADSL instable peut provoquer des lenteurs et des coupures. Il faut vérifier les branchements, l'état du filtre, redémarrer le modem et limiter les appareils connectés pendant le test. Si l'instabilité reste présente, le dossier doit être escaladé au support technique.\nService: ADSL\nCatégorie: Technique\nSous-catégorie: Link instable\nIntent possible: autre\nVariantes de question: Que faire si la liaison ADSL est instable ? | problème link instable | que faire pour link instable\nMots-clés: ADSL | Link instable | Technique | connexion qui revient puis repart | coupures répétées | internet_panne | service instable\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 125,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_901",
+    "title": "Comment demander l'installation de la fibre ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_901\nQuestion: Comment demander l'installation de la fibre ?\nRéponse: Pour une installation fibre, il faut vérifier l'éligibilité de la zone, confirmer le besoin du client et préparer les informations de souscription. Une fois ces éléments validés, la demande peut être orientée vers le parcours d'abonnement ou le service commercial.\nService: FTTx\nCatégorie: Commercial\nSous-catégorie: Installation fibre\nIntent possible: installation_fibre\nVariantes de question: je rencontre un problème je souhaite un abonnement fibre dans mon quartier | s'il vous plaît je souhaite un abonnement fibre depuis hier | pouvez-vous m'aider je veux installer la fibre depuis plusieurs jours\nMots-clés: fibre | installation | abonnement | FTTx | éligibilité\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 126,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_010",
+    "title": "Que faire si le débit de la fibre/FTTx baisse fortement ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_010\nQuestion: Que faire si le débit de la fibre/FTTx baisse fortement ?\nRéponse: Une chute de débit FTTx peut être liée au routeur, au câblage interne ou à une saturation temporaire. Il faut redémarrer l'équipement, vérifier les câbles Ethernet et tester avec un seul appareil si possible en filaire. Si le résultat reste mauvais, un diagnostic technique doit être lancé.\nService: FTTx\nCatégorie: Technique\nSous-catégorie: Chute de débit\nIntent possible: debit_lent\nVariantes de question: mon fttx est lent | j'ai un débit faible en fttx | la connexion est lente\nMots-clés: Chute de débit | FTTx | Technique | connexion lente | debit_lent | pages qui chargent lentement | vidéos ou appels qui se coupent\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 127,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_011",
+    "title": "Pourquoi ma connexion fibre/FTTx se déconnecte souvent ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_011\nQuestion: Pourquoi ma connexion fibre/FTTx se déconnecte souvent ?\nRéponse: Des coupures répétées sur une connexion FTTx peuvent venir d'un équipement optique, du routeur ou d'un incident réseau. Il faut redémarrer l'ONT ou le modem, vérifier les voyants et les branchements. Si la coupure continue, le dossier doit être transmis au support technique.\nService: FTTx\nCatégorie: Technique\nSous-catégorie: Déconnexion fréquente\nIntent possible: internet_panne\nVariantes de question: mon fttx se déconnecte souvent | la connexion coupe souvent | j'ai des coupures fréquentes\nMots-clés: Déconnexion fréquente | FTTx | Technique | connexion qui revient puis repart | coupures répétées | internet_panne | service instable\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 128,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_012",
+    "title": "Pourquoi je ne peux pas afficher les pages web avec la fibre/FTTx ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_012\nQuestion: Pourquoi je ne peux pas afficher les pages web avec la fibre/FTTx ?\nRéponse: Si les voyants semblent normaux mais que les pages ne s'affichent pas, il faut tester un autre site, un autre appareil et redémarrer le routeur. Cela permet d'écarter un souci de navigateur ou de DNS. Si aucun test n'aboutit, une vérification réseau est nécessaire.\nService: FTTx\nCatégorie: Technique\nSous-catégorie: Impossible d'afficher les pages\nIntent possible: internet_panne\nVariantes de question: Pourquoi je ne peux pas afficher les pages web avec la fibre/FTTx ? | problème impossible d'afficher les pages | que faire pour impossible d'afficher les pages\nMots-clés: FTTx | Impossible d'afficher les pages | Technique | certaines pages ne s'affichent pas | internet_panne | ouverture"
+  },
+  {
+    "id": 129,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_012",
+    "title": "Pourquoi je ne peux pas afficher les pages web avec la fibre/FTTx ?",
+    "chunk_index": 1,
+    "text": "és: FTTx | Impossible d'afficher les pages | Technique | certaines pages ne s'affichent pas | internet_panne | ouverture du navigateur impossible | service partiellement accessible\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 130,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_013",
+    "title": "Que faire si je n'ai plus internet sur ma ligne fibre/FTTx ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_013\nQuestion: Que faire si je n'ai plus internet sur ma ligne fibre/FTTx ?\nRéponse: En cas de perte totale d'internet sur une ligne FTTx, il faut vérifier l'alimentation de l'ONT ou du routeur, contrôler les voyants et redémarrer l'équipement. Si le service ne revient pas après quelques minutes, il faut ouvrir un ticket technique.\nService: FTTx\nCatégorie: Technique\nSous-catégorie: Pas d'internet\nIntent possible: internet_panne\nVariantes de question: je n'ai plus internet en fttx | plus de connexion internet | internet indisponible\nMots-clés: FTTx | Pas d'internet | Technique | aucun accès au web | aucune connexion | internet_panne | voyant internet éteint ou rouge\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 131,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_014",
+    "title": "Que signifie l'absence de signal réseau sur une ligne fibre/FTTx ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_014\nQuestion: Que signifie l'absence de signal réseau sur une ligne fibre/FTTx ?\nRéponse: Une absence de signal sur une ligne FTTx peut indiquer un défaut optique, un problème de raccordement ou un incident réseau. Il faut vérifier les voyants de l'équipement et s'assurer qu'aucun câble n'a été débranché. Si le signal ne revient pas, une intervention technique doit être déclenchée.\nService: FTTx\nCatégorie: Technique\nSous-catégorie: Pas de signal réseau\nIntent possible: internet_panne\nVariantes de question: je n'ai pas de signal fttx | le signal réseau est absent | le réseau est instable\nMots-clés: FTTx | Pas de signal réseau | Technique | aucun signal | barres réseau faibles ou absentes | impossibilité de se connecter | installation_fibre\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 132,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_015",
+    "title": "Que faire si le signal de la fibre/FTTx est instable ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_015\nQuestion: Que faire si le signal de la fibre/FTTx est instable ?\nRéponse: Un signal instable peut provoquer des coupures et des lenteurs. Il faut redémarrer l'équipement, vérifier les branchements optiques et Ethernet, puis observer si l'instabilité se répète. Si le problème dure, le cas doit être escaladé pour contrôle technique.\nService: FTTx\nCatégorie: Technique\nSous-catégorie: Signal réseau instable\nIntent possible: internet_panne\nVariantes de question: je n'ai pas de signal fttx | le signal réseau est absent | le réseau est instable\nMots-clés: FTTx | Signal réseau instable | Technique | connexion qui revient puis repart | coupures répétées | internet_panne | service instable\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 133,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_900",
+    "title": "Comment payer ma facture ou mon abonnement internet ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_900\nQuestion: Comment payer ma facture ou mon abonnement internet ?\nRéponse: Pour une demande de paiement, il faut d'abord identifier le service concerné, vérifier la référence client ou de ligne et orienter le client vers le canal de règlement disponible. En cas de paiement déjà effectué mais non visible, une vérification commerciale avec justificatif est nécessaire.\nService: Tous\nCatégorie: Commercial\nSous-catégorie: Paiement facture\nIntent possible: paiement_facture\nVariantes de question: s'il vous plaît je souhaite payer mon abonnement depuis hier | pouvez-vous m'aider je souhaite payer mon abonnement | j'ai un souci je veux payer ma facture à mon domicile\nMots-clés: paiement | facture | abonnement | règlement | recharge\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 134,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_905",
+    "title": "Comment résilier mon abonnement internet ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_905\nQuestion: Comment résilier mon abonnement internet ?\nRéponse: Pour une résiliation, il faut vérifier l'identité du client, le service concerné et le statut du contrat, puis orienter la demande vers le processus commercial prévu. Selon l'organisation, des justificatifs ou une demande formelle peuvent être requis.\nService: Tous\nCatégorie: Commercial\nSous-catégorie: Résiliation\nIntent possible: resiliation\nVariantes de question: merci de vérifier arrêter la connexion internet depuis hier | s'il vous plaît arrêter la connexion internet depuis hier | je veux résilier mon abonnement depuis ce matin\nMots-clés: résiliation | arrêt abonnement | annulation | clôture contrat\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 135,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_902",
+    "title": "Que faire si je n'ai plus internet ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_902\nQuestion: Que faire si je n'ai plus internet ?\nRéponse: En cas de panne internet, il faut commencer par vérifier l'alimentation du modem ou du routeur, contrôler les câbles et redémarrer l'équipement. Si le service ne revient pas après quelques minutes et que le défaut persiste, un ticket technique doit être ouvert.\nService: Tous\nCatégorie: Technique\nSous-catégorie: Panne internet\nIntent possible: internet_panne\nVariantes de question: pouvez-vous m'aider je ne peux plus me connecter depuis plusieurs jours | merci de vérifier je ne peux plus me connecter depuis hier | pouvez-vous m'aider je n'ai plus internet dans mon quartier\nMots-clés: internet | panne | plus de connexion | indisponible | coupure\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 136,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_903",
+    "title": "Que faire si mon internet est lent ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_903\nQuestion: Que faire si mon internet est lent ?\nRéponse: Si l'internet est lent, il faut redémarrer l'équipement, limiter le test à un seul appareil et vérifier la qualité de la connexion. Si la lenteur reste présente, il faut orienter la demande selon le service concerné vers un diagnostic technique.\nService: Tous\nCatégorie: Technique\nSous-catégorie: Débit lent\nIntent possible: debit_lent\nVariantes de question: merci de vérifier les pages mettent du temps à charger depuis plusieurs jours | les pages mettent du temps à charger à mon domicile | merci de vérifier internet est lent à mon domicile\nMots-clés: débit lent | connexion lente | internet lent | test débit\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 137,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_904",
+    "title": "Que faire si mon modem ou mon routeur ne fonctionne pas ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_904\nQuestion: Que faire si mon modem ou mon routeur ne fonctionne pas ?\nRéponse: Si le modem ou le routeur ne fonctionne pas, il faut vérifier son alimentation, observer les voyants, contrôler les branchements et tenter un redémarrage. Si l'équipement reste bloqué, redémarre en boucle ou ne synchronise pas, il faut prévoir une prise en charge technique.\nService: Tous\nCatégorie: Technique\nSous-catégorie: Problème modem\nIntent possible: probleme_modem\nVariantes de question: pouvez-vous m'aider le modem redémarre depuis ce matin | s'il vous plaît le modem redémarre depuis plusieurs jours | s'il vous plaît le modem ne fonctionne pas depuis ce matin\nMots-clés: modem | routeur | redémarrage | équipement | voyants\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 138,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_906",
+    "title": "Comment tester rapidement si le problème vient du réseau ou de mon installation ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_906\nQuestion: Comment tester rapidement si le problème vient du réseau ou de mon installation ?\nRéponse: Le plus simple est de redémarrer l'équipement, vérifier les câbles, tester avec un seul appareil et observer les voyants. Si possible, il faut aussi tester dans une autre zone ou avec un autre appareil selon le service. Si ces vérifications ne changent rien, le dossier peut être orienté vers le support.\nService: Tous\nCatégorie: Technique\nSous-catégorie: Diagnostic de premier niveau\nIntent possible: autre\nVariantes de question: comment vérifier si le problème vient de chez moi | que tester avant d'ouvrir un ticket | comment faire un premier diagnostic\nMots-clés: diagnostic | vérification | redémarrage | voyants | câbles\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 139,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_016",
+    "title": "Que faire si un appel téléphonique se coupe pendant la communication ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_016\nQuestion: Que faire si un appel téléphonique se coupe pendant la communication ?\nRéponse: Une coupure pendant l'appel peut venir de la ligne, du combiné ou d'un défaut réseau. Il faut tester avec un autre téléphone si possible, vérifier le câblage et observer si le défaut touche tous les appels. Si les coupures continuent, une vérification technique est nécessaire.\nService: Téléphonie\nCatégorie: Technique\nSous-catégorie: Coupure de communication\nIntent possible: autre\nVariantes de question: Que faire si un appel téléphonique se coupe pendant la communication ? | problème coupure de communication | que faire pour coupure de communication\nMots-clés: Coupure de communication | Technique | Téléphonie | appel coupé en cours de conversation | appel instable | communication"
+  },
+  {
+    "id": 140,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_016",
+    "title": "Que faire si un appel téléphonique se coupe pendant la communication ?",
+    "chunk_index": 1,
+    "text": "upure de communication | Technique | Téléphonie | appel coupé en cours de conversation | appel instable | communication interrompue | internet_panne\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 141,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_017",
+    "title": "Que signifie une inversion de ligne téléphonique ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_017\nQuestion: Que signifie une inversion de ligne téléphonique ?\nRéponse: Une inversion de ligne peut se manifester par un mauvais acheminement ou une confusion entre abonnés. Il faut relever précisément le défaut, vérifier les branchements internes et remonter le cas au support pour contrôle de la ligne.\nService: Téléphonie\nCatégorie: Technique\nSous-catégorie: Inversion de ligne\nIntent possible: autre\nVariantes de question: Que signifie une inversion de ligne téléphonique ? | problème inversion de ligne | que faire pour inversion de ligne\nMots-clés: Inversion de ligne | Technique | Téléphonie | appels ou tonalité associés à une autre ligne | autre | mauvais numéro ou mauvaise ligne\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 142,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_018",
+    "title": "Que faire si la ligne téléphonique grésille ou si l'audition est mauvaise ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_018\nQuestion: Que faire si la ligne téléphonique grésille ou si l'audition est mauvaise ?\nRéponse: Des grésillements ou une mauvaise audition peuvent provenir du combiné, du câble ou de la ligne. Il faut tester avec un autre téléphone, vérifier la prise et éliminer tout branchement défectueux. Si le bruit persiste, il faut ouvrir un dossier technique.\nService: Téléphonie\nCatégorie: Technique\nSous-catégorie: Mauvaise audition et friture\nIntent possible: autre\nVariantes de question: la ligne grésille | j'entends mal au téléphone | il y a du bruit sur la ligne\nMots-clés: Mauvaise audition et friture | Technique | Téléphonie | autre | grésillement | mauvaise qualité audio | parasites\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 143,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_019",
+    "title": "Pourquoi mon téléphone fixe n'a plus de tonalité ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_019\nQuestion: Pourquoi mon téléphone fixe n'a plus de tonalité ?\nRéponse: L'absence de tonalité peut venir du combiné, du câble ou d'une coupure de ligne. Il faut vérifier le téléphone, tester une autre prise ou un autre appareil si possible et contrôler les branchements. Si aucune tonalité n'est disponible, le cas doit être transmis au support.\nService: Téléphonie\nCatégorie: Technique\nSous-catégorie: Pas de tonalité téléphone\nIntent possible: autre\nVariantes de question: je n'ai plus de tonalité | mon téléphone fixe est muet | pas de tonalité sur la ligne\nMots-clés: Pas de tonalité téléphone | Technique | Téléphonie | aucune tonalité | impossibilité d'émettre un appel | internet_panne | téléphone muet\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 144,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_020",
+    "title": "Que faire si j'entends d'autres communications sur ma ligne téléphonique ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_020\nQuestion: Que faire si j'entends d'autres communications sur ma ligne téléphonique ?\nRéponse: Un mélange de communication indique un défaut de ligne ou de raccordement. Il faut noter quand le problème survient et vérifier l'installation côté client. Le dossier doit ensuite être escaladé pour contrôle technique.\nService: Téléphonie\nCatégorie: Technique\nSous-catégorie: Mélange de communication\nIntent possible: autre\nVariantes de question: Que faire si j'entends d'autres communications sur ma ligne téléphonique ? | problème mélange de communication | que faire pour mélange de communication\nMots-clés: Mélange de communication | Technique | Téléphonie | conversation d'un tiers entendue | interférences anormales | internet_panne | mélange de communications\nStatut: brouillon"
+  },
+  {
+    "id": 145,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_020",
+    "title": "Que faire si j'entends d'autres communications sur ma ligne téléphonique ?",
+    "chunk_index": 1,
+    "text": "onversation d'un tiers entendue | interférences anormales | internet_panne | mélange de communications\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 146,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_021",
+    "title": "Que faire si je reçois mal les appels sur ma ligne téléphonique ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_021\nQuestion: Que faire si je reçois mal les appels sur ma ligne téléphonique ?\nRéponse: Si la réception des appels est mauvaise, il faut vérifier le téléphone, les câbles et confirmer si le problème se produit avec tous les correspondants. Si le défaut reste constant, une vérification de ligne est requise.\nService: Téléphonie\nCatégorie: Technique\nSous-catégorie: Problème de réception\nIntent possible: autre\nVariantes de question: Que faire si je reçois mal les appels sur ma ligne téléphonique ? | problème problème de réception | que faire pour problème de réception\nMots-clés: Problème de réception | Technique | Téléphonie | appels entrants non reçus | certains appels n'aboutissent pas | internet_panne | réception irrégulière\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 147,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_022",
+    "title": "Pourquoi je n'arrive pas à émettre des appels nationaux ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_022\nQuestion: Pourquoi je n'arrive pas à émettre des appels nationaux ?\nRéponse: Si l'émission d'appels nationaux est impossible, il faut vérifier le poste téléphonique, l'état de la ligne et confirmer que le problème concerne uniquement ce type d'appel. Si le défaut est confirmé, il faut transmettre le dossier pour diagnostic.\nService: Téléphonie\nCatégorie: Technique\nSous-catégorie: Problème émission national\nIntent possible: autre\nVariantes de question: Pourquoi je n'arrive pas à émettre des appels nationaux ? | problème problème émission national | que faire pour problème émission national\nMots-clés: Problème émission national | Technique | Téléphonie | autre | impossibilité d'appeler des numéros nationaux | échec à l'émission nationale\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 148,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_023",
+    "title": "Pourquoi je n'arrive pas à émettre des appels internationaux ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_023\nQuestion: Pourquoi je n'arrive pas à émettre des appels internationaux ?\nRéponse: L'impossibilité d'appeler à l'international peut venir d'une restriction de service, d'un paramétrage ou d'un défaut de ligne. Il faut vérifier que ce type d'appel est autorisé sur la ligne avant d'escalader le cas vers le service compétent.\nService: Téléphonie\nCatégorie: Technique\nSous-catégorie: Problème émission international\nIntent possible: autre\nVariantes de question: Pourquoi je n'arrive pas à émettre des appels internationaux ? | problème problème émission international | que faire pour problème émission international\nMots-clés: Problème émission international | Technique | Téléphonie | autre | impossibilité d'appeler l'international | échec vers des destinations internationales"
+  },
+  {
+    "id": 149,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_023",
+    "title": "Pourquoi je n'arrive pas à émettre des appels internationaux ?",
+    "chunk_index": 1,
+    "text": "Technique | Téléphonie | autre | impossibilité d'appeler l'international | échec vers des destinations internationales\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 150,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_024",
+    "title": "Pourquoi les appels vers les numéros courts ne passent pas ?",
+    "chunk_index": 0,
+    "text": "Type: faq\nID: faq_024\nQuestion: Pourquoi les appels vers les numéros courts ne passent pas ?\nRéponse: Si les numéros courts sont injoignables, il faut vérifier si ce service est autorisé sur la ligne et confirmer que les autres appels fonctionnent normalement. Si seul ce type d'appel échoue, le cas doit être orienté vers le support approprié.\nService: Téléphonie\nCatégorie: Technique\nSous-catégorie: Problème émission numéros courts\nIntent possible: autre\nVariantes de question: Pourquoi les appels vers les numéros courts ne passent pas ? | problème problème émission numéros courts | que faire pour problème émission numéros courts\nMots-clés: Problème émission numéros courts | Technique | Téléphonie | autre | impossibilité d'appeler un numéro court | échec vers short code\nStatut: brouillon_a_v"
+  },
+  {
+    "id": 151,
+    "source": "kb_faq.json",
+    "doc_type": "faq",
+    "record_id": "faq_024",
+    "title": "Pourquoi les appels vers les numéros courts ne passent pas ?",
+    "chunk_index": 1,
+    "text": "| Technique | Téléphonie | autre | impossibilité d'appeler un numéro court | échec vers short code\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 152,
+    "source": "kb_services.json",
+    "doc_type": "service",
+    "record_id": "svc_001",
+    "title": "ADSL",
+    "chunk_index": 0,
+    "text": "Type: fiche service\nID: svc_001\nService: ADSL\nTitre: Service ADSL\nType de service: Internet fixe sur ligne téléphonique\nDescription: Le service ADSL couvre l'accès internet fixe pour les clients particuliers, avec un support orienté continuité de service, performance de la ligne et opérations commerciales liées au compte ou à l'abonnement.\nPositionnement: Service d'accès internet fixe pour domicile ou petit usage bureautique.\nPrérequis généraux: ligne compatible ou déjà équipée | modem correctement alimenté et raccordé | compte client actif\nDocuments possibles: référence de ligne ou numéro de contrat | identité du titulaire si une opération commerciale est demandée\nCatégories couvertes: Technique | Commercial\nSous-catégories couvertes: Chute de débit | Déconnexion fréquente | Erreur 651/67"
+  },
+  {
+    "id": 153,
+    "source": "kb_services.json",
+    "doc_type": "service",
+    "record_id": "svc_001",
+    "title": "ADSL",
+    "chunk_index": 1,
+    "text": "ries couvertes: Technique | Commercial\nSous-catégories couvertes: Chute de débit | Déconnexion fréquente | Erreur 651/678 | Erreur 691 solde positive | Impossible d'afficher les pages | Link instable | Ajustement | Changement de débit | Demande de compensation | Omission activ/désactiv pause | Accès au service refusé | Solde non attribué\nIntents associés: debit_lent | internet_panne | probleme_modem | paiement_facture | autre | resiliation\nActions selfcare: redémarrer le modem | vérifier le câble DSL, le filtre et l'alimentation | tester la connexion avec un seul appareil | effectuer un test de débit si possible\nFAQ associées: faq_025 | faq_026 | faq_027 | faq_028 | faq_029 | faq_030 | faq_001 | faq_002 | faq_003 | faq_004 | faq_005 | faq_006\nArticles associés: kb_001 | kb_002 | kb_003 | k"
+  },
+  {
+    "id": 154,
+    "source": "kb_services.json",
+    "doc_type": "service",
+    "record_id": "svc_001",
+    "title": "ADSL",
+    "chunk_index": 2,
+    "text": "29 | faq_030 | faq_001 | faq_002 | faq_003 | faq_004 | faq_005 | faq_006\nArticles associés: kb_001 | kb_002 | kb_003 | kb_004 | kb_005 | kb_006 | kb_025 | kb_026 | kb_027 | kb_028 | kb_029 | kb_030\nRésumé support: {'nb_articles': 12, 'nb_faq': 12, 'nb_categories': 2, 'nb_sous_categories': 12}\nMots-clés: ADSL | Internet fixe sur ligne téléphonique | Technique | Commercial | debit_lent | internet_panne | probleme_modem | paiement_facture | Chute de débit | Déconnexion fréquente | Erreur 651/678 | Erreur 691 solde positive | Impossible d'afficher les pages | Link instable\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 155,
+    "source": "kb_services.json",
+    "doc_type": "service",
+    "record_id": "svc_002",
+    "title": "4G",
+    "chunk_index": 0,
+    "text": "Type: fiche service\nID: svc_002\nService: 4G\nTitre: Service 4G\nType de service: Internet mobile / données mobiles\nDescription: Le service 4G couvre l'accès mobile aux données ainsi que plusieurs opérations commerciales associées au crédit, au volume data, aux bonus et à la disponibilité des offres.\nPositionnement: Service mobile pour connectivité en déplacement ou accès internet sans ligne fixe.\nPrérequis généraux: zone couverte par le réseau mobile | terminal compatible et correctement configuré | carte SIM ou compte actif\nDocuments possibles: numéro de ligne ou identifiant client | historique de recharge ou d'opération si réclamation commerciale\nCatégories couvertes: Technique | Commercial\nSous-catégories couvertes: Chute de débit | Couverture réseau | Déconnexion fréquente | Non disponib"
+  },
+  {
+    "id": 156,
+    "source": "kb_services.json",
+    "doc_type": "service",
+    "record_id": "svc_002",
+    "title": "4G",
+    "chunk_index": 1,
+    "text": "hnique | Commercial\nSous-catégories couvertes: Chute de débit | Couverture réseau | Déconnexion fréquente | Non disponibilité | Perte de volume data | Perte de bonus data | Appel vers short code | Appels émission et réception | Perte de crédits | Réception appels | Perte de bonus\nIntents associés: debit_lent | autre | internet_panne | paiement_facture\nActions selfcare: vérifier la couverture réseau dans la zone | activer puis désactiver le mode avion | redémarrer le terminal ou le modem 4G | contrôler le volume data, le bonus et le crédit restants\nFAQ associées: faq_031 | faq_032 | faq_033 | faq_034 | faq_035 | faq_036 | faq_037 | faq_038 | faq_007 | faq_008 | faq_009\nArticles associés: kb_007 | kb_008 | kb_009 | kb_031 | kb_032 | kb_033 | kb_034 | kb_035 | kb_036 | kb_037 | kb_038\nRésumé"
+  },
+  {
+    "id": 157,
+    "source": "kb_services.json",
+    "doc_type": "service",
+    "record_id": "svc_002",
+    "title": "4G",
+    "chunk_index": 2,
+    "text": "icles associés: kb_007 | kb_008 | kb_009 | kb_031 | kb_032 | kb_033 | kb_034 | kb_035 | kb_036 | kb_037 | kb_038\nRésumé support: {'nb_articles': 11, 'nb_faq': 11, 'nb_categories': 2, 'nb_sous_categories': 11}\nMots-clés: 4G | Internet mobile / données mobiles | Technique | Commercial | debit_lent | internet_panne | paiement_facture | Chute de débit | Couverture réseau | Déconnexion fréquente | Non disponibilité | Perte de volume data | Perte de bonus data\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 158,
+    "source": "kb_services.json",
+    "doc_type": "service",
+    "record_id": "svc_003",
+    "title": "FTTx",
+    "chunk_index": 0,
+    "text": "Type: fiche service\nID: svc_003\nService: FTTx\nTitre: Service FTTx / Fibre\nType de service: Internet fixe à très haut débit sur fibre\nDescription: Le service FTTx regroupe les cas de support liés à la fibre : absence d'accès internet, perte ou instabilité du signal et baisse de débit sur un accès fixe à haut débit.\nPositionnement: Service fixe à haut ou très haut débit pour usage résidentiel intensif.\nPrérequis généraux: zone éligible ou raccordement fibre disponible | ONT / modem fibre alimenté et raccordé | compte client actif\nDocuments possibles: référence client ou contrat | coordonnées d'installation si intervention nécessaire\nCatégories couvertes: Technique\nSous-catégories couvertes: Chute de débit | Déconnexion fréquente | Impossible d'afficher les pages | Pas d'internet | Pas de sig"
+  },
+  {
+    "id": 159,
+    "source": "kb_services.json",
+    "doc_type": "service",
+    "record_id": "svc_003",
+    "title": "FTTx",
+    "chunk_index": 1,
+    "text": "gories couvertes: Chute de débit | Déconnexion fréquente | Impossible d'afficher les pages | Pas d'internet | Pas de signal réseau | Signal réseau instable\nIntents associés: debit_lent | internet_panne | installation_fibre\nActions selfcare: vérifier l'alimentation de l'ONT ou du modem fibre | contrôler les câbles optiques et ethernet sans les manipuler excessivement | redémarrer les équipements puis attendre quelques minutes | tester la connexion sur un appareil unique\nFAQ associées: faq_901 | faq_010 | faq_011 | faq_012 | faq_013 | faq_014 | faq_015\nArticles associés: kb_010 | kb_011 | kb_012 | kb_013 | kb_014 | kb_015\nRésumé support: {'nb_articles': 6, 'nb_faq': 7, 'nb_categories': 1, 'nb_sous_categories': 6}\nMots-clés: FTTx | Internet fixe à très haut débit sur fibre | Technique | debit"
+  },
+  {
+    "id": 160,
+    "source": "kb_services.json",
+    "doc_type": "service",
+    "record_id": "svc_003",
+    "title": "FTTx",
+    "chunk_index": 2,
+    "text": "categories': 1, 'nb_sous_categories': 6}\nMots-clés: FTTx | Internet fixe à très haut débit sur fibre | Technique | debit_lent | internet_panne | Chute de débit | Déconnexion fréquente | Impossible d'afficher les pages | Pas d'internet | Pas de signal réseau | Signal réseau instable\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 161,
+    "source": "kb_services.json",
+    "doc_type": "service",
+    "record_id": "svc_004",
+    "title": "Téléphonie",
+    "chunk_index": 0,
+    "text": "Type: fiche service\nID: svc_004\nService: Téléphonie\nTitre: Service Téléphonie\nType de service: Téléphonie fixe\nDescription: Le service Téléphonie couvre les incidents de voix sur ligne fixe, comme l'absence de tonalité, les coupures de communication, les problèmes d'audition ou les défauts d'émission et de réception.\nPositionnement: Service voix fixe destiné à la communication locale, nationale et internationale selon l'offre du client.\nPrérequis généraux: poste téléphonique fonctionnel et correctement branché | ligne active | câblage interne accessible pour vérification simple\nDocuments possibles: numéro de ligne fixe | identité du titulaire si traitement administratif requis\nCatégories couvertes: Technique\nSous-catégories couvertes: Coupure de communication | Inversion de ligne | Mauvais"
+  },
+  {
+    "id": 162,
+    "source": "kb_services.json",
+    "doc_type": "service",
+    "record_id": "svc_004",
+    "title": "Téléphonie",
+    "chunk_index": 1,
+    "text": "equis\nCatégories couvertes: Technique\nSous-catégories couvertes: Coupure de communication | Inversion de ligne | Mauvaise audition et friture | Pas de tonalité téléphone | Mélange de communication | Problème de réception | Problème émission national | Problème émission international | Problème émission numéros courts\nIntents associés: internet_panne | autre\nActions selfcare: vérifier le branchement du téléphone | tester avec un autre combiné si possible | contrôler la présence de tonalité | noter si le problème concerne l'émission, la réception ou la qualité audio\nFAQ associées: faq_016 | faq_017 | faq_018 | faq_019 | faq_020 | faq_021 | faq_022 | faq_023 | faq_024\nArticles associés: kb_016 | kb_017 | kb_018 | kb_019 | kb_020 | kb_021 | kb_022 | kb_023 | kb_024\nRésumé support: {'nb_article"
+  },
+  {
+    "id": 163,
+    "source": "kb_services.json",
+    "doc_type": "service",
+    "record_id": "svc_004",
+    "title": "Téléphonie",
+    "chunk_index": 2,
+    "text": "es associés: kb_016 | kb_017 | kb_018 | kb_019 | kb_020 | kb_021 | kb_022 | kb_023 | kb_024\nRésumé support: {'nb_articles': 9, 'nb_faq': 9, 'nb_categories': 1, 'nb_sous_categories': 9}\nMots-clés: Téléphonie | Téléphonie fixe | Technique | internet_panne | Coupure de communication | Inversion de ligne | Mauvaise audition et friture | Pas de tonalité téléphone | Mélange de communication | Problème de réception\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 164,
+    "source": "kb_services.json",
+    "doc_type": "service",
+    "record_id": "svc_999",
+    "title": "Tous",
+    "chunk_index": 0,
+    "text": "Type: fiche service\nID: svc_999\nService: Tous\nTitre: Orientation générale des services\nType de service: Catalogue de support multi-services\nDescription: Cette fiche sert d'entrée générale pour orienter le chatbot vers le bon domaine de service avant d'interroger les articles détaillés. Elle couvre les services ADSL, 4G, FTTx et Téléphonie.\nPositionnement: Point d'entrée de routage et d'explication globale des services pris en charge.\nPrérequis généraux: identifier le service concerné par la demande | déterminer s'il s'agit d'un incident technique ou d'une demande commerciale | récupérer une formulation claire du problème utilisateur\nDocuments possibles: numéro de ligne, contrat ou référence client selon le service | captures ou détails de l'anomalie si disponibles\nCatégories couvertes: Tec"
+  },
+  {
+    "id": 165,
+    "source": "kb_services.json",
+    "doc_type": "service",
+    "record_id": "svc_999",
+    "title": "Tous",
+    "chunk_index": 1,
+    "text": "ontrat ou référence client selon le service | captures ou détails de l'anomalie si disponibles\nCatégories couvertes: Technique | Commercial\nSous-catégories couvertes: Chute de débit | Déconnexion fréquente | Erreur 651/678 | Erreur 691 solde positive | Impossible d'afficher les pages | Link instable | Couverture réseau | Pas d'internet | Pas de signal réseau | Signal réseau instable | Coupure de communication | Inversion de ligne | Mauvaise audition et friture | Pas de tonalité téléphone | Mélange de communication | Problème de réception | Problème émission national | Problème émission international | Problème émission numéros courts | Ajustement | Changement de débit | Demande de compensation | Omission activ/désactiv pause | Accès au service refusé | Solde non attribué | Non disponibilit"
+  },
+  {
+    "id": 166,
+    "source": "kb_services.json",
+    "doc_type": "service",
+    "record_id": "svc_999",
+    "title": "Tous",
+    "chunk_index": 2,
+    "text": "emande de compensation | Omission activ/désactiv pause | Accès au service refusé | Solde non attribué | Non disponibilité | Perte de volume data | Perte de bonus data | Appel vers short code | Appels émission et réception | Perte de crédits | Réception appels | Perte de bonus\nIntents associés: debit_lent | internet_panne | probleme_modem | paiement_facture | autre | installation_fibre | resiliation\nActions selfcare: faire préciser le service concerné | faire préciser le symptôme principal | diriger ensuite vers l'article ou la FAQ adaptés\nFAQ associées: faq_031 | faq_032 | faq_033 | faq_034 | faq_035 | faq_036 | faq_037 | faq_038 | faq_007 | faq_008 | faq_009 | faq_025 | faq_026 | faq_027 | faq_028 | faq_029 | faq_030 | faq_001 | faq_002 | faq_003 | faq_004 | faq_005 | faq_006 | faq_901 |"
+  },
+  {
+    "id": 167,
+    "source": "kb_services.json",
+    "doc_type": "service",
+    "record_id": "svc_999",
+    "title": "Tous",
+    "chunk_index": 3,
+    "text": "faq_026 | faq_027 | faq_028 | faq_029 | faq_030 | faq_001 | faq_002 | faq_003 | faq_004 | faq_005 | faq_006 | faq_901 | faq_010 | faq_011 | faq_012 | faq_013 | faq_014 | faq_015 | faq_900 | faq_905 | faq_902 | faq_903 | faq_904 | faq_906 | faq_016 | faq_017 | faq_018 | faq_019 | faq_020 | faq_021 | faq_022 | faq_023 | faq_024\nArticles associés: kb_001 | kb_002 | kb_003 | kb_004 | kb_005 | kb_006 | kb_007 | kb_008 | kb_009 | kb_010 | kb_011 | kb_012 | kb_013 | kb_014 | kb_015 | kb_016 | kb_017 | kb_018 | kb_019 | kb_020 | kb_021 | kb_022 | kb_023 | kb_024 | kb_025 | kb_026 | kb_027 | kb_028 | kb_029 | kb_030 | kb_031 | kb_032 | kb_033 | kb_034 | kb_035 | kb_036 | kb_037 | kb_038\nRésumé support: {'nb_services': 4, 'nb_articles': 38, 'nb_faq': 45, 'nb_categories': 2, 'nb_sous_categories': 33}"
+  },
+  {
+    "id": 168,
+    "source": "kb_services.json",
+    "doc_type": "service",
+    "record_id": "svc_999",
+    "title": "Tous",
+    "chunk_index": 4,
+    "text": "kb_038\nRésumé support: {'nb_services': 4, 'nb_articles': 38, 'nb_faq': 45, 'nb_categories': 2, 'nb_sous_categories': 33}\nMots-clés: ADSL | 4G | FTTx | Téléphonie | orientation | routage | support\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 169,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_001",
+    "title": "qualification_initiale",
+    "chunk_index": 0,
+    "text": "Type: règle métier\nID: rule_001\nThème: qualification_initiale\nType de règle: triage\nPérimètre service: ADSL | 4G | FTTx | Téléphonie\nPérimètre catégorie: Tous\nCondition: Toute nouvelle demande client doit être qualifiée avant de proposer une réponse ou une action.\nAction: Identifier le service concerné, la nature technique ou commerciale de la demande, le symptôme principal et la récence du problème. Associer ensuite l'intention la plus probable et rechercher les articles de connaissance correspondants.\nJustification: Une qualification minimale améliore le routage et évite de proposer une procédure non adaptée au service réel du client.\nPré-vérifications: relever le service cité par le client | repérer s'il s'agit d'une panne, d'une lenteur, d'un paiement ou d'une demande commerciale | not"
+  },
+  {
+    "id": 170,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_001",
+    "title": "qualification_initiale",
+    "chunk_index": 1,
+    "text": "ce cité par le client | repérer s'il s'agit d'une panne, d'une lenteur, d'un paiement ou d'une demande commerciale | noter depuis quand le problème est observé\nEscalade: Si le service ou la demande reste ambiguë après reformulation, transférer vers un agent humain pour qualification manuelle.\nArticles liés: kb_001 | kb_002 | kb_003 | kb_004 | kb_005 | kb_006 | kb_007 | kb_008 | kb_009 | kb_010 | kb_011 | kb_012 | kb_013 | kb_014 | kb_015 | kb_016 | kb_017 | kb_018 | kb_019 | kb_020 | kb_021 | kb_022 | kb_023 | kb_024 | kb_025 | kb_026 | kb_027 | kb_028 | kb_029 | kb_030 | kb_031 | kb_032 | kb_033 | kb_034 | kb_035 | kb_036 | kb_037 | kb_038\nFAQ liées: faq_001 | faq_002 | faq_003 | faq_004 | faq_005 | faq_006 | faq_007 | faq_008 | faq_009 | faq_010 | faq_011 | faq_012 | faq_013 | faq_014 |"
+  },
+  {
+    "id": 171,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_001",
+    "title": "qualification_initiale",
+    "chunk_index": 2,
+    "text": "faq_003 | faq_004 | faq_005 | faq_006 | faq_007 | faq_008 | faq_009 | faq_010 | faq_011 | faq_012 | faq_013 | faq_014 | faq_015 | faq_016 | faq_017 | faq_018 | faq_019 | faq_020 | faq_021 | faq_022 | faq_023 | faq_024 | faq_025 | faq_026 | faq_027 | faq_028 | faq_029 | faq_030 | faq_031 | faq_032 | faq_033 | faq_034 | faq_035 | faq_036 | faq_037 | faq_038 | faq_901\nMots-clés: triage | qualification | service | intention | routage\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 172,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_002",
+    "title": "verification_identifiants_compte",
+    "chunk_index": 0,
+    "text": "Type: règle métier\nID: rule_002\nThème: verification_identifiants_compte\nType de règle: precheck\nPérimètre service: ADSL | 4G | FTTx | Téléphonie\nPérimètre catégorie: Tous\nCondition: Avant tout traitement spécifique, l'identité fonctionnelle du dossier doit être suffisante pour rattacher la demande au bon service.\nAction: Demander au minimum une référence exploitable selon le service: numéro de ligne, numéro de téléphone, référence contrat ou identifiant du compte.\nJustification: Les vérifications techniques et commerciales dépendent du bon rattachement au dossier client.\nPré-vérifications: vérifier la présence d'un numéro ou d'une référence | confirmer que le client parle du bon service\nEscalade: Si aucune référence n'est disponible, limiter la réponse à des conseils généraux puis orienter"
+  },
+  {
+    "id": 173,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_002",
+    "title": "verification_identifiants_compte",
+    "chunk_index": 1,
+    "text": "du bon service\nEscalade: Si aucune référence n'est disponible, limiter la réponse à des conseils généraux puis orienter vers le canal de support approprié.\nArticles liés: kb_001 | kb_002 | kb_003 | kb_004 | kb_005 | kb_006 | kb_007 | kb_008 | kb_009 | kb_010 | kb_011 | kb_012 | kb_013 | kb_014 | kb_015 | kb_016 | kb_017 | kb_018 | kb_019 | kb_020 | kb_021 | kb_022 | kb_023 | kb_024 | kb_025 | kb_026 | kb_027 | kb_028 | kb_029 | kb_030 | kb_031 | kb_032 | kb_033 | kb_034 | kb_035 | kb_036 | kb_037 | kb_038\nFAQ liées: faq_001 | faq_002 | faq_003 | faq_004 | faq_005 | faq_006 | faq_007 | faq_008 | faq_009 | faq_010 | faq_011 | faq_012 | faq_013 | faq_014 | faq_015 | faq_016 | faq_017 | faq_018 | faq_019 | faq_020 | faq_021 | faq_022 | faq_023 | faq_024 | faq_025 | faq_026 | faq_027 | faq_028"
+  },
+  {
+    "id": 174,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_002",
+    "title": "verification_identifiants_compte",
+    "chunk_index": 2,
+    "text": "| faq_017 | faq_018 | faq_019 | faq_020 | faq_021 | faq_022 | faq_023 | faq_024 | faq_025 | faq_026 | faq_027 | faq_028 | faq_029 | faq_030 | faq_031 | faq_032 | faq_033 | faq_034 | faq_035 | faq_036 | faq_037 | faq_038 | faq_901\nMots-clés: identifiant | numéro de ligne | contrat | référence client\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 175,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_003",
+    "title": "selfcare_internet_fixe",
+    "chunk_index": 0,
+    "text": "Type: règle métier\nID: rule_003\nThème: selfcare_internet_fixe\nType de règle: selfcare\nPérimètre service: ADSL | FTTx\nPérimètre catégorie: Technique\nCondition: Pour une panne, une lenteur ou une instabilité sur internet fixe, appliquer d'abord les vérifications locales de base.\nAction: Faire vérifier l'alimentation de l'équipement, les câbles, l'état des voyants, redémarrer le modem ou l'ONT puis demander un nouveau test après quelques minutes.\nJustification: Une part importante des incidents perçus peut être liée à l'équipement local, à l'alimentation ou à un câblage débranché.\nPré-vérifications: vérifier que le modem/ONT est sous tension | contrôler les câbles DSL/fibre/ethernet | redémarrer l'équipement | tester l'accès avec un seul appareil\nEscalade: Si la connexion reste indisponible o"
+  },
+  {
+    "id": 176,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_003",
+    "title": "selfcare_internet_fixe",
+    "chunk_index": 1,
+    "text": "ethernet | redémarrer l'équipement | tester l'accès avec un seul appareil\nEscalade: Si la connexion reste indisponible ou instable après selfcare, ouvrir ou transmettre un ticket technique.\nArticles liés: kb_001 | kb_002 | kb_003 | kb_004 | kb_005 | kb_006 | kb_010 | kb_011 | kb_012 | kb_013 | kb_014 | kb_015\nFAQ liées: faq_001 | faq_002 | faq_003 | faq_004 | faq_005 | faq_006 | faq_010 | faq_011 | faq_012 | faq_013 | faq_014 | faq_015\nMots-clés: modem | ONT | redémarrage | voyants | câbles | internet fixe\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 177,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_004",
+    "title": "escalade_persistance_incident_technique",
+    "chunk_index": 0,
+    "text": "Type: règle métier\nID: rule_004\nThème: escalade_persistance_incident_technique\nType de règle: escalade\nPérimètre service: ADSL | 4G | FTTx | Téléphonie\nPérimètre catégorie: Technique\nCondition: Le défaut persiste après les vérifications de base ou revient de manière répétée.\nAction: Constituer un dossier d'incident avec le service concerné, le symptôme, la fréquence, la durée, les tests déjà réalisés et le moment d'apparition, puis transmettre au support approprié.\nJustification: L'escalade doit s'appuyer sur des informations minimales pour accélérer le diagnostic par le niveau suivant.\nPré-vérifications: noter les tests déjà effectués | relever si le défaut est permanent ou intermittent | demander depuis quand le problème dure\nEscalade: Ticket technique ou transfert au support spécialisé"
+  },
+  {
+    "id": 178,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_004",
+    "title": "escalade_persistance_incident_technique",
+    "chunk_index": 1,
+    "text": "ou intermittent | demander depuis quand le problème dure\nEscalade: Ticket technique ou transfert au support spécialisé selon le service.\nArticles liés: kb_001 | kb_002 | kb_003 | kb_004 | kb_005 | kb_006 | kb_007 | kb_008 | kb_009 | kb_010 | kb_011 | kb_012 | kb_013 | kb_014 | kb_015 | kb_016 | kb_017 | kb_018 | kb_019 | kb_020 | kb_021 | kb_022 | kb_023 | kb_024\nFAQ liées: faq_001 | faq_002 | faq_003 | faq_004 | faq_005 | faq_006 | faq_007 | faq_008 | faq_009 | faq_010 | faq_011 | faq_012 | faq_013 | faq_014 | faq_015 | faq_016 | faq_017 | faq_018 | faq_019 | faq_020 | faq_021 | faq_022 | faq_023 | faq_024\nMots-clés: incident persistant | ticket | support | escalade\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 179,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_005",
+    "title": "traitement_lenteur_debit",
+    "chunk_index": 0,
+    "text": "Type: règle métier\nID: rule_005\nThème: traitement_lenteur_debit\nType de règle: diagnostic\nPérimètre service: ADSL | 4G | FTTx\nPérimètre catégorie: Technique\nCondition: Le client signale une chute de débit, une lenteur ou une mauvaise performance.\nAction: Faire isoler un seul appareil, éviter les usages simultanés, lancer un test de débit si possible et comparer le ressenti à des horaires différents avant d'orienter la suite.\nJustification: La performance perçue peut être influencée par le réseau local, l'encombrement ou la qualité du lien d'accès.\nPré-vérifications: tester avec un seul appareil | redémarrer l'équipement | effectuer un test de débit | demander si le problème est continu ou à certaines heures\nEscalade: Transmettre pour expertise technique si la lenteur reste confirmée après"
+  },
+  {
+    "id": 180,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_005",
+    "title": "traitement_lenteur_debit",
+    "chunk_index": 1,
+    "text": "me est continu ou à certaines heures\nEscalade: Transmettre pour expertise technique si la lenteur reste confirmée après les tests de base.\nArticles liés: kb_001 | kb_007 | kb_010\nFAQ liées: faq_001 | faq_007 | faq_010\nMots-clés: débit lent | performance | test de débit | saturation\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 181,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_006",
+    "title": "pas_d_internet_internet_fixe",
+    "chunk_index": 0,
+    "text": "Type: règle métier\nID: rule_006\nThème: pas_d_internet_internet_fixe\nType de règle: diagnostic\nPérimètre service: ADSL | FTTx\nPérimètre catégorie: Technique\nCondition: Le client n'a plus de connexion internet ou ne peut plus afficher les pages.\nAction: Vérifier les voyants de synchronisation ou de signal, les câbles, le redémarrage du modem ou de l'ONT et tester l'accès sur un autre appareil ou navigateur avant de conclure à une panne réseau.\nJustification: Les symptômes de panne totale peuvent correspondre à une perte de signal, à une erreur de session ou à un problème local de navigation.\nPré-vérifications: observer les voyants | redémarrer l'équipement | tester sur un autre appareil ou navigateur | vérifier les branchements\nEscalade: Ouvrir un ticket technique si aucune connexion n'est r"
+  },
+  {
+    "id": 182,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_006",
+    "title": "pas_d_internet_internet_fixe",
+    "chunk_index": 1,
+    "text": "utre appareil ou navigateur | vérifier les branchements\nEscalade: Ouvrir un ticket technique si aucune connexion n'est rétablie après les tests.\nArticles liés: kb_005 | kb_012 | kb_013\nFAQ liées: faq_005 | faq_012 | faq_013\nMots-clés: pas internet | pages ne s'affichent pas | voyants | erreur 651 | erreur 678\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 183,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_007",
+    "title": "instabilite_deconnexion_frequente",
+    "chunk_index": 0,
+    "text": "Type: règle métier\nID: rule_007\nThème: instabilite_deconnexion_frequente\nType de règle: diagnostic\nPérimètre service: ADSL | 4G | FTTx\nPérimètre catégorie: Technique\nCondition: Le client signale des déconnexions fréquentes, un lien instable ou un signal réseau instable.\nAction: Faire préciser la fréquence, les horaires, le contexte d'usage et appliquer les vérifications d'équipement ou de couverture selon le service. Si le comportement est répétitif, consigner le caractère intermittent pour le support.\nJustification: Les incidents intermittents nécessitent une description précise pour être reproduits ou corrélés à des défauts réseau.\nPré-vérifications: demander la fréquence des coupures | préciser les horaires d'apparition | redémarrer l'équipement | vérifier la qualité du signal ou de la"
+  },
+  {
+    "id": 184,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_007",
+    "title": "instabilite_deconnexion_frequente",
+    "chunk_index": 1,
+    "text": "ce des coupures | préciser les horaires d'apparition | redémarrer l'équipement | vérifier la qualité du signal ou de la ligne\nEscalade: Transmettre au support si l'instabilité persiste ou impacte fortement l'usage.\nArticles liés: kb_002 | kb_006 | kb_009 | kb_011 | kb_015\nFAQ liées: faq_002 | faq_009 | faq_011 | faq_015\nMots-clés: déconnexion | instable | intermittent | coupures\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 185,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_008",
+    "title": "diagnostic_modem_equipement",
+    "chunk_index": 0,
+    "text": "Type: règle métier\nID: rule_008\nThème: diagnostic_modem_equipement\nType de règle: selfcare\nPérimètre service: ADSL | FTTx\nPérimètre catégorie: Technique\nCondition: Le symptôme évoque un problème de modem, d'ONT, d'alimentation ou de synchronisation locale.\nAction: Guider le client vers un redémarrage, un contrôle de l'alimentation, des câbles et des voyants, puis envisager un remplacement ou une intervention seulement si le comportement anormal persiste.\nJustification: Le dysfonctionnement matériel local doit être écarté avant toute action plus lourde.\nPré-vérifications: vérifier l'alimentation | contrôler les câbles | observer les voyants | tester après redémarrage\nEscalade: Créer un ticket si un défaut matériel reste probable après les vérifications.\nArticles liés: kb_002 | kb_003 | kb_0"
+  },
+  {
+    "id": 186,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_008",
+    "title": "diagnostic_modem_equipement",
+    "chunk_index": 1,
+    "text": "ade: Créer un ticket si un défaut matériel reste probable après les vérifications.\nArticles liés: kb_002 | kb_003 | kb_005 | kb_006 | kb_011 | kb_012 | kb_013 | kb_015\nFAQ liées: faq_002 | faq_005 | faq_011 | faq_012 | faq_013 | faq_014 | faq_015\nMots-clés: modem | ont | alimentation | voyants | équipement\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 187,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_009",
+    "title": "qualifier_couverture_4g",
+    "chunk_index": 0,
+    "text": "Type: règle métier\nID: rule_009\nThème: qualifier_couverture_4g\nType de règle: diagnostic\nPérimètre service: 4G\nPérimètre catégorie: Technique\nCondition: Le client évoque une absence de réseau, une mauvaise couverture ou une déconnexion mobile.\nAction: Vérifier la zone, le niveau de signal, le type d'appareil, un redémarrage simple et si le problème est localisé à un lieu précis avant de conclure à une indisponibilité réseau.\nJustification: Les incidents 4G dépendent fortement de la zone, de l'appareil et du niveau de signal perçu.\nPré-vérifications: demander la zone d'usage | confirmer le type d'appareil | redémarrer l'appareil | vérifier si le problème concerne un lieu précis\nEscalade: Transmettre au support réseau mobile si l'absence de service est confirmée dans la zone après les tests."
+  },
+  {
+    "id": 188,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_009",
+    "title": "qualifier_couverture_4g",
+    "chunk_index": 1,
+    "text": "récis\nEscalade: Transmettre au support réseau mobile si l'absence de service est confirmée dans la zone après les tests.\nArticles liés: kb_008 | kb_009\nFAQ liées: faq_008 | faq_009\nMots-clés: 4G | couverture | réseau mobile | signal | zone\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 189,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_010",
+    "title": "consommation_data_bonus",
+    "chunk_index": 0,
+    "text": "Type: règle métier\nID: rule_010\nThème: consommation_data_bonus\nType de règle: commercial\nPérimètre service: 4G\nPérimètre catégorie: Commercial\nCondition: Le client conteste une perte de volume data, de bonus data, de bonus ou de crédits.\nAction: Vérifier le type d'avantage attendu, la période concernée, l'état du compte et l'éligibilité de l'offre avant d'annoncer une correction ou une compensation.\nJustification: Les écarts de solde ou d'avantages doivent être rapprochés de l'offre, de la période et des conditions d'attribution.\nPré-vérifications: demander la date approximative de la perte | préciser s'il s'agit de crédit, data ou bonus | vérifier l'offre concernée\nEscalade: Orienter vers le service commercial ou facturation si la contestation reste fondée après vérification.\nArticles lié"
+  },
+  {
+    "id": 190,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_010",
+    "title": "consommation_data_bonus",
+    "chunk_index": 1,
+    "text": "ade: Orienter vers le service commercial ou facturation si la contestation reste fondée après vérification.\nArticles liés: kb_032 | kb_033 | kb_036 | kb_038\nFAQ liées: faq_032 | faq_033 | faq_036 | faq_038\nMots-clés: data | bonus | crédit | solde | avantage 4g\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 191,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_011",
+    "title": "telephonie_pas_de_tonalite",
+    "chunk_index": 0,
+    "text": "Type: règle métier\nID: rule_011\nThème: telephonie_pas_de_tonalite\nType de règle: diagnostic\nPérimètre service: Téléphonie\nPérimètre catégorie: Technique\nCondition: Le client n'a pas de tonalité ou subit une coupure de communication téléphonique.\nAction: Faire vérifier l'appareil, le câble, la prise, un test avec un autre combiné si possible, puis qualifier si le défaut touche l'émission, la réception ou les deux.\nJustification: L'absence de tonalité peut venir du poste, du câblage ou de la ligne, tandis que les coupures doivent être qualifiées selon le sens impacté.\nPré-vérifications: tester un autre combiné si possible | contrôler la prise et le câble | préciser émission/réception | noter si le défaut est permanent\nEscalade: Créer un ticket téléphonie si le défaut persiste après vérificat"
+  },
+  {
+    "id": 192,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_011",
+    "title": "telephonie_pas_de_tonalite",
+    "chunk_index": 1,
+    "text": "/réception | noter si le défaut est permanent\nEscalade: Créer un ticket téléphonie si le défaut persiste après vérification de l'appareil.\nArticles liés: kb_016 | kb_019\nFAQ liées: faq_016 | faq_019\nMots-clés: téléphonie | pas de tonalité | coupure | ligne fixe\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 193,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_012",
+    "title": "telephonie_qualite_communication",
+    "chunk_index": 0,
+    "text": "Type: règle métier\nID: rule_012\nThème: telephonie_qualite_communication\nType de règle: diagnostic\nPérimètre service: Téléphonie\nPérimètre catégorie: Technique\nCondition: Le client signale une mauvaise audition, de la friture, un mélange ou une inversion de ligne.\nAction: Qualifier la nature exacte du défaut audio ou de ligne, vérifier le poste utilisé et relever si le problème concerne tous les appels ou seulement certaines destinations.\nJustification: Les défauts de qualité ou de routage d'appel doivent être décrits précisément pour faciliter le diagnostic de ligne ou d'acheminement.\nPré-vérifications: préciser le type de gêne | indiquer si toutes les destinations sont impactées | tester un autre appareil si possible\nEscalade: Transmettre au support téléphonie si le défaut est confirmé et"
+  },
+  {
+    "id": 194,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_012",
+    "title": "telephonie_qualite_communication",
+    "chunk_index": 1,
+    "text": "mpactées | tester un autre appareil si possible\nEscalade: Transmettre au support téléphonie si le défaut est confirmé et récurrent.\nArticles liés: kb_017 | kb_018 | kb_020 | kb_021 | kb_022 | kb_023 | kb_024\nFAQ liées: faq_017 | faq_018 | faq_020 | faq_021 | faq_022 | faq_023 | faq_024\nMots-clés: friture | mauvaise audition | inversion de ligne | émission | réception\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 195,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_013",
+    "title": "paiement_et_solde",
+    "chunk_index": 0,
+    "text": "Type: règle métier\nID: rule_013\nThème: paiement_et_solde\nType de règle: commercial\nPérimètre service: ADSL | 4G | FTTx\nPérimètre catégorie: Commercial\nCondition: Le client pose une question de paiement, de facture, de solde non attribué ou de crédit manquant.\nAction: Vérifier l'opération contestée, le service, la période concernée et l'état du compte avant d'orienter vers paiement, réattribution ou support commercial.\nJustification: Les demandes de paiement ou de solde nécessitent une qualification minimale du mouvement contesté.\nPré-vérifications: demander la date du paiement ou de la recharge | confirmer le service et le compte concernés | préciser si le problème concerne une facture, un solde ou un crédit\nEscalade: Transférer au service commercial/facturation si l'anomalie ne peut pas ê"
+  },
+  {
+    "id": 196,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_013",
+    "title": "paiement_et_solde",
+    "chunk_index": 1,
+    "text": "ne une facture, un solde ou un crédit\nEscalade: Transférer au service commercial/facturation si l'anomalie ne peut pas être expliquée immédiatement.\nArticles liés: kb_030 | kb_036\nFAQ liées: faq_030 | faq_036\nMots-clés: paiement | facture | solde | crédit | recharge\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 197,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_014",
+    "title": "compensation_commerciale",
+    "chunk_index": 0,
+    "text": "Type: règle métier\nID: rule_014\nThème: compensation_commerciale\nType de règle: commercial\nPérimètre service: ADSL\nPérimètre catégorie: Commercial\nCondition: Le client demande une compensation liée à une interruption, une gêne ou une situation commerciale contestée.\nAction: Vérifier l'existence d'un incident préalable, la durée de l'impact et le cadre commercial applicable avant de promettre une compensation.\nJustification: Une compensation ne doit pas être engagée sans rattachement à un incident ou à une règle commerciale confirmée.\nPré-vérifications: préciser la période d'impact | vérifier si un incident a été déclaré | identifier le service exact concerné\nEscalade: Orienter vers le service commercial si la demande est recevable mais nécessite validation.\nArticles liés: kb_027\nFAQ liées:"
+  },
+  {
+    "id": 198,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_014",
+    "title": "compensation_commerciale",
+    "chunk_index": 1,
+    "text": "nter vers le service commercial si la demande est recevable mais nécessite validation.\nArticles liés: kb_027\nFAQ liées: faq_027\nMots-clés: compensation | geste commercial | remboursement | incident\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 199,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_015",
+    "title": "changement_debit_eligibilite",
+    "chunk_index": 0,
+    "text": "Type: règle métier\nID: rule_015\nThème: changement_debit_eligibilite\nType de règle: commercial\nPérimètre service: ADSL\nPérimètre catégorie: Commercial\nCondition: Le client demande un changement de débit ou un ajustement du service ADSL.\nAction: Confirmer la demande, vérifier l'éligibilité technique et l'offre disponible avant de transmettre au circuit commercial adapté.\nJustification: Les modifications de débit dépendent à la fois des possibilités techniques et du cadre de l'offre.\nPré-vérifications: confirmer le débit souhaité | vérifier la compatibilité technique | identifier le compte concerné\nEscalade: Transférer au service commercial si le changement est possible mais requiert une opération sur le dossier.\nArticles liés: kb_025 | kb_026\nFAQ liées: faq_025 | faq_026\nMots-clés: changemen"
+  },
+  {
+    "id": 200,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_015",
+    "title": "changement_debit_eligibilite",
+    "chunk_index": 1,
+    "text": "requiert une opération sur le dossier.\nArticles liés: kb_025 | kb_026\nFAQ liées: faq_025 | faq_026\nMots-clés: changement de débit | ajustement | éligibilité | offre ADSL\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 201,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_016",
+    "title": "installation_fibre_eligibilite",
+    "chunk_index": 0,
+    "text": "Type: règle métier\nID: rule_016\nThème: installation_fibre_eligibilite\nType de règle: commercial\nPérimètre service: FTTx\nPérimètre catégorie: Commercial\nCondition: Le client souhaite une installation fibre ou se renseigne sur la possibilité d'accès au service.\nAction: Vérifier l'éligibilité de la zone, la faisabilité technique locale et les documents nécessaires avant d'engager une suite commerciale ou technique.\nJustification: L'installation fibre dépend d'abord de l'éligibilité et de la faisabilité technique sur site.\nPré-vérifications: demander la localisation ou la zone | confirmer qu'il s'agit d'une nouvelle installation | indiquer que l'éligibilité doit être vérifiée\nEscalade: Orienter vers le service commercial ou le circuit d'installation si l'éligibilité est confirmée.\nFAQ liées: f"
+  },
+  {
+    "id": 202,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_016",
+    "title": "installation_fibre_eligibilite",
+    "chunk_index": 1,
+    "text": "Escalade: Orienter vers le service commercial ou le circuit d'installation si l'éligibilité est confirmée.\nFAQ liées: faq_901\nMots-clés: installation fibre | FTTx | éligibilité | raccordement\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 203,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_017",
+    "title": "resiliation_demande_client",
+    "chunk_index": 0,
+    "text": "Type: règle métier\nID: rule_017\nThème: resiliation_demande_client\nType de règle: commercial\nPérimètre service: ADSL | 4G | FTTx | Téléphonie\nPérimètre catégorie: Commercial\nCondition: Le client souhaite résilier ou arrêter un service.\nAction: Confirmer explicitement la volonté de résiliation, rappeler qu'une vérification du dossier et des conditions contractuelles est nécessaire, puis orienter vers le canal commercial compétent.\nJustification: La résiliation est une opération sensible qui nécessite confirmation, identification du service et traitement par le bon canal.\nPré-vérifications: confirmer le service à résilier | vérifier l'identité du titulaire | indiquer que des conditions contractuelles peuvent s'appliquer\nEscalade: Transférer au service commercial ou à l'agence compétente pour"
+  },
+  {
+    "id": 204,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_017",
+    "title": "resiliation_demande_client",
+    "chunk_index": 1,
+    "text": "conditions contractuelles peuvent s'appliquer\nEscalade: Transférer au service commercial ou à l'agence compétente pour finalisation.\nArticles liés: kb_029\nMots-clés: résiliation | annulation | arrêt service | clôture contrat\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 205,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_018",
+    "title": "service_refuse_ou_indisponible",
+    "chunk_index": 0,
+    "text": "Type: règle métier\nID: rule_018\nThème: service_refuse_ou_indisponible\nType de règle: commercial\nPérimètre service: ADSL | 4G\nPérimètre catégorie: Commercial\nCondition: Le client signale un accès au service refusé, une non-disponibilité ou une activation/pause mal appliquée.\nAction: Vérifier le statut du compte, l'état de l'offre et la possibilité réelle de distribution du service avant de conclure à un refus définitif.\nJustification: Certaines demandes relèvent d'un état de compte ou d'offre et non d'une impossibilité technique définitive.\nPré-vérifications: préciser si la demande concerne activation, réactivation ou disponibilité | vérifier le service concerné | identifier la période du problème\nEscalade: Orienter vers le service commercial si une action sur le compte ou l'offre est requi"
+  },
+  {
+    "id": 206,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_018",
+    "title": "service_refuse_ou_indisponible",
+    "chunk_index": 1,
+    "text": "er la période du problème\nEscalade: Orienter vers le service commercial si une action sur le compte ou l'offre est requise.\nArticles liés: kb_028 | kb_029 | kb_031\nFAQ liées: faq_028 | faq_029 | faq_031\nMots-clés: service refusé | non disponibilité | activation | pause | réactivation\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 207,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_019",
+    "title": "appels_speciaux_et_destinations",
+    "chunk_index": 0,
+    "text": "Type: règle métier\nID: rule_019\nThème: appels_speciaux_et_destinations\nType de règle: commercial\nPérimètre service: 4G | Téléphonie\nPérimètre catégorie: Technique\nCondition: Le client ne peut pas joindre des numéros courts, des destinations nationales ou internationales, ou rencontre un problème ciblé sur certains appels.\nAction: Qualifier la destination impactée, vérifier si le défaut concerne tous les appels ou seulement un type précis, puis orienter vers le support approprié.\nJustification: Les restrictions ou défauts d'appel peuvent dépendre de la destination, du service ou d'un paramétrage spécifique.\nPré-vérifications: préciser la destination ou le type de numéro | indiquer si l'émission, la réception ou les deux sont touchées | noter depuis quand le défaut existe\nEscalade: Transmett"
+  },
+  {
+    "id": 208,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_019",
+    "title": "appels_speciaux_et_destinations",
+    "chunk_index": 1,
+    "text": "indiquer si l'émission, la réception ou les deux sont touchées | noter depuis quand le défaut existe\nEscalade: Transmettre au support téléphonie/mobile si le problème est confirmé sur une catégorie d'appels.\nArticles liés: kb_022 | kb_023 | kb_024\nFAQ liées: faq_022 | faq_023 | faq_024\nMots-clés: numéro court | appel international | appel national | émission | réception\nStatut: brouillon_a_valider"
+  },
+  {
+    "id": 209,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_020",
+    "title": "usage_base_connaissance_rag",
+    "chunk_index": 0,
+    "text": "Type: règle métier\nID: rule_020\nThème: usage_base_connaissance_rag\nType de règle: knowledge_usage\nPérimètre service: ADSL | 4G | FTTx | Téléphonie\nPérimètre catégorie: Tous\nCondition: Une réponse doit être générée par le chatbot après qualification de la demande.\nAction: Récupérer en priorité les articles, FAQ et fiches service liés au service et à l'intention identifiés, puis composer une réponse en langage naturel en combinant symptômes, vérifications, réponse type et règles de routage.\nJustification: Le RAG doit exploiter la connaissance métier structurée avant de produire une réponse finale.\nPré-vérifications: déterminer l'intention probable | récupérer les articles et FAQ associés | appliquer la règle métier la plus pertinente\nEscalade: Si la base ne couvre pas suffisamment le cas, ré"
+  },
+  {
+    "id": 210,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_020",
+    "title": "usage_base_connaissance_rag",
+    "chunk_index": 1,
+    "text": "t FAQ associés | appliquer la règle métier la plus pertinente\nEscalade: Si la base ne couvre pas suffisamment le cas, répondre de façon prudente puis orienter vers un agent humain.\nArticles liés: kb_001 | kb_002 | kb_003 | kb_004 | kb_005 | kb_006 | kb_007 | kb_008 | kb_009 | kb_010 | kb_011 | kb_012 | kb_013 | kb_014 | kb_015 | kb_016 | kb_017 | kb_018 | kb_019 | kb_020 | kb_021 | kb_022 | kb_023 | kb_024 | kb_025 | kb_026 | kb_027 | kb_028 | kb_029 | kb_030 | kb_031 | kb_032 | kb_033 | kb_034 | kb_035 | kb_036 | kb_037 | kb_038\nFAQ liées: faq_001 | faq_002 | faq_003 | faq_004 | faq_005 | faq_006 | faq_007 | faq_008 | faq_009 | faq_010 | faq_011 | faq_012 | faq_013 | faq_014 | faq_015 | faq_016 | faq_017 | faq_018 | faq_019 | faq_020 | faq_021 | faq_022 | faq_023 | faq_024 | faq_025 | faq"
+  },
+  {
+    "id": 211,
+    "source": "kb_rules.json",
+    "doc_type": "rule",
+    "record_id": "rule_020",
+    "title": "usage_base_connaissance_rag",
+    "chunk_index": 2,
+    "text": "_014 | faq_015 | faq_016 | faq_017 | faq_018 | faq_019 | faq_020 | faq_021 | faq_022 | faq_023 | faq_024 | faq_025 | faq_026 | faq_027 | faq_028 | faq_029 | faq_030 | faq_031 | faq_032 | faq_033 | faq_034 | faq_035 | faq_036 | faq_037 | faq_038 | faq_901\nMots-clés: RAG | base de connaissance | articles | FAQ | règles\nStatut: brouillon_a_valider"
+  }
+]

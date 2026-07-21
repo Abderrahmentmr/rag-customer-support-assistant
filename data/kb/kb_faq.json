@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "faq_031",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Que signifie la non-disponibilité d'un service 4G ?",
+    "reponse": "Une non-disponibilité commerciale peut être liée à l'absence d'éligibilité, à une indisponibilité d'offre ou à une limitation de distribution. Il faut vérifier l'offre demandée, la zone et le statut du dossier avant d'orienter le client.",
+    "service": "4G",
+    "segment": "Individual",
+    "categorie": "Commercial",
+    "sous_categorie": "Non disponibilité",
+    "intent_possible": "autre",
+    "related_article_id": "kb_031",
+    "variante_questions": [
+      "le service 4g n'est pas disponible",
+      "offre indisponible",
+      "non disponible dans ma zone"
+    ],
+    "mots_cles": [
+      "4G",
+      "Commercial",
+      "Non disponibilité",
+      "autre",
+      "demande non réalisable dans la zone",
+      "service ou offre indisponible"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_032",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Que faire si mon volume data 4G a diminué anormalement ?",
+    "reponse": "En cas de perte de volume data, il faut vérifier la consommation, la validité du forfait et l'historique des opérations. Si l'écart semble injustifié, le cas doit être transmis pour vérification commerciale.",
+    "service": "4G",
+    "segment": "Individual",
+    "categorie": "Commercial",
+    "sous_categorie": "Perte de volume data",
+    "intent_possible": "autre",
+    "related_article_id": "kb_032",
+    "variante_questions": [
+      "mon solde n'apparaît pas",
+      "j'ai perdu mon crédit",
+      "mon bonus a disparu"
+    ],
+    "mots_cles": [
+      "4G",
+      "Commercial",
+      "Perte de volume data",
+      "bonus, crédit ou volume non visible",
+      "paiement_facture",
+      "solde attendu non crédité"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_033",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Que faire si mon bonus data 4G a disparu ?",
+    "reponse": "Il faut contrôler les conditions d'attribution du bonus, sa période de validité et l'historique du compte. Si le bonus était attendu mais n'apparaît plus, une réclamation commerciale doit être enregistrée.",
+    "service": "4G",
+    "segment": "Individual",
+    "categorie": "Commercial",
+    "sous_categorie": "Perte de bonus data",
+    "intent_possible": "paiement_facture",
+    "related_article_id": "kb_033",
+    "variante_questions": [
+      "mon solde n'apparaît pas",
+      "j'ai perdu mon crédit",
+      "mon bonus a disparu"
+    ],
+    "mots_cles": [
+      "4G",
+      "Commercial",
+      "Perte de bonus data",
+      "bonus, crédit ou volume non visible",
+      "paiement_facture",
+      "solde attendu non crédité"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_034",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Pourquoi les appels vers les short codes ne fonctionnent pas en 4G ?",
+    "reponse": "Il faut d'abord vérifier si les short codes concernés sont autorisés par l'offre et si le service voix fonctionne normalement. Si l'anomalie ne touche que ces numéros, le dossier doit être transmis au service compétent.",
+    "service": "4G",
+    "segment": "Individual",
+    "categorie": "Commercial",
+    "sous_categorie": "Appel vers short code",
+    "intent_possible": "autre",
+    "related_article_id": "kb_034",
+    "variante_questions": [
+      "Pourquoi les appels vers les short codes ne fonctionnent pas en 4G ?",
+      "demande appel vers short code",
+      "comment traiter appel vers short code"
+    ],
+    "mots_cles": [
+      "4G",
+      "Appel vers short code",
+      "Commercial",
+      "autre",
+      "impossibilité d'appeler un numéro court",
+      "échec vers short code"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_035",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Que faire si j'ai un problème d'émission et de réception d'appels sur ma ligne 4G ?",
+    "reponse": "Il faut vérifier le statut de la ligne, la disponibilité du service voix, le crédit ou l'état du forfait, puis tester après redémarrage de l'appareil. Si le problème persiste, une vérification commerciale ou technique doit être menée.",
+    "service": "4G",
+    "segment": "Individual",
+    "categorie": "Commercial",
+    "sous_categorie": "Appels émission et réception",
+    "intent_possible": "autre",
+    "related_article_id": "kb_035",
+    "variante_questions": [
+      "Que faire si j'ai un problème d'émission et de réception d'appels sur ma ligne 4G ?",
+      "demande appels émission et réception",
+      "comment traiter appels émission et réception"
+    ],
+    "mots_cles": [
+      "4G",
+      "Appels émission et réception",
+      "Commercial",
+      "internet_panne",
+      "problème global sur les appels entrants et sortants",
+      "émission et réception indisponibles"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_036",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Que faire si mon crédit 4G a été perdu ou consommé anormalement ?",
+    "reponse": "Il faut contrôler les dernières opérations, la consommation récente et la validité du crédit. Si une anomalie est suspectée, le client doit fournir les informations du compte pour vérification commerciale.",
+    "service": "4G",
+    "segment": "Individual",
+    "categorie": "Commercial",
+    "sous_categorie": "Perte de crédits",
+    "intent_possible": "paiement_facture",
+    "related_article_id": "kb_036",
+    "variante_questions": [
+      "mon solde n'apparaît pas",
+      "j'ai perdu mon crédit",
+      "mon bonus a disparu"
+    ],
+    "mots_cles": [
+      "4G",
+      "Commercial",
+      "Perte de crédits",
+      "bonus, crédit ou volume non visible",
+      "paiement_facture",
+      "solde attendu non crédité"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_037",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Pourquoi je ne reçois pas les appels sur ma ligne 4G ?",
+    "reponse": "Il faut vérifier le statut de la ligne, le signal réseau et confirmer si seuls les appels entrants sont touchés. Si le défaut est confirmé, le dossier doit être orienté vers l'équipe compétente.",
+    "service": "4G",
+    "segment": "Individual",
+    "categorie": "Commercial",
+    "sous_categorie": "Réception appels",
+    "intent_possible": "autre",
+    "related_article_id": "kb_037",
+    "variante_questions": [
+      "Pourquoi je ne reçois pas les appels sur ma ligne 4G ?",
+      "demande réception appels",
+      "comment traiter réception appels"
+    ],
+    "mots_cles": [
+      "4G",
+      "Commercial",
+      "Réception appels",
+      "appels entrants non reçus",
+      "certains appels n'aboutissent pas",
+      "internet_panne",
+      "réception irrégulière"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_038",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Que faire si mon bonus 4G a été perdu ?",
+    "reponse": "Il faut vérifier les conditions d'obtention du bonus, sa durée de validité et l'historique des opérations sur la ligne. Si le bonus devait être actif, une réclamation commerciale doit être enregistrée.",
+    "service": "4G",
+    "segment": "Individual",
+    "categorie": "Commercial",
+    "sous_categorie": "Perte de bonus",
+    "intent_possible": "paiement_facture",
+    "related_article_id": "kb_038",
+    "variante_questions": [
+      "mon solde n'apparaît pas",
+      "j'ai perdu mon crédit",
+      "mon bonus a disparu"
+    ],
+    "mots_cles": [
+      "4G",
+      "Commercial",
+      "Perte de bonus",
+      "bonus, crédit ou volume non visible",
+      "paiement_facture",
+      "solde attendu non crédité"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_007",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Pourquoi mon débit 4G est faible ?",
+    "reponse": "Une baisse de débit 4G peut être causée par la couverture radio, la saturation de cellule ou la qualité du signal. Il faut vérifier le niveau de réseau, se déplacer légèrement, redémarrer l'appareil et relancer les données mobiles. Si le problème reste constant dans la zone, une vérification réseau doit être demandée.",
+    "service": "4G",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Chute de débit",
+    "intent_possible": "debit_lent",
+    "related_article_id": "kb_007",
+    "variante_questions": [
+      "mon 4g est lent",
+      "j'ai un débit faible en 4g",
+      "la connexion est lente"
+    ],
+    "mots_cles": [
+      "4G",
+      "Chute de débit",
+      "Technique",
+      "connexion lente",
+      "debit_lent",
+      "pages qui chargent lentement",
+      "vidéos ou appels qui se coupent"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_008",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Comment vérifier si le problème vient de la couverture réseau 4G ?",
+    "reponse": "Le premier réflexe est de contrôler le niveau de signal et de tester la connexion dans un autre endroit proche. Si le réseau revient en changeant d'emplacement, le problème peut venir de la couverture radio locale. Si le service reste indisponible dans toute la zone, un contrôle réseau doit être envisagé.",
+    "service": "4G",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Couverture réseau",
+    "intent_possible": "internet_panne",
+    "related_article_id": "kb_008",
+    "variante_questions": [
+      "Comment vérifier si le problème vient de la couverture réseau 4G ?",
+      "problème couverture réseau",
+      "que faire pour couverture réseau"
+    ],
+    "mots_cles": [
+      "4G",
+      "Couverture réseau",
+      "Technique",
+      "aucun signal",
+      "autre",
+      "barres réseau faibles ou absentes",
+      "impossibilité de se connecter"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_009",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Pourquoi ma connexion 4G se coupe souvent ?",
+    "reponse": "Des déconnexions fréquentes en 4G peuvent être liées à une couverture instable, à un appareil perturbé ou à une saturation locale. Il faut activer puis désactiver le mode avion, redémarrer le téléphone ou le routeur 4G et tester dans une autre zone. Si le défaut persiste, le cas doit être remonté.",
+    "service": "4G",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Déconnexion fréquente",
+    "intent_possible": "internet_panne",
+    "related_article_id": "kb_009",
+    "variante_questions": [
+      "mon 4g se déconnecte souvent",
+      "la connexion coupe souvent",
+      "j'ai des coupures fréquentes"
+    ],
+    "mots_cles": [
+      "4G",
+      "Déconnexion fréquente",
+      "Technique",
+      "connexion qui revient puis repart",
+      "coupures répétées",
+      "internet_panne",
+      "service instable"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_025",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Comment demander un ajustement sur mon service ADSL ?",
+    "reponse": "Une demande d'ajustement doit être enregistrée avec le numéro de ligne, la nature du besoin et la période concernée. Il faut vérifier le dossier client puis transmettre la demande au service commercial pour traitement.",
+    "service": "ADSL",
+    "segment": "Individual",
+    "categorie": "Commercial",
+    "sous_categorie": "Ajustement",
+    "intent_possible": "autre",
+    "related_article_id": "kb_025",
+    "variante_questions": [
+      "Comment demander un ajustement sur mon service ADSL ?",
+      "demande ajustement",
+      "comment traiter ajustement"
+    ],
+    "mots_cles": [
+      "ADSL",
+      "Ajustement",
+      "Commercial",
+      "autre",
+      "demande de correction commerciale",
+      "écart sur la facturation"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_026",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Comment demander un changement de débit pour mon abonnement ADSL ?",
+    "reponse": "Un changement de débit ADSL nécessite de vérifier l'éligibilité technique de la ligne et l'offre souhaitée. Après validation, la demande peut être orientée vers le service commercial ou le processus de modification d'offre.",
+    "service": "ADSL",
+    "segment": "Individual",
+    "categorie": "Commercial",
+    "sous_categorie": "Changement de débit",
+    "intent_possible": "debit_lent",
+    "related_article_id": "kb_026",
+    "variante_questions": [
+      "je veux changer de débit",
+      "modifier mon débit adsl",
+      "passer à un autre débit"
+    ],
+    "mots_cles": [
+      "ADSL",
+      "Changement de débit",
+      "Commercial",
+      "debit_lent",
+      "demande d'augmentation ou diminution de débit",
+      "souhait de changement d'offre technique"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_027",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Comment faire une demande de compensation pour un service ADSL ?",
+    "reponse": "Une demande de compensation doit être liée à un incident clairement identifié. Il faut recueillir la période concernée, le numéro de service et tout justificatif utile, puis transmettre la demande selon la procédure commerciale.",
+    "service": "ADSL",
+    "segment": "Individual",
+    "categorie": "Commercial",
+    "sous_categorie": "Demande de compensation",
+    "intent_possible": "paiement_facture",
+    "related_article_id": "kb_027",
+    "variante_questions": [
+      "je veux une compensation",
+      "comment faire une réclamation",
+      "demande de compensation service"
+    ],
+    "mots_cles": [
+      "ADSL",
+      "Commercial",
+      "Demande de compensation",
+      "autre",
+      "demande de geste ou compensation",
+      "réclamation commerciale"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_028",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Que faire en cas d'omission d'activation ou de désactivation de pause sur l'ADSL ?",
+    "reponse": "Il faut vérifier l'état du service dans le dossier client et la date de la demande initiale. Si l'action attendue n'a pas été appliquée correctement, la correction doit être transmise au service commercial compétent.",
+    "service": "ADSL",
+    "segment": "Individual",
+    "categorie": "Commercial",
+    "sous_categorie": "Omission activ/désactiv pause",
+    "intent_possible": "autre",
+    "related_article_id": "kb_028",
+    "variante_questions": [
+      "Que faire en cas d'omission d'activation ou de désactivation de pause sur l'ADSL ?",
+      "demande omission activ/désactiv pause",
+      "comment traiter omission activ/désactiv pause"
+    ],
+    "mots_cles": [
+      "ADSL",
+      "Commercial",
+      "Omission activ/désactiv pause",
+      "autre",
+      "service pause non activé ou désactivé à tort",
+      "état de service incohérent"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_029",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Pourquoi l'accès à mon service ADSL est refusé ?",
+    "reponse": "Un accès refusé peut être lié à un dossier incomplet, à une suspension commerciale ou à une restriction sur le compte. Il faut vérifier le statut du service et la situation administrative avant de relancer le traitement.",
+    "service": "ADSL",
+    "segment": "Individual",
+    "categorie": "Commercial",
+    "sous_categorie": "Accès au service refusé",
+    "intent_possible": "autre",
+    "related_article_id": "kb_029",
+    "variante_questions": [
+      "accès refusé à mon service",
+      "je n'arrive pas à activer le service",
+      "service refusé"
+    ],
+    "mots_cles": [
+      "ADSL",
+      "Accès au service refusé",
+      "Commercial",
+      "accès refusé",
+      "demande rejetée",
+      "resiliation",
+      "service inaccessible malgré une demande"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_030",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Que faire si mon paiement ou mon solde ADSL n'a pas été attribué ?",
+    "reponse": "Si le solde n'apparaît pas après paiement, il faut vérifier la référence, la date et le justificatif du règlement. Le dossier doit ensuite être transmis pour régularisation commerciale.",
+    "service": "ADSL",
+    "segment": "Individual",
+    "categorie": "Commercial",
+    "sous_categorie": "Solde non attribué",
+    "intent_possible": "paiement_facture",
+    "related_article_id": "kb_030",
+    "variante_questions": [
+      "mon solde n'apparaît pas",
+      "j'ai perdu mon crédit",
+      "mon bonus a disparu"
+    ],
+    "mots_cles": [
+      "ADSL",
+      "Commercial",
+      "Solde non attribué",
+      "bonus, crédit ou volume non visible",
+      "paiement_facture",
+      "solde attendu non crédité"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_001",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Que faire si ma connexion ADSL est lente ?",
+    "reponse": "Une chute de débit ADSL peut venir de la ligne, du modem ou d'une saturation temporaire. Commencez par redémarrer le modem, vérifier le câble téléphonique/DSL et le filtre, puis testez la connexion avec un seul appareil. Si la lenteur persiste après ces vérifications, il faut orienter le dossier vers un diagnostic technique.",
+    "service": "ADSL",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Chute de débit",
+    "intent_possible": "debit_lent",
+    "related_article_id": "kb_001",
+    "variante_questions": [
+      "mon adsl est lent",
+      "j'ai un débit faible en adsl",
+      "la connexion est lente"
+    ],
+    "mots_cles": [
+      "ADSL",
+      "Chute de débit",
+      "Technique",
+      "connexion lente",
+      "debit_lent",
+      "pages qui chargent lentement",
+      "vidéos ou appels qui se coupent"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_002",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Pourquoi ma connexion ADSL se déconnecte souvent ?",
+    "reponse": "Des déconnexions fréquentes ADSL peuvent être liées à une ligne instable, à un filtre défectueux ou à un modem perturbé. Il faut vérifier les branchements, redémarrer le modem et observer si la coupure revient. Si le défaut reste récurrent, un ticket technique doit être ouvert.",
+    "service": "ADSL",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Déconnexion fréquente",
+    "intent_possible": "internet_panne",
+    "related_article_id": "kb_002",
+    "variante_questions": [
+      "mon adsl se déconnecte souvent",
+      "la connexion coupe souvent",
+      "j'ai des coupures fréquentes"
+    ],
+    "mots_cles": [
+      "ADSL",
+      "Déconnexion fréquente",
+      "Technique",
+      "connexion qui revient puis repart",
+      "coupures répétées",
+      "internet_panne",
+      "service instable"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_003",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Comment résoudre l'erreur 651/678 sur une connexion ADSL ?",
+    "reponse": "L'erreur 651/678 est généralement liée à un échec de connexion entre l'équipement et le réseau. Il faut redémarrer le modem et l'ordinateur, contrôler les câbles et vérifier que la ligne est bien synchronisée. Si l'erreur persiste, le cas doit être transmis au support technique.",
+    "service": "ADSL",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Erreur 651/678",
+    "intent_possible": "autre",
+    "related_article_id": "kb_003",
+    "variante_questions": [
+      "Comment résoudre l'erreur 651/678 sur une connexion ADSL ?",
+      "problème erreur 651/678",
+      "que faire pour erreur 651/678"
+    ],
+    "mots_cles": [
+      "ADSL",
+      "Erreur 651/678",
+      "Technique",
+      "erreur 651/678",
+      "probleme_modem"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_004",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Que signifie l'erreur 691 alors que le solde est positif ?",
+    "reponse": "L'erreur 691 correspond le plus souvent à un problème d'authentification ou d'activation de service. Il faut vérifier que les identifiants sont corrects, que le compte est bien actif et que le service n'est pas suspendu. Si tout semble normal, il faut remonter le dossier pour vérification technique ou commerciale.",
+    "service": "ADSL",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Erreur 691 solde positive",
+    "intent_possible": "paiement_facture",
+    "related_article_id": "kb_004",
+    "variante_questions": [
+      "Que signifie l'erreur 691 alors que le solde est positif ?",
+      "problème erreur 691 solde positive",
+      "que faire pour erreur 691 solde positive"
+    ],
+    "mots_cles": [
+      "ADSL",
+      "Erreur 691 solde positive",
+      "Technique",
+      "accès refusé malgré un solde positif",
+      "message erreur 691",
+      "paiement_facture"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_005",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Pourquoi les pages web ne s'affichent pas alors que l'ADSL semble connecté ?",
+    "reponse": "Si la connexion paraît active mais que les pages ne s'affichent pas, il faut tester un autre site, redémarrer le modem, vérifier le navigateur et essayer avec un autre appareil. Cela permet de distinguer un souci local d'un problème réseau. Si aucun accès web n'est possible, une analyse technique est nécessaire.",
+    "service": "ADSL",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Impossible d'afficher les pages",
+    "intent_possible": "internet_panne",
+    "related_article_id": "kb_005",
+    "variante_questions": [
+      "Pourquoi les pages web ne s'affichent pas alors que l'ADSL semble connecté ?",
+      "problème impossible d'afficher les pages",
+      "que faire pour impossible d'afficher les pages"
+    ],
+    "mots_cles": [
+      "ADSL",
+      "Impossible d'afficher les pages",
+      "Technique",
+      "certaines pages ne s'affichent pas",
+      "internet_panne",
+      "ouverture du navigateur impossible",
+      "service partiellement accessible"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_006",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Que faire si la liaison ADSL est instable ?",
+    "reponse": "Une liaison ADSL instable peut provoquer des lenteurs et des coupures. Il faut vérifier les branchements, l'état du filtre, redémarrer le modem et limiter les appareils connectés pendant le test. Si l'instabilité reste présente, le dossier doit être escaladé au support technique.",
+    "service": "ADSL",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Link instable",
+    "intent_possible": "autre",
+    "related_article_id": "kb_006",
+    "variante_questions": [
+      "Que faire si la liaison ADSL est instable ?",
+      "problème link instable",
+      "que faire pour link instable"
+    ],
+    "mots_cles": [
+      "ADSL",
+      "Link instable",
+      "Technique",
+      "connexion qui revient puis repart",
+      "coupures répétées",
+      "internet_panne",
+      "service instable"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_901",
+    "source": "generated_from_dataset_intents",
+    "question": "Comment demander l'installation de la fibre ?",
+    "reponse": "Pour une installation fibre, il faut vérifier l'éligibilité de la zone, confirmer le besoin du client et préparer les informations de souscription. Une fois ces éléments validés, la demande peut être orientée vers le parcours d'abonnement ou le service commercial.",
+    "service": "FTTx",
+    "segment": "Individual",
+    "categorie": "Commercial",
+    "sous_categorie": "Installation fibre",
+    "intent_possible": "installation_fibre",
+    "related_article_id": null,
+    "variante_questions": [
+      "je rencontre un problème je souhaite un abonnement fibre dans mon quartier",
+      "s'il vous plaît je souhaite un abonnement fibre depuis hier",
+      "pouvez-vous m'aider je veux installer la fibre depuis plusieurs jours"
+    ],
+    "mots_cles": [
+      "fibre",
+      "installation",
+      "abonnement",
+      "FTTx",
+      "éligibilité"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_010",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Que faire si le débit de la fibre/FTTx baisse fortement ?",
+    "reponse": "Une chute de débit FTTx peut être liée au routeur, au câblage interne ou à une saturation temporaire. Il faut redémarrer l'équipement, vérifier les câbles Ethernet et tester avec un seul appareil si possible en filaire. Si le résultat reste mauvais, un diagnostic technique doit être lancé.",
+    "service": "FTTx",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Chute de débit",
+    "intent_possible": "debit_lent",
+    "related_article_id": "kb_010",
+    "variante_questions": [
+      "mon fttx est lent",
+      "j'ai un débit faible en fttx",
+      "la connexion est lente"
+    ],
+    "mots_cles": [
+      "Chute de débit",
+      "FTTx",
+      "Technique",
+      "connexion lente",
+      "debit_lent",
+      "pages qui chargent lentement",
+      "vidéos ou appels qui se coupent"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_011",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Pourquoi ma connexion fibre/FTTx se déconnecte souvent ?",
+    "reponse": "Des coupures répétées sur une connexion FTTx peuvent venir d'un équipement optique, du routeur ou d'un incident réseau. Il faut redémarrer l'ONT ou le modem, vérifier les voyants et les branchements. Si la coupure continue, le dossier doit être transmis au support technique.",
+    "service": "FTTx",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Déconnexion fréquente",
+    "intent_possible": "internet_panne",
+    "related_article_id": "kb_011",
+    "variante_questions": [
+      "mon fttx se déconnecte souvent",
+      "la connexion coupe souvent",
+      "j'ai des coupures fréquentes"
+    ],
+    "mots_cles": [
+      "Déconnexion fréquente",
+      "FTTx",
+      "Technique",
+      "connexion qui revient puis repart",
+      "coupures répétées",
+      "internet_panne",
+      "service instable"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_012",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Pourquoi je ne peux pas afficher les pages web avec la fibre/FTTx ?",
+    "reponse": "Si les voyants semblent normaux mais que les pages ne s'affichent pas, il faut tester un autre site, un autre appareil et redémarrer le routeur. Cela permet d'écarter un souci de navigateur ou de DNS. Si aucun test n'aboutit, une vérification réseau est nécessaire.",
+    "service": "FTTx",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Impossible d'afficher les pages",
+    "intent_possible": "internet_panne",
+    "related_article_id": "kb_012",
+    "variante_questions": [
+      "Pourquoi je ne peux pas afficher les pages web avec la fibre/FTTx ?",
+      "problème impossible d'afficher les pages",
+      "que faire pour impossible d'afficher les pages"
+    ],
+    "mots_cles": [
+      "FTTx",
+      "Impossible d'afficher les pages",
+      "Technique",
+      "certaines pages ne s'affichent pas",
+      "internet_panne",
+      "ouverture du navigateur impossible",
+      "service partiellement accessible"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_013",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Que faire si je n'ai plus internet sur ma ligne fibre/FTTx ?",
+    "reponse": "En cas de perte totale d'internet sur une ligne FTTx, il faut vérifier l'alimentation de l'ONT ou du routeur, contrôler les voyants et redémarrer l'équipement. Si le service ne revient pas après quelques minutes, il faut ouvrir un ticket technique.",
+    "service": "FTTx",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Pas d'internet",
+    "intent_possible": "internet_panne",
+    "related_article_id": "kb_013",
+    "variante_questions": [
+      "je n'ai plus internet en fttx",
+      "plus de connexion internet",
+      "internet indisponible"
+    ],
+    "mots_cles": [
+      "FTTx",
+      "Pas d'internet",
+      "Technique",
+      "aucun accès au web",
+      "aucune connexion",
+      "internet_panne",
+      "voyant internet éteint ou rouge"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_014",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Que signifie l'absence de signal réseau sur une ligne fibre/FTTx ?",
+    "reponse": "Une absence de signal sur une ligne FTTx peut indiquer un défaut optique, un problème de raccordement ou un incident réseau. Il faut vérifier les voyants de l'équipement et s'assurer qu'aucun câble n'a été débranché. Si le signal ne revient pas, une intervention technique doit être déclenchée.",
+    "service": "FTTx",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Pas de signal réseau",
+    "intent_possible": "internet_panne",
+    "related_article_id": "kb_014",
+    "variante_questions": [
+      "je n'ai pas de signal fttx",
+      "le signal réseau est absent",
+      "le réseau est instable"
+    ],
+    "mots_cles": [
+      "FTTx",
+      "Pas de signal réseau",
+      "Technique",
+      "aucun signal",
+      "barres réseau faibles ou absentes",
+      "impossibilité de se connecter",
+      "installation_fibre"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_015",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Que faire si le signal de la fibre/FTTx est instable ?",
+    "reponse": "Un signal instable peut provoquer des coupures et des lenteurs. Il faut redémarrer l'équipement, vérifier les branchements optiques et Ethernet, puis observer si l'instabilité se répète. Si le problème dure, le cas doit être escaladé pour contrôle technique.",
+    "service": "FTTx",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Signal réseau instable",
+    "intent_possible": "internet_panne",
+    "related_article_id": "kb_015",
+    "variante_questions": [
+      "je n'ai pas de signal fttx",
+      "le signal réseau est absent",
+      "le réseau est instable"
+    ],
+    "mots_cles": [
+      "FTTx",
+      "Signal réseau instable",
+      "Technique",
+      "connexion qui revient puis repart",
+      "coupures répétées",
+      "internet_panne",
+      "service instable"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_900",
+    "source": "generated_from_dataset_intents",
+    "question": "Comment payer ma facture ou mon abonnement internet ?",
+    "reponse": "Pour une demande de paiement, il faut d'abord identifier le service concerné, vérifier la référence client ou de ligne et orienter le client vers le canal de règlement disponible. En cas de paiement déjà effectué mais non visible, une vérification commerciale avec justificatif est nécessaire.",
+    "service": "Tous",
+    "segment": "Individual",
+    "categorie": "Commercial",
+    "sous_categorie": "Paiement facture",
+    "intent_possible": "paiement_facture",
+    "related_article_id": null,
+    "variante_questions": [
+      "s'il vous plaît je souhaite payer mon abonnement depuis hier",
+      "pouvez-vous m'aider je souhaite payer mon abonnement",
+      "j'ai un souci je veux payer ma facture à mon domicile"
+    ],
+    "mots_cles": [
+      "paiement",
+      "facture",
+      "abonnement",
+      "règlement",
+      "recharge"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_905",
+    "source": "generated_from_dataset_intents",
+    "question": "Comment résilier mon abonnement internet ?",
+    "reponse": "Pour une résiliation, il faut vérifier l'identité du client, le service concerné et le statut du contrat, puis orienter la demande vers le processus commercial prévu. Selon l'organisation, des justificatifs ou une demande formelle peuvent être requis.",
+    "service": "Tous",
+    "segment": "Individual",
+    "categorie": "Commercial",
+    "sous_categorie": "Résiliation",
+    "intent_possible": "resiliation",
+    "related_article_id": null,
+    "variante_questions": [
+      "merci de vérifier arrêter la connexion internet depuis hier",
+      "s'il vous plaît arrêter la connexion internet depuis hier",
+      "je veux résilier mon abonnement depuis ce matin"
+    ],
+    "mots_cles": [
+      "résiliation",
+      "arrêt abonnement",
+      "annulation",
+      "clôture contrat"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_902",
+    "source": "generated_from_dataset_intents",
+    "question": "Que faire si je n'ai plus internet ?",
+    "reponse": "En cas de panne internet, il faut commencer par vérifier l'alimentation du modem ou du routeur, contrôler les câbles et redémarrer l'équipement. Si le service ne revient pas après quelques minutes et que le défaut persiste, un ticket technique doit être ouvert.",
+    "service": "Tous",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Panne internet",
+    "intent_possible": "internet_panne",
+    "related_article_id": null,
+    "variante_questions": [
+      "pouvez-vous m'aider je ne peux plus me connecter depuis plusieurs jours",
+      "merci de vérifier je ne peux plus me connecter depuis hier",
+      "pouvez-vous m'aider je n'ai plus internet dans mon quartier"
+    ],
+    "mots_cles": [
+      "internet",
+      "panne",
+      "plus de connexion",
+      "indisponible",
+      "coupure"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_903",
+    "source": "generated_from_dataset_intents",
+    "question": "Que faire si mon internet est lent ?",
+    "reponse": "Si l'internet est lent, il faut redémarrer l'équipement, limiter le test à un seul appareil et vérifier la qualité de la connexion. Si la lenteur reste présente, il faut orienter la demande selon le service concerné vers un diagnostic technique.",
+    "service": "Tous",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Débit lent",
+    "intent_possible": "debit_lent",
+    "related_article_id": null,
+    "variante_questions": [
+      "merci de vérifier les pages mettent du temps à charger depuis plusieurs jours",
+      "les pages mettent du temps à charger à mon domicile",
+      "merci de vérifier internet est lent à mon domicile"
+    ],
+    "mots_cles": [
+      "débit lent",
+      "connexion lente",
+      "internet lent",
+      "test débit"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_904",
+    "source": "generated_from_dataset_intents",
+    "question": "Que faire si mon modem ou mon routeur ne fonctionne pas ?",
+    "reponse": "Si le modem ou le routeur ne fonctionne pas, il faut vérifier son alimentation, observer les voyants, contrôler les branchements et tenter un redémarrage. Si l'équipement reste bloqué, redémarre en boucle ou ne synchronise pas, il faut prévoir une prise en charge technique.",
+    "service": "Tous",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Problème modem",
+    "intent_possible": "probleme_modem",
+    "related_article_id": null,
+    "variante_questions": [
+      "pouvez-vous m'aider le modem redémarre depuis ce matin",
+      "s'il vous plaît le modem redémarre depuis plusieurs jours",
+      "s'il vous plaît le modem ne fonctionne pas depuis ce matin"
+    ],
+    "mots_cles": [
+      "modem",
+      "routeur",
+      "redémarrage",
+      "équipement",
+      "voyants"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_906",
+    "source": "generated_best_practice_seed",
+    "question": "Comment tester rapidement si le problème vient du réseau ou de mon installation ?",
+    "reponse": "Le plus simple est de redémarrer l'équipement, vérifier les câbles, tester avec un seul appareil et observer les voyants. Si possible, il faut aussi tester dans une autre zone ou avec un autre appareil selon le service. Si ces vérifications ne changent rien, le dossier peut être orienté vers le support.",
+    "service": "Tous",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Diagnostic de premier niveau",
+    "intent_possible": "autre",
+    "related_article_id": null,
+    "variante_questions": [
+      "comment vérifier si le problème vient de chez moi",
+      "que tester avant d'ouvrir un ticket",
+      "comment faire un premier diagnostic"
+    ],
+    "mots_cles": [
+      "diagnostic",
+      "vérification",
+      "redémarrage",
+      "voyants",
+      "câbles"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_016",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Que faire si un appel téléphonique se coupe pendant la communication ?",
+    "reponse": "Une coupure pendant l'appel peut venir de la ligne, du combiné ou d'un défaut réseau. Il faut tester avec un autre téléphone si possible, vérifier le câblage et observer si le défaut touche tous les appels. Si les coupures continuent, une vérification technique est nécessaire.",
+    "service": "Téléphonie",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Coupure de communication",
+    "intent_possible": "autre",
+    "related_article_id": "kb_016",
+    "variante_questions": [
+      "Que faire si un appel téléphonique se coupe pendant la communication ?",
+      "problème coupure de communication",
+      "que faire pour coupure de communication"
+    ],
+    "mots_cles": [
+      "Coupure de communication",
+      "Technique",
+      "Téléphonie",
+      "appel coupé en cours de conversation",
+      "appel instable",
+      "communication interrompue",
+      "internet_panne"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_017",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Que signifie une inversion de ligne téléphonique ?",
+    "reponse": "Une inversion de ligne peut se manifester par un mauvais acheminement ou une confusion entre abonnés. Il faut relever précisément le défaut, vérifier les branchements internes et remonter le cas au support pour contrôle de la ligne.",
+    "service": "Téléphonie",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Inversion de ligne",
+    "intent_possible": "autre",
+    "related_article_id": "kb_017",
+    "variante_questions": [
+      "Que signifie une inversion de ligne téléphonique ?",
+      "problème inversion de ligne",
+      "que faire pour inversion de ligne"
+    ],
+    "mots_cles": [
+      "Inversion de ligne",
+      "Technique",
+      "Téléphonie",
+      "appels ou tonalité associés à une autre ligne",
+      "autre",
+      "mauvais numéro ou mauvaise ligne"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_018",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Que faire si la ligne téléphonique grésille ou si l'audition est mauvaise ?",
+    "reponse": "Des grésillements ou une mauvaise audition peuvent provenir du combiné, du câble ou de la ligne. Il faut tester avec un autre téléphone, vérifier la prise et éliminer tout branchement défectueux. Si le bruit persiste, il faut ouvrir un dossier technique.",
+    "service": "Téléphonie",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Mauvaise audition et friture",
+    "intent_possible": "autre",
+    "related_article_id": "kb_018",
+    "variante_questions": [
+      "la ligne grésille",
+      "j'entends mal au téléphone",
+      "il y a du bruit sur la ligne"
+    ],
+    "mots_cles": [
+      "Mauvaise audition et friture",
+      "Technique",
+      "Téléphonie",
+      "autre",
+      "grésillement",
+      "mauvaise qualité audio",
+      "parasites"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_019",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Pourquoi mon téléphone fixe n'a plus de tonalité ?",
+    "reponse": "L'absence de tonalité peut venir du combiné, du câble ou d'une coupure de ligne. Il faut vérifier le téléphone, tester une autre prise ou un autre appareil si possible et contrôler les branchements. Si aucune tonalité n'est disponible, le cas doit être transmis au support.",
+    "service": "Téléphonie",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Pas de tonalité téléphone",
+    "intent_possible": "autre",
+    "related_article_id": "kb_019",
+    "variante_questions": [
+      "je n'ai plus de tonalité",
+      "mon téléphone fixe est muet",
+      "pas de tonalité sur la ligne"
+    ],
+    "mots_cles": [
+      "Pas de tonalité téléphone",
+      "Technique",
+      "Téléphonie",
+      "aucune tonalité",
+      "impossibilité d'émettre un appel",
+      "internet_panne",
+      "téléphone muet"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_020",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Que faire si j'entends d'autres communications sur ma ligne téléphonique ?",
+    "reponse": "Un mélange de communication indique un défaut de ligne ou de raccordement. Il faut noter quand le problème survient et vérifier l'installation côté client. Le dossier doit ensuite être escaladé pour contrôle technique.",
+    "service": "Téléphonie",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Mélange de communication",
+    "intent_possible": "autre",
+    "related_article_id": "kb_020",
+    "variante_questions": [
+      "Que faire si j'entends d'autres communications sur ma ligne téléphonique ?",
+      "problème mélange de communication",
+      "que faire pour mélange de communication"
+    ],
+    "mots_cles": [
+      "Mélange de communication",
+      "Technique",
+      "Téléphonie",
+      "conversation d'un tiers entendue",
+      "interférences anormales",
+      "internet_panne",
+      "mélange de communications"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_021",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Que faire si je reçois mal les appels sur ma ligne téléphonique ?",
+    "reponse": "Si la réception des appels est mauvaise, il faut vérifier le téléphone, les câbles et confirmer si le problème se produit avec tous les correspondants. Si le défaut reste constant, une vérification de ligne est requise.",
+    "service": "Téléphonie",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Problème de réception",
+    "intent_possible": "autre",
+    "related_article_id": "kb_021",
+    "variante_questions": [
+      "Que faire si je reçois mal les appels sur ma ligne téléphonique ?",
+      "problème problème de réception",
+      "que faire pour problème de réception"
+    ],
+    "mots_cles": [
+      "Problème de réception",
+      "Technique",
+      "Téléphonie",
+      "appels entrants non reçus",
+      "certains appels n'aboutissent pas",
+      "internet_panne",
+      "réception irrégulière"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_022",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Pourquoi je n'arrive pas à émettre des appels nationaux ?",
+    "reponse": "Si l'émission d'appels nationaux est impossible, il faut vérifier le poste téléphonique, l'état de la ligne et confirmer que le problème concerne uniquement ce type d'appel. Si le défaut est confirmé, il faut transmettre le dossier pour diagnostic.",
+    "service": "Téléphonie",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Problème émission national",
+    "intent_possible": "autre",
+    "related_article_id": "kb_022",
+    "variante_questions": [
+      "Pourquoi je n'arrive pas à émettre des appels nationaux ?",
+      "problème problème émission national",
+      "que faire pour problème émission national"
+    ],
+    "mots_cles": [
+      "Problème émission national",
+      "Technique",
+      "Téléphonie",
+      "autre",
+      "impossibilité d'appeler des numéros nationaux",
+      "échec à l'émission nationale"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_023",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Pourquoi je n'arrive pas à émettre des appels internationaux ?",
+    "reponse": "L'impossibilité d'appeler à l'international peut venir d'une restriction de service, d'un paramétrage ou d'un défaut de ligne. Il faut vérifier que ce type d'appel est autorisé sur la ligne avant d'escalader le cas vers le service compétent.",
+    "service": "Téléphonie",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Problème émission international",
+    "intent_possible": "autre",
+    "related_article_id": "kb_023",
+    "variante_questions": [
+      "Pourquoi je n'arrive pas à émettre des appels internationaux ?",
+      "problème problème émission international",
+      "que faire pour problème émission international"
+    ],
+    "mots_cles": [
+      "Problème émission international",
+      "Technique",
+      "Téléphonie",
+      "autre",
+      "impossibilité d'appeler l'international",
+      "échec vers des destinations internationales"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "faq_024",
+    "source": "generated_from_kb_articles_and_dataset_csv",
+    "question": "Pourquoi les appels vers les numéros courts ne passent pas ?",
+    "reponse": "Si les numéros courts sont injoignables, il faut vérifier si ce service est autorisé sur la ligne et confirmer que les autres appels fonctionnent normalement. Si seul ce type d'appel échoue, le cas doit être orienté vers le support approprié.",
+    "service": "Téléphonie",
+    "segment": "Individual",
+    "categorie": "Technique",
+    "sous_categorie": "Problème émission numéros courts",
+    "intent_possible": "autre",
+    "related_article_id": "kb_024",
+    "variante_questions": [
+      "Pourquoi les appels vers les numéros courts ne passent pas ?",
+      "problème problème émission numéros courts",
+      "que faire pour problème émission numéros courts"
+    ],
+    "mots_cles": [
+      "Problème émission numéros courts",
+      "Technique",
+      "Téléphonie",
+      "autre",
+      "impossibilité d'appeler un numéro court",
+      "échec vers short code"
+    ],
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "statut": "brouillon_a_valider"
+  }
+]

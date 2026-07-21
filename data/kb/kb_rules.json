@@ -1,0 +1,1305 @@
+[
+  {
+    "id": "rule_001",
+    "source": "generated_from_kb_articles_kb_faq_kb_services",
+    "titre": "Règle triage - qualification_initiale",
+    "theme": "qualification_initiale",
+    "rule_type": "triage",
+    "service_scope": [
+      "ADSL",
+      "4G",
+      "FTTx",
+      "Téléphonie"
+    ],
+    "categorie_scope": [
+      "Tous"
+    ],
+    "sous_categories_cibles": [],
+    "intents_cibles": [],
+    "condition": "Toute nouvelle demande client doit être qualifiée avant de proposer une réponse ou une action.",
+    "action": "Identifier le service concerné, la nature technique ou commerciale de la demande, le symptôme principal et la récence du problème. Associer ensuite l'intention la plus probable et rechercher les articles de connaissance correspondants.",
+    "justification": "Une qualification minimale améliore le routage et évite de proposer une procédure non adaptée au service réel du client.",
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "priorite": "haute",
+    "pre_checks": [
+      "relever le service cité par le client",
+      "repérer s'il s'agit d'une panne, d'une lenteur, d'un paiement ou d'une demande commerciale",
+      "noter depuis quand le problème est observé"
+    ],
+    "escalade": "Si le service ou la demande reste ambiguë après reformulation, transférer vers un agent humain pour qualification manuelle.",
+    "related_article_ids": [
+      "kb_001",
+      "kb_002",
+      "kb_003",
+      "kb_004",
+      "kb_005",
+      "kb_006",
+      "kb_007",
+      "kb_008",
+      "kb_009",
+      "kb_010",
+      "kb_011",
+      "kb_012",
+      "kb_013",
+      "kb_014",
+      "kb_015",
+      "kb_016",
+      "kb_017",
+      "kb_018",
+      "kb_019",
+      "kb_020",
+      "kb_021",
+      "kb_022",
+      "kb_023",
+      "kb_024",
+      "kb_025",
+      "kb_026",
+      "kb_027",
+      "kb_028",
+      "kb_029",
+      "kb_030",
+      "kb_031",
+      "kb_032",
+      "kb_033",
+      "kb_034",
+      "kb_035",
+      "kb_036",
+      "kb_037",
+      "kb_038"
+    ],
+    "related_faq_ids": [
+      "faq_001",
+      "faq_002",
+      "faq_003",
+      "faq_004",
+      "faq_005",
+      "faq_006",
+      "faq_007",
+      "faq_008",
+      "faq_009",
+      "faq_010",
+      "faq_011",
+      "faq_012",
+      "faq_013",
+      "faq_014",
+      "faq_015",
+      "faq_016",
+      "faq_017",
+      "faq_018",
+      "faq_019",
+      "faq_020",
+      "faq_021",
+      "faq_022",
+      "faq_023",
+      "faq_024",
+      "faq_025",
+      "faq_026",
+      "faq_027",
+      "faq_028",
+      "faq_029",
+      "faq_030",
+      "faq_031",
+      "faq_032",
+      "faq_033",
+      "faq_034",
+      "faq_035",
+      "faq_036",
+      "faq_037",
+      "faq_038",
+      "faq_901"
+    ],
+    "mots_cles": [
+      "triage",
+      "qualification",
+      "service",
+      "intention",
+      "routage"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "rule_002",
+    "source": "generated_from_kb_articles_kb_faq_kb_services",
+    "titre": "Règle precheck - verification_identifiants_compte",
+    "theme": "verification_identifiants_compte",
+    "rule_type": "precheck",
+    "service_scope": [
+      "ADSL",
+      "4G",
+      "FTTx",
+      "Téléphonie"
+    ],
+    "categorie_scope": [
+      "Tous"
+    ],
+    "sous_categories_cibles": [],
+    "intents_cibles": [],
+    "condition": "Avant tout traitement spécifique, l'identité fonctionnelle du dossier doit être suffisante pour rattacher la demande au bon service.",
+    "action": "Demander au minimum une référence exploitable selon le service: numéro de ligne, numéro de téléphone, référence contrat ou identifiant du compte.",
+    "justification": "Les vérifications techniques et commerciales dépendent du bon rattachement au dossier client.",
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "priorite": "haute",
+    "pre_checks": [
+      "vérifier la présence d'un numéro ou d'une référence",
+      "confirmer que le client parle du bon service"
+    ],
+    "escalade": "Si aucune référence n'est disponible, limiter la réponse à des conseils généraux puis orienter vers le canal de support approprié.",
+    "related_article_ids": [
+      "kb_001",
+      "kb_002",
+      "kb_003",
+      "kb_004",
+      "kb_005",
+      "kb_006",
+      "kb_007",
+      "kb_008",
+      "kb_009",
+      "kb_010",
+      "kb_011",
+      "kb_012",
+      "kb_013",
+      "kb_014",
+      "kb_015",
+      "kb_016",
+      "kb_017",
+      "kb_018",
+      "kb_019",
+      "kb_020",
+      "kb_021",
+      "kb_022",
+      "kb_023",
+      "kb_024",
+      "kb_025",
+      "kb_026",
+      "kb_027",
+      "kb_028",
+      "kb_029",
+      "kb_030",
+      "kb_031",
+      "kb_032",
+      "kb_033",
+      "kb_034",
+      "kb_035",
+      "kb_036",
+      "kb_037",
+      "kb_038"
+    ],
+    "related_faq_ids": [
+      "faq_001",
+      "faq_002",
+      "faq_003",
+      "faq_004",
+      "faq_005",
+      "faq_006",
+      "faq_007",
+      "faq_008",
+      "faq_009",
+      "faq_010",
+      "faq_011",
+      "faq_012",
+      "faq_013",
+      "faq_014",
+      "faq_015",
+      "faq_016",
+      "faq_017",
+      "faq_018",
+      "faq_019",
+      "faq_020",
+      "faq_021",
+      "faq_022",
+      "faq_023",
+      "faq_024",
+      "faq_025",
+      "faq_026",
+      "faq_027",
+      "faq_028",
+      "faq_029",
+      "faq_030",
+      "faq_031",
+      "faq_032",
+      "faq_033",
+      "faq_034",
+      "faq_035",
+      "faq_036",
+      "faq_037",
+      "faq_038",
+      "faq_901"
+    ],
+    "mots_cles": [
+      "identifiant",
+      "numéro de ligne",
+      "contrat",
+      "référence client"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "rule_003",
+    "source": "generated_from_kb_articles_kb_faq_kb_services",
+    "titre": "Règle selfcare - selfcare_internet_fixe",
+    "theme": "selfcare_internet_fixe",
+    "rule_type": "selfcare",
+    "service_scope": [
+      "ADSL",
+      "FTTx"
+    ],
+    "categorie_scope": [
+      "Technique"
+    ],
+    "sous_categories_cibles": [],
+    "intents_cibles": [],
+    "condition": "Pour une panne, une lenteur ou une instabilité sur internet fixe, appliquer d'abord les vérifications locales de base.",
+    "action": "Faire vérifier l'alimentation de l'équipement, les câbles, l'état des voyants, redémarrer le modem ou l'ONT puis demander un nouveau test après quelques minutes.",
+    "justification": "Une part importante des incidents perçus peut être liée à l'équipement local, à l'alimentation ou à un câblage débranché.",
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "priorite": "haute",
+    "pre_checks": [
+      "vérifier que le modem/ONT est sous tension",
+      "contrôler les câbles DSL/fibre/ethernet",
+      "redémarrer l'équipement",
+      "tester l'accès avec un seul appareil"
+    ],
+    "escalade": "Si la connexion reste indisponible ou instable après selfcare, ouvrir ou transmettre un ticket technique.",
+    "related_article_ids": [
+      "kb_001",
+      "kb_002",
+      "kb_003",
+      "kb_004",
+      "kb_005",
+      "kb_006",
+      "kb_010",
+      "kb_011",
+      "kb_012",
+      "kb_013",
+      "kb_014",
+      "kb_015"
+    ],
+    "related_faq_ids": [
+      "faq_001",
+      "faq_002",
+      "faq_003",
+      "faq_004",
+      "faq_005",
+      "faq_006",
+      "faq_010",
+      "faq_011",
+      "faq_012",
+      "faq_013",
+      "faq_014",
+      "faq_015"
+    ],
+    "mots_cles": [
+      "modem",
+      "ONT",
+      "redémarrage",
+      "voyants",
+      "câbles",
+      "internet fixe"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "rule_004",
+    "source": "generated_from_kb_articles_kb_faq_kb_services",
+    "titre": "Règle escalade - escalade_persistance_incident_technique",
+    "theme": "escalade_persistance_incident_technique",
+    "rule_type": "escalade",
+    "service_scope": [
+      "ADSL",
+      "4G",
+      "FTTx",
+      "Téléphonie"
+    ],
+    "categorie_scope": [
+      "Technique"
+    ],
+    "sous_categories_cibles": [],
+    "intents_cibles": [],
+    "condition": "Le défaut persiste après les vérifications de base ou revient de manière répétée.",
+    "action": "Constituer un dossier d'incident avec le service concerné, le symptôme, la fréquence, la durée, les tests déjà réalisés et le moment d'apparition, puis transmettre au support approprié.",
+    "justification": "L'escalade doit s'appuyer sur des informations minimales pour accélérer le diagnostic par le niveau suivant.",
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "priorite": "haute",
+    "pre_checks": [
+      "noter les tests déjà effectués",
+      "relever si le défaut est permanent ou intermittent",
+      "demander depuis quand le problème dure"
+    ],
+    "escalade": "Ticket technique ou transfert au support spécialisé selon le service.",
+    "related_article_ids": [
+      "kb_001",
+      "kb_002",
+      "kb_003",
+      "kb_004",
+      "kb_005",
+      "kb_006",
+      "kb_007",
+      "kb_008",
+      "kb_009",
+      "kb_010",
+      "kb_011",
+      "kb_012",
+      "kb_013",
+      "kb_014",
+      "kb_015",
+      "kb_016",
+      "kb_017",
+      "kb_018",
+      "kb_019",
+      "kb_020",
+      "kb_021",
+      "kb_022",
+      "kb_023",
+      "kb_024"
+    ],
+    "related_faq_ids": [
+      "faq_001",
+      "faq_002",
+      "faq_003",
+      "faq_004",
+      "faq_005",
+      "faq_006",
+      "faq_007",
+      "faq_008",
+      "faq_009",
+      "faq_010",
+      "faq_011",
+      "faq_012",
+      "faq_013",
+      "faq_014",
+      "faq_015",
+      "faq_016",
+      "faq_017",
+      "faq_018",
+      "faq_019",
+      "faq_020",
+      "faq_021",
+      "faq_022",
+      "faq_023",
+      "faq_024"
+    ],
+    "mots_cles": [
+      "incident persistant",
+      "ticket",
+      "support",
+      "escalade"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "rule_005",
+    "source": "generated_from_kb_articles_kb_faq_kb_services",
+    "titre": "Règle diagnostic - traitement_lenteur_debit",
+    "theme": "traitement_lenteur_debit",
+    "rule_type": "diagnostic",
+    "service_scope": [
+      "ADSL",
+      "4G",
+      "FTTx"
+    ],
+    "categorie_scope": [
+      "Technique"
+    ],
+    "sous_categories_cibles": [
+      "Chute de débit"
+    ],
+    "intents_cibles": [
+      "debit_lent"
+    ],
+    "condition": "Le client signale une chute de débit, une lenteur ou une mauvaise performance.",
+    "action": "Faire isoler un seul appareil, éviter les usages simultanés, lancer un test de débit si possible et comparer le ressenti à des horaires différents avant d'orienter la suite.",
+    "justification": "La performance perçue peut être influencée par le réseau local, l'encombrement ou la qualité du lien d'accès.",
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "priorite": "haute",
+    "pre_checks": [
+      "tester avec un seul appareil",
+      "redémarrer l'équipement",
+      "effectuer un test de débit",
+      "demander si le problème est continu ou à certaines heures"
+    ],
+    "escalade": "Transmettre pour expertise technique si la lenteur reste confirmée après les tests de base.",
+    "related_article_ids": [
+      "kb_001",
+      "kb_007",
+      "kb_010"
+    ],
+    "related_faq_ids": [
+      "faq_001",
+      "faq_007",
+      "faq_010"
+    ],
+    "mots_cles": [
+      "débit lent",
+      "performance",
+      "test de débit",
+      "saturation"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "rule_006",
+    "source": "generated_from_kb_articles_kb_faq_kb_services",
+    "titre": "Règle diagnostic - pas_d_internet_internet_fixe",
+    "theme": "pas_d_internet_internet_fixe",
+    "rule_type": "diagnostic",
+    "service_scope": [
+      "ADSL",
+      "FTTx"
+    ],
+    "categorie_scope": [
+      "Technique"
+    ],
+    "sous_categories_cibles": [
+      "Pas d'internet",
+      "Impossible d'afficher les pages",
+      "Erreur 651/678"
+    ],
+    "intents_cibles": [
+      "internet_panne"
+    ],
+    "condition": "Le client n'a plus de connexion internet ou ne peut plus afficher les pages.",
+    "action": "Vérifier les voyants de synchronisation ou de signal, les câbles, le redémarrage du modem ou de l'ONT et tester l'accès sur un autre appareil ou navigateur avant de conclure à une panne réseau.",
+    "justification": "Les symptômes de panne totale peuvent correspondre à une perte de signal, à une erreur de session ou à un problème local de navigation.",
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "priorite": "haute",
+    "pre_checks": [
+      "observer les voyants",
+      "redémarrer l'équipement",
+      "tester sur un autre appareil ou navigateur",
+      "vérifier les branchements"
+    ],
+    "escalade": "Ouvrir un ticket technique si aucune connexion n'est rétablie après les tests.",
+    "related_article_ids": [
+      "kb_005",
+      "kb_012",
+      "kb_013"
+    ],
+    "related_faq_ids": [
+      "faq_005",
+      "faq_012",
+      "faq_013"
+    ],
+    "mots_cles": [
+      "pas internet",
+      "pages ne s'affichent pas",
+      "voyants",
+      "erreur 651",
+      "erreur 678"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "rule_007",
+    "source": "generated_from_kb_articles_kb_faq_kb_services",
+    "titre": "Règle diagnostic - instabilite_deconnexion_frequente",
+    "theme": "instabilite_deconnexion_frequente",
+    "rule_type": "diagnostic",
+    "service_scope": [
+      "ADSL",
+      "4G",
+      "FTTx"
+    ],
+    "categorie_scope": [
+      "Technique"
+    ],
+    "sous_categories_cibles": [
+      "Déconnexion fréquente",
+      "Link instable",
+      "Signal réseau instable"
+    ],
+    "intents_cibles": [
+      "internet_panne",
+      "debit_lent"
+    ],
+    "condition": "Le client signale des déconnexions fréquentes, un lien instable ou un signal réseau instable.",
+    "action": "Faire préciser la fréquence, les horaires, le contexte d'usage et appliquer les vérifications d'équipement ou de couverture selon le service. Si le comportement est répétitif, consigner le caractère intermittent pour le support.",
+    "justification": "Les incidents intermittents nécessitent une description précise pour être reproduits ou corrélés à des défauts réseau.",
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "priorite": "haute",
+    "pre_checks": [
+      "demander la fréquence des coupures",
+      "préciser les horaires d'apparition",
+      "redémarrer l'équipement",
+      "vérifier la qualité du signal ou de la ligne"
+    ],
+    "escalade": "Transmettre au support si l'instabilité persiste ou impacte fortement l'usage.",
+    "related_article_ids": [
+      "kb_002",
+      "kb_006",
+      "kb_009",
+      "kb_011",
+      "kb_015"
+    ],
+    "related_faq_ids": [
+      "faq_002",
+      "faq_009",
+      "faq_011",
+      "faq_015"
+    ],
+    "mots_cles": [
+      "déconnexion",
+      "instable",
+      "intermittent",
+      "coupures"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "rule_008",
+    "source": "generated_from_kb_articles_kb_faq_kb_services",
+    "titre": "Règle selfcare - diagnostic_modem_equipement",
+    "theme": "diagnostic_modem_equipement",
+    "rule_type": "selfcare",
+    "service_scope": [
+      "ADSL",
+      "FTTx"
+    ],
+    "categorie_scope": [
+      "Technique"
+    ],
+    "sous_categories_cibles": [],
+    "intents_cibles": [
+      "probleme_modem",
+      "internet_panne"
+    ],
+    "condition": "Le symptôme évoque un problème de modem, d'ONT, d'alimentation ou de synchronisation locale.",
+    "action": "Guider le client vers un redémarrage, un contrôle de l'alimentation, des câbles et des voyants, puis envisager un remplacement ou une intervention seulement si le comportement anormal persiste.",
+    "justification": "Le dysfonctionnement matériel local doit être écarté avant toute action plus lourde.",
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "priorite": "moyenne",
+    "pre_checks": [
+      "vérifier l'alimentation",
+      "contrôler les câbles",
+      "observer les voyants",
+      "tester après redémarrage"
+    ],
+    "escalade": "Créer un ticket si un défaut matériel reste probable après les vérifications.",
+    "related_article_ids": [
+      "kb_002",
+      "kb_003",
+      "kb_005",
+      "kb_006",
+      "kb_011",
+      "kb_012",
+      "kb_013",
+      "kb_015"
+    ],
+    "related_faq_ids": [
+      "faq_002",
+      "faq_005",
+      "faq_011",
+      "faq_012",
+      "faq_013",
+      "faq_014",
+      "faq_015"
+    ],
+    "mots_cles": [
+      "modem",
+      "ont",
+      "alimentation",
+      "voyants",
+      "équipement"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "rule_009",
+    "source": "generated_from_kb_articles_kb_faq_kb_services",
+    "titre": "Règle diagnostic - qualifier_couverture_4g",
+    "theme": "qualifier_couverture_4g",
+    "rule_type": "diagnostic",
+    "service_scope": [
+      "4G"
+    ],
+    "categorie_scope": [
+      "Technique"
+    ],
+    "sous_categories_cibles": [
+      "Couverture réseau",
+      "Déconnexion fréquente",
+      "Non disponibilité"
+    ],
+    "intents_cibles": [],
+    "condition": "Le client évoque une absence de réseau, une mauvaise couverture ou une déconnexion mobile.",
+    "action": "Vérifier la zone, le niveau de signal, le type d'appareil, un redémarrage simple et si le problème est localisé à un lieu précis avant de conclure à une indisponibilité réseau.",
+    "justification": "Les incidents 4G dépendent fortement de la zone, de l'appareil et du niveau de signal perçu.",
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "priorite": "haute",
+    "pre_checks": [
+      "demander la zone d'usage",
+      "confirmer le type d'appareil",
+      "redémarrer l'appareil",
+      "vérifier si le problème concerne un lieu précis"
+    ],
+    "escalade": "Transmettre au support réseau mobile si l'absence de service est confirmée dans la zone après les tests.",
+    "related_article_ids": [
+      "kb_008",
+      "kb_009"
+    ],
+    "related_faq_ids": [
+      "faq_008",
+      "faq_009"
+    ],
+    "mots_cles": [
+      "4G",
+      "couverture",
+      "réseau mobile",
+      "signal",
+      "zone"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "rule_010",
+    "source": "generated_from_kb_articles_kb_faq_kb_services",
+    "titre": "Règle commercial - consommation_data_bonus",
+    "theme": "consommation_data_bonus",
+    "rule_type": "commercial",
+    "service_scope": [
+      "4G"
+    ],
+    "categorie_scope": [
+      "Commercial"
+    ],
+    "sous_categories_cibles": [
+      "Perte de volume data",
+      "Perte de bonus data",
+      "Perte de crédits",
+      "Perte de bonus"
+    ],
+    "intents_cibles": [
+      "paiement_facture",
+      "autre"
+    ],
+    "condition": "Le client conteste une perte de volume data, de bonus data, de bonus ou de crédits.",
+    "action": "Vérifier le type d'avantage attendu, la période concernée, l'état du compte et l'éligibilité de l'offre avant d'annoncer une correction ou une compensation.",
+    "justification": "Les écarts de solde ou d'avantages doivent être rapprochés de l'offre, de la période et des conditions d'attribution.",
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "priorite": "haute",
+    "pre_checks": [
+      "demander la date approximative de la perte",
+      "préciser s'il s'agit de crédit, data ou bonus",
+      "vérifier l'offre concernée"
+    ],
+    "escalade": "Orienter vers le service commercial ou facturation si la contestation reste fondée après vérification.",
+    "related_article_ids": [
+      "kb_032",
+      "kb_033",
+      "kb_036",
+      "kb_038"
+    ],
+    "related_faq_ids": [
+      "faq_032",
+      "faq_033",
+      "faq_036",
+      "faq_038"
+    ],
+    "mots_cles": [
+      "data",
+      "bonus",
+      "crédit",
+      "solde",
+      "avantage 4g"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "rule_011",
+    "source": "generated_from_kb_articles_kb_faq_kb_services",
+    "titre": "Règle diagnostic - telephonie_pas_de_tonalite",
+    "theme": "telephonie_pas_de_tonalite",
+    "rule_type": "diagnostic",
+    "service_scope": [
+      "Téléphonie"
+    ],
+    "categorie_scope": [
+      "Technique"
+    ],
+    "sous_categories_cibles": [
+      "Pas de tonalité téléphone",
+      "Coupure de communication"
+    ],
+    "intents_cibles": [],
+    "condition": "Le client n'a pas de tonalité ou subit une coupure de communication téléphonique.",
+    "action": "Faire vérifier l'appareil, le câble, la prise, un test avec un autre combiné si possible, puis qualifier si le défaut touche l'émission, la réception ou les deux.",
+    "justification": "L'absence de tonalité peut venir du poste, du câblage ou de la ligne, tandis que les coupures doivent être qualifiées selon le sens impacté.",
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "priorite": "haute",
+    "pre_checks": [
+      "tester un autre combiné si possible",
+      "contrôler la prise et le câble",
+      "préciser émission/réception",
+      "noter si le défaut est permanent"
+    ],
+    "escalade": "Créer un ticket téléphonie si le défaut persiste après vérification de l'appareil.",
+    "related_article_ids": [
+      "kb_016",
+      "kb_019"
+    ],
+    "related_faq_ids": [
+      "faq_016",
+      "faq_019"
+    ],
+    "mots_cles": [
+      "téléphonie",
+      "pas de tonalité",
+      "coupure",
+      "ligne fixe"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "rule_012",
+    "source": "generated_from_kb_articles_kb_faq_kb_services",
+    "titre": "Règle diagnostic - telephonie_qualite_communication",
+    "theme": "telephonie_qualite_communication",
+    "rule_type": "diagnostic",
+    "service_scope": [
+      "Téléphonie"
+    ],
+    "categorie_scope": [
+      "Technique"
+    ],
+    "sous_categories_cibles": [
+      "Inversion de ligne",
+      "Mauvaise audition et friture",
+      "Mélange de communication",
+      "Problème de réception",
+      "Problème émission national",
+      "Problème émission international",
+      "Problème émission numéros courts"
+    ],
+    "intents_cibles": [],
+    "condition": "Le client signale une mauvaise audition, de la friture, un mélange ou une inversion de ligne.",
+    "action": "Qualifier la nature exacte du défaut audio ou de ligne, vérifier le poste utilisé et relever si le problème concerne tous les appels ou seulement certaines destinations.",
+    "justification": "Les défauts de qualité ou de routage d'appel doivent être décrits précisément pour faciliter le diagnostic de ligne ou d'acheminement.",
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "priorite": "moyenne",
+    "pre_checks": [
+      "préciser le type de gêne",
+      "indiquer si toutes les destinations sont impactées",
+      "tester un autre appareil si possible"
+    ],
+    "escalade": "Transmettre au support téléphonie si le défaut est confirmé et récurrent.",
+    "related_article_ids": [
+      "kb_017",
+      "kb_018",
+      "kb_020",
+      "kb_021",
+      "kb_022",
+      "kb_023",
+      "kb_024"
+    ],
+    "related_faq_ids": [
+      "faq_017",
+      "faq_018",
+      "faq_020",
+      "faq_021",
+      "faq_022",
+      "faq_023",
+      "faq_024"
+    ],
+    "mots_cles": [
+      "friture",
+      "mauvaise audition",
+      "inversion de ligne",
+      "émission",
+      "réception"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "rule_013",
+    "source": "generated_from_kb_articles_kb_faq_kb_services",
+    "titre": "Règle commercial - paiement_et_solde",
+    "theme": "paiement_et_solde",
+    "rule_type": "commercial",
+    "service_scope": [
+      "ADSL",
+      "4G",
+      "FTTx"
+    ],
+    "categorie_scope": [
+      "Commercial"
+    ],
+    "sous_categories_cibles": [
+      "Solde non attribué",
+      "Perte de crédits"
+    ],
+    "intents_cibles": [
+      "paiement_facture"
+    ],
+    "condition": "Le client pose une question de paiement, de facture, de solde non attribué ou de crédit manquant.",
+    "action": "Vérifier l'opération contestée, le service, la période concernée et l'état du compte avant d'orienter vers paiement, réattribution ou support commercial.",
+    "justification": "Les demandes de paiement ou de solde nécessitent une qualification minimale du mouvement contesté.",
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "priorite": "haute",
+    "pre_checks": [
+      "demander la date du paiement ou de la recharge",
+      "confirmer le service et le compte concernés",
+      "préciser si le problème concerne une facture, un solde ou un crédit"
+    ],
+    "escalade": "Transférer au service commercial/facturation si l'anomalie ne peut pas être expliquée immédiatement.",
+    "related_article_ids": [
+      "kb_030",
+      "kb_036"
+    ],
+    "related_faq_ids": [
+      "faq_030",
+      "faq_036"
+    ],
+    "mots_cles": [
+      "paiement",
+      "facture",
+      "solde",
+      "crédit",
+      "recharge"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "rule_014",
+    "source": "generated_from_kb_articles_kb_faq_kb_services",
+    "titre": "Règle commercial - compensation_commerciale",
+    "theme": "compensation_commerciale",
+    "rule_type": "commercial",
+    "service_scope": [
+      "ADSL"
+    ],
+    "categorie_scope": [
+      "Commercial"
+    ],
+    "sous_categories_cibles": [
+      "Demande de compensation"
+    ],
+    "intents_cibles": [],
+    "condition": "Le client demande une compensation liée à une interruption, une gêne ou une situation commerciale contestée.",
+    "action": "Vérifier l'existence d'un incident préalable, la durée de l'impact et le cadre commercial applicable avant de promettre une compensation.",
+    "justification": "Une compensation ne doit pas être engagée sans rattachement à un incident ou à une règle commerciale confirmée.",
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "priorite": "moyenne",
+    "pre_checks": [
+      "préciser la période d'impact",
+      "vérifier si un incident a été déclaré",
+      "identifier le service exact concerné"
+    ],
+    "escalade": "Orienter vers le service commercial si la demande est recevable mais nécessite validation.",
+    "related_article_ids": [
+      "kb_027"
+    ],
+    "related_faq_ids": [
+      "faq_027"
+    ],
+    "mots_cles": [
+      "compensation",
+      "geste commercial",
+      "remboursement",
+      "incident"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "rule_015",
+    "source": "generated_from_kb_articles_kb_faq_kb_services",
+    "titre": "Règle commercial - changement_debit_eligibilite",
+    "theme": "changement_debit_eligibilite",
+    "rule_type": "commercial",
+    "service_scope": [
+      "ADSL"
+    ],
+    "categorie_scope": [
+      "Commercial"
+    ],
+    "sous_categories_cibles": [
+      "Ajustement",
+      "Changement de débit"
+    ],
+    "intents_cibles": [],
+    "condition": "Le client demande un changement de débit ou un ajustement du service ADSL.",
+    "action": "Confirmer la demande, vérifier l'éligibilité technique et l'offre disponible avant de transmettre au circuit commercial adapté.",
+    "justification": "Les modifications de débit dépendent à la fois des possibilités techniques et du cadre de l'offre.",
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "priorite": "moyenne",
+    "pre_checks": [
+      "confirmer le débit souhaité",
+      "vérifier la compatibilité technique",
+      "identifier le compte concerné"
+    ],
+    "escalade": "Transférer au service commercial si le changement est possible mais requiert une opération sur le dossier.",
+    "related_article_ids": [
+      "kb_025",
+      "kb_026"
+    ],
+    "related_faq_ids": [
+      "faq_025",
+      "faq_026"
+    ],
+    "mots_cles": [
+      "changement de débit",
+      "ajustement",
+      "éligibilité",
+      "offre ADSL"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "rule_016",
+    "source": "generated_from_kb_articles_kb_faq_kb_services",
+    "titre": "Règle commercial - installation_fibre_eligibilite",
+    "theme": "installation_fibre_eligibilite",
+    "rule_type": "commercial",
+    "service_scope": [
+      "FTTx"
+    ],
+    "categorie_scope": [
+      "Commercial"
+    ],
+    "sous_categories_cibles": [],
+    "intents_cibles": [
+      "installation_fibre"
+    ],
+    "condition": "Le client souhaite une installation fibre ou se renseigne sur la possibilité d'accès au service.",
+    "action": "Vérifier l'éligibilité de la zone, la faisabilité technique locale et les documents nécessaires avant d'engager une suite commerciale ou technique.",
+    "justification": "L'installation fibre dépend d'abord de l'éligibilité et de la faisabilité technique sur site.",
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "priorite": "haute",
+    "pre_checks": [
+      "demander la localisation ou la zone",
+      "confirmer qu'il s'agit d'une nouvelle installation",
+      "indiquer que l'éligibilité doit être vérifiée"
+    ],
+    "escalade": "Orienter vers le service commercial ou le circuit d'installation si l'éligibilité est confirmée.",
+    "related_article_ids": [],
+    "related_faq_ids": [
+      "faq_901"
+    ],
+    "mots_cles": [
+      "installation fibre",
+      "FTTx",
+      "éligibilité",
+      "raccordement"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "rule_017",
+    "source": "generated_from_kb_articles_kb_faq_kb_services",
+    "titre": "Règle commercial - resiliation_demande_client",
+    "theme": "resiliation_demande_client",
+    "rule_type": "commercial",
+    "service_scope": [
+      "ADSL",
+      "4G",
+      "FTTx",
+      "Téléphonie"
+    ],
+    "categorie_scope": [
+      "Commercial"
+    ],
+    "sous_categories_cibles": [],
+    "intents_cibles": [
+      "resiliation"
+    ],
+    "condition": "Le client souhaite résilier ou arrêter un service.",
+    "action": "Confirmer explicitement la volonté de résiliation, rappeler qu'une vérification du dossier et des conditions contractuelles est nécessaire, puis orienter vers le canal commercial compétent.",
+    "justification": "La résiliation est une opération sensible qui nécessite confirmation, identification du service et traitement par le bon canal.",
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "priorite": "haute",
+    "pre_checks": [
+      "confirmer le service à résilier",
+      "vérifier l'identité du titulaire",
+      "indiquer que des conditions contractuelles peuvent s'appliquer"
+    ],
+    "escalade": "Transférer au service commercial ou à l'agence compétente pour finalisation.",
+    "related_article_ids": [
+      "kb_029"
+    ],
+    "related_faq_ids": [],
+    "mots_cles": [
+      "résiliation",
+      "annulation",
+      "arrêt service",
+      "clôture contrat"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "rule_018",
+    "source": "generated_from_kb_articles_kb_faq_kb_services",
+    "titre": "Règle commercial - service_refuse_ou_indisponible",
+    "theme": "service_refuse_ou_indisponible",
+    "rule_type": "commercial",
+    "service_scope": [
+      "ADSL",
+      "4G"
+    ],
+    "categorie_scope": [
+      "Commercial"
+    ],
+    "sous_categories_cibles": [
+      "Accès au service refusé",
+      "Omission activ/désactiv pause",
+      "Non disponibilité"
+    ],
+    "intents_cibles": [],
+    "condition": "Le client signale un accès au service refusé, une non-disponibilité ou une activation/pause mal appliquée.",
+    "action": "Vérifier le statut du compte, l'état de l'offre et la possibilité réelle de distribution du service avant de conclure à un refus définitif.",
+    "justification": "Certaines demandes relèvent d'un état de compte ou d'offre et non d'une impossibilité technique définitive.",
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "priorite": "moyenne",
+    "pre_checks": [
+      "préciser si la demande concerne activation, réactivation ou disponibilité",
+      "vérifier le service concerné",
+      "identifier la période du problème"
+    ],
+    "escalade": "Orienter vers le service commercial si une action sur le compte ou l'offre est requise.",
+    "related_article_ids": [
+      "kb_028",
+      "kb_029",
+      "kb_031"
+    ],
+    "related_faq_ids": [
+      "faq_028",
+      "faq_029",
+      "faq_031"
+    ],
+    "mots_cles": [
+      "service refusé",
+      "non disponibilité",
+      "activation",
+      "pause",
+      "réactivation"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "rule_019",
+    "source": "generated_from_kb_articles_kb_faq_kb_services",
+    "titre": "Règle commercial - appels_speciaux_et_destinations",
+    "theme": "appels_speciaux_et_destinations",
+    "rule_type": "commercial",
+    "service_scope": [
+      "4G",
+      "Téléphonie"
+    ],
+    "categorie_scope": [
+      "Technique"
+    ],
+    "sous_categories_cibles": [
+      "Appel vers short code",
+      "Problème émission national",
+      "Problème émission international",
+      "Problème émission numéros courts",
+      "Réception appels",
+      "Appels émission et réception"
+    ],
+    "intents_cibles": [],
+    "condition": "Le client ne peut pas joindre des numéros courts, des destinations nationales ou internationales, ou rencontre un problème ciblé sur certains appels.",
+    "action": "Qualifier la destination impactée, vérifier si le défaut concerne tous les appels ou seulement un type précis, puis orienter vers le support approprié.",
+    "justification": "Les restrictions ou défauts d'appel peuvent dépendre de la destination, du service ou d'un paramétrage spécifique.",
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "priorite": "moyenne",
+    "pre_checks": [
+      "préciser la destination ou le type de numéro",
+      "indiquer si l'émission, la réception ou les deux sont touchées",
+      "noter depuis quand le défaut existe"
+    ],
+    "escalade": "Transmettre au support téléphonie/mobile si le problème est confirmé sur une catégorie d'appels.",
+    "related_article_ids": [
+      "kb_022",
+      "kb_023",
+      "kb_024"
+    ],
+    "related_faq_ids": [
+      "faq_022",
+      "faq_023",
+      "faq_024"
+    ],
+    "mots_cles": [
+      "numéro court",
+      "appel international",
+      "appel national",
+      "émission",
+      "réception"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "rule_020",
+    "source": "generated_from_kb_articles_kb_faq_kb_services",
+    "titre": "Règle knowledge_usage - usage_base_connaissance_rag",
+    "theme": "usage_base_connaissance_rag",
+    "rule_type": "knowledge_usage",
+    "service_scope": [
+      "ADSL",
+      "4G",
+      "FTTx",
+      "Téléphonie"
+    ],
+    "categorie_scope": [
+      "Tous"
+    ],
+    "sous_categories_cibles": [],
+    "intents_cibles": [],
+    "condition": "Une réponse doit être générée par le chatbot après qualification de la demande.",
+    "action": "Récupérer en priorité les articles, FAQ et fiches service liés au service et à l'intention identifiés, puis composer une réponse en langage naturel en combinant symptômes, vérifications, réponse type et règles de routage.",
+    "justification": "Le RAG doit exploiter la connaissance métier structurée avant de produire une réponse finale.",
+    "canaux": [
+      "chatbot",
+      "agent"
+    ],
+    "priorite": "haute",
+    "pre_checks": [
+      "déterminer l'intention probable",
+      "récupérer les articles et FAQ associés",
+      "appliquer la règle métier la plus pertinente"
+    ],
+    "escalade": "Si la base ne couvre pas suffisamment le cas, répondre de façon prudente puis orienter vers un agent humain.",
+    "related_article_ids": [
+      "kb_001",
+      "kb_002",
+      "kb_003",
+      "kb_004",
+      "kb_005",
+      "kb_006",
+      "kb_007",
+      "kb_008",
+      "kb_009",
+      "kb_010",
+      "kb_011",
+      "kb_012",
+      "kb_013",
+      "kb_014",
+      "kb_015",
+      "kb_016",
+      "kb_017",
+      "kb_018",
+      "kb_019",
+      "kb_020",
+      "kb_021",
+      "kb_022",
+      "kb_023",
+      "kb_024",
+      "kb_025",
+      "kb_026",
+      "kb_027",
+      "kb_028",
+      "kb_029",
+      "kb_030",
+      "kb_031",
+      "kb_032",
+      "kb_033",
+      "kb_034",
+      "kb_035",
+      "kb_036",
+      "kb_037",
+      "kb_038"
+    ],
+    "related_faq_ids": [
+      "faq_001",
+      "faq_002",
+      "faq_003",
+      "faq_004",
+      "faq_005",
+      "faq_006",
+      "faq_007",
+      "faq_008",
+      "faq_009",
+      "faq_010",
+      "faq_011",
+      "faq_012",
+      "faq_013",
+      "faq_014",
+      "faq_015",
+      "faq_016",
+      "faq_017",
+      "faq_018",
+      "faq_019",
+      "faq_020",
+      "faq_021",
+      "faq_022",
+      "faq_023",
+      "faq_024",
+      "faq_025",
+      "faq_026",
+      "faq_027",
+      "faq_028",
+      "faq_029",
+      "faq_030",
+      "faq_031",
+      "faq_032",
+      "faq_033",
+      "faq_034",
+      "faq_035",
+      "faq_036",
+      "faq_037",
+      "faq_038",
+      "faq_901"
+    ],
+    "mots_cles": [
+      "RAG",
+      "base de connaissance",
+      "articles",
+      "FAQ",
+      "règles"
+    ],
+    "statut": "brouillon_a_valider"
+  }
+]

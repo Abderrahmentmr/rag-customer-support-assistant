@@ -1,0 +1,1662 @@
+[
+  {
+    "id": "kb_001",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "ADSL",
+    "categorie": "Technique",
+    "sous_categorie": "Chute de débit",
+    "titre": "ADSL - Chute de débit",
+    "intent_possible": "debit_lent",
+    "description": "Article de connaissance pour le traitement du cas « Chute de débit » sur le service ADSL (technique).",
+    "symptomes": [
+      "connexion lente",
+      "pages qui chargent lentement",
+      "vidéos ou appels qui se coupent"
+    ],
+    "causes_possibles": [
+      "saturation temporaire",
+      "signal ou ligne instable",
+      "équipement dégradé",
+      "usage simultané important"
+    ],
+    "verification_client": [
+      "vérifier l'alimentation du modem",
+      "contrôler le câble téléphonique/DSL et le filtre",
+      "redémarrer le modem puis attendre 3 à 5 minutes",
+      "tester l'accès avec un seul appareil",
+      "faire un test de débit si possible"
+    ],
+    "action_agent": "vérifier l'environnement de connexion, confirmer le type d'usage et proposer un test de débit.",
+    "reponse_agent": "Je comprends votre demande concernant « Chute de débit » pour le service ADSL. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket technique ADSL si le défaut persiste après vérification du modem et de la ligne.",
+    "mots_cles": [
+      "ADSL",
+      "Technique",
+      "Chute de débit",
+      "connexion lente",
+      "pages qui chargent lentement",
+      "vidéos ou appels qui se coupent",
+      "debit_lent"
+    ],
+    "examples_user_queries": [
+      "pouvez-vous m'aider internet est lent depuis plusieurs jours",
+      "internet est lent depuis ce matin",
+      "bonjour internet est lent depuis ce matin"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_002",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "ADSL",
+    "categorie": "Technique",
+    "sous_categorie": "Déconnexion fréquente",
+    "titre": "ADSL - Déconnexion fréquente",
+    "intent_possible": "internet_panne",
+    "description": "Article de connaissance pour le traitement du cas « Déconnexion fréquente » sur le service ADSL (technique).",
+    "symptomes": [
+      "coupures répétées",
+      "connexion qui revient puis repart",
+      "service instable"
+    ],
+    "causes_possibles": [
+      "couverture ou synchronisation instable",
+      "incident réseau",
+      "câble ou branchement défectueux",
+      "modem/routeur instable"
+    ],
+    "verification_client": [
+      "vérifier l'alimentation du modem",
+      "contrôler le câble téléphonique/DSL et le filtre",
+      "redémarrer le modem puis attendre 3 à 5 minutes",
+      "tester l'accès avec un seul appareil",
+      "noter la fréquence des coupures et les horaires"
+    ],
+    "action_agent": "qualifier la fréquence des coupures et vérifier s'il existe un incident collectif.",
+    "reponse_agent": "Je comprends votre demande concernant « Déconnexion fréquente » pour le service ADSL. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket technique ADSL si le défaut persiste après vérification du modem et de la ligne.",
+    "mots_cles": [
+      "ADSL",
+      "Technique",
+      "Déconnexion fréquente",
+      "coupures répétées",
+      "connexion qui revient puis repart",
+      "service instable",
+      "internet_panne"
+    ],
+    "examples_user_queries": [
+      "pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet dans mon quartier"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_003",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "ADSL",
+    "categorie": "Technique",
+    "sous_categorie": "Erreur 651/678",
+    "titre": "ADSL - Erreur 651/678",
+    "intent_possible": "probleme_modem",
+    "description": "Article de connaissance pour le traitement du cas « Erreur 651/678 » sur le service ADSL (technique).",
+    "symptomes": [
+      "erreur 651/678"
+    ],
+    "causes_possibles": [
+      "incident réseau local",
+      "configuration ou paramétrage incorrect",
+      "équipement ou ligne dégradé(e)"
+    ],
+    "verification_client": [
+      "vérifier l'alimentation du modem",
+      "contrôler le câble téléphonique/DSL et le filtre",
+      "redémarrer le modem puis attendre 3 à 5 minutes",
+      "tester l'accès avec un seul appareil"
+    ],
+    "action_agent": "guider le client dans les vérifications de premier niveau puis qualifier le dossier.",
+    "reponse_agent": "Je comprends votre demande concernant « Erreur 651/678 » pour le service ADSL. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket technique ADSL si le défaut persiste après vérification du modem et de la ligne.",
+    "mots_cles": [
+      "ADSL",
+      "Technique",
+      "Erreur 651/678",
+      "erreur 651/678",
+      "probleme_modem"
+    ],
+    "examples_user_queries": [
+      "j'ai un souci le modem ne fonctionne pas depuis plusieurs jours",
+      "le modem ne fonctionne pas depuis hier",
+      "le modem ne fonctionne pas"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_004",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "ADSL",
+    "categorie": "Technique",
+    "sous_categorie": "Erreur 691 solde positive",
+    "titre": "ADSL - Erreur 691 solde positive",
+    "intent_possible": "paiement_facture",
+    "description": "Article de connaissance pour le traitement du cas « Erreur 691 solde positive » sur le service ADSL (technique).",
+    "symptomes": [
+      "message erreur 691",
+      "accès refusé malgré un solde positif"
+    ],
+    "causes_possibles": [
+      "identifiants PPP incorrects",
+      "profil non mis à jour",
+      "incident d'authentification"
+    ],
+    "verification_client": [
+      "vérifier l'alimentation du modem",
+      "contrôler le câble téléphonique/DSL et le filtre",
+      "redémarrer le modem puis attendre 3 à 5 minutes",
+      "tester l'accès avec un seul appareil",
+      "confirmer l'état du solde et les identifiants saisis"
+    ],
+    "action_agent": "vérifier l'authentification et la cohérence entre solde, profil et accès.",
+    "reponse_agent": "Je comprends votre demande concernant « Erreur 691 solde positive » pour le service ADSL. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket technique ADSL si le défaut persiste après vérification du modem et de la ligne.",
+    "mots_cles": [
+      "ADSL",
+      "Technique",
+      "Erreur 691 solde positive",
+      "message erreur 691",
+      "accès refusé malgré un solde positif",
+      "paiement_facture"
+    ],
+    "examples_user_queries": [
+      "je veux payer ma facture depuis hier",
+      "pouvez-vous m'aider je veux payer ma facture",
+      "s'il vous plaît je veux payer ma facture"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_005",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "ADSL",
+    "categorie": "Technique",
+    "sous_categorie": "Impossible d'afficher les pages",
+    "titre": "ADSL - Impossible d'afficher les pages",
+    "intent_possible": "internet_panne",
+    "description": "Article de connaissance pour le traitement du cas « Impossible d'afficher les pages » sur le service ADSL (technique).",
+    "symptomes": [
+      "ouverture du navigateur impossible",
+      "certaines pages ne s'affichent pas",
+      "service partiellement accessible"
+    ],
+    "causes_possibles": [
+      "problème DNS",
+      "connexion partielle",
+      "navigateur ou appareil",
+      "coupure intermittente"
+    ],
+    "verification_client": [
+      "vérifier l'alimentation du modem",
+      "contrôler le câble téléphonique/DSL et le filtre",
+      "redémarrer le modem puis attendre 3 à 5 minutes",
+      "tester l'accès avec un seul appareil",
+      "tester l'accès à plusieurs sites différents"
+    ],
+    "action_agent": "distinguer un problème internet général d'un problème de navigation ou DNS.",
+    "reponse_agent": "Je comprends votre demande concernant « Impossible d'afficher les pages » pour le service ADSL. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket technique ADSL si le défaut persiste après vérification du modem et de la ligne.",
+    "mots_cles": [
+      "ADSL",
+      "Technique",
+      "Impossible d'afficher les pages",
+      "ouverture du navigateur impossible",
+      "certaines pages ne s'affichent pas",
+      "service partiellement accessible",
+      "internet_panne"
+    ],
+    "examples_user_queries": [
+      "pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet dans mon quartier"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_006",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "ADSL",
+    "categorie": "Technique",
+    "sous_categorie": "Link instable",
+    "titre": "ADSL - Link instable",
+    "intent_possible": "internet_panne",
+    "description": "Article de connaissance pour le traitement du cas « Link instable » sur le service ADSL (technique).",
+    "symptomes": [
+      "coupures répétées",
+      "connexion qui revient puis repart",
+      "service instable"
+    ],
+    "causes_possibles": [
+      "couverture ou synchronisation instable",
+      "incident réseau",
+      "câble ou branchement défectueux",
+      "modem/routeur instable"
+    ],
+    "verification_client": [
+      "vérifier l'alimentation du modem",
+      "contrôler le câble téléphonique/DSL et le filtre",
+      "redémarrer le modem puis attendre 3 à 5 minutes",
+      "tester l'accès avec un seul appareil",
+      "noter la fréquence des coupures et les horaires"
+    ],
+    "action_agent": "qualifier la fréquence des coupures et vérifier s'il existe un incident collectif.",
+    "reponse_agent": "Je comprends votre demande concernant « Link instable » pour le service ADSL. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket technique ADSL si le défaut persiste après vérification du modem et de la ligne.",
+    "mots_cles": [
+      "ADSL",
+      "Technique",
+      "Link instable",
+      "coupures répétées",
+      "connexion qui revient puis repart",
+      "service instable",
+      "internet_panne"
+    ],
+    "examples_user_queries": [
+      "pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet dans mon quartier"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_007",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "4G",
+    "categorie": "Technique",
+    "sous_categorie": "Chute de débit",
+    "titre": "4G - Chute de débit",
+    "intent_possible": "debit_lent",
+    "description": "Article de connaissance pour le traitement du cas « Chute de débit » sur le service 4G (technique).",
+    "symptomes": [
+      "connexion lente",
+      "pages qui chargent lentement",
+      "vidéos ou appels qui se coupent"
+    ],
+    "causes_possibles": [
+      "saturation temporaire",
+      "signal ou ligne instable",
+      "équipement dégradé",
+      "usage simultané important"
+    ],
+    "verification_client": [
+      "redémarrer le routeur ou le téléphone",
+      "vérifier la couverture et le niveau du signal",
+      "tester dans une autre pièce ou à l'extérieur",
+      "contrôler le volume data disponible",
+      "faire un test de débit si possible"
+    ],
+    "action_agent": "vérifier l'environnement de connexion, confirmer le type d'usage et proposer un test de débit.",
+    "reponse_agent": "Je comprends votre demande concernant « Chute de débit » pour le service 4G. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket réseau/mobile si le défaut persiste après vérification du signal et du volume.",
+    "mots_cles": [
+      "4G",
+      "Technique",
+      "Chute de débit",
+      "connexion lente",
+      "pages qui chargent lentement",
+      "vidéos ou appels qui se coupent",
+      "debit_lent"
+    ],
+    "examples_user_queries": [
+      "pouvez-vous m'aider internet est lent depuis plusieurs jours",
+      "internet est lent depuis ce matin",
+      "bonjour internet est lent depuis ce matin"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_008",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "4G",
+    "categorie": "Technique",
+    "sous_categorie": "Couverture réseau",
+    "titre": "4G - Couverture réseau",
+    "intent_possible": "autre",
+    "description": "Article de connaissance pour le traitement du cas « Couverture réseau » sur le service 4G (technique).",
+    "symptomes": [
+      "aucun signal",
+      "barres réseau faibles ou absentes",
+      "impossibilité de se connecter"
+    ],
+    "causes_possibles": [
+      "zone faiblement couverte",
+      "incident radio",
+      "obstacle ou localisation défavorable",
+      "équipement ou SIM"
+    ],
+    "verification_client": [
+      "redémarrer le routeur ou le téléphone",
+      "vérifier la couverture et le niveau du signal",
+      "tester dans une autre pièce ou à l'extérieur",
+      "contrôler le volume data disponible",
+      "tester dans une autre zone ou avec un autre appareil si possible"
+    ],
+    "action_agent": "qualifier la couverture, la zone concernée et l'équipement utilisé.",
+    "reponse_agent": "Je comprends votre demande concernant « Couverture réseau » pour le service 4G. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket réseau/mobile si le défaut persiste après vérification du signal et du volume.",
+    "mots_cles": [
+      "4G",
+      "Technique",
+      "Couverture réseau",
+      "aucun signal",
+      "barres réseau faibles ou absentes",
+      "impossibilité de se connecter",
+      "autre"
+    ],
+    "examples_user_queries": [],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_009",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "4G",
+    "categorie": "Technique",
+    "sous_categorie": "Déconnexion fréquente",
+    "titre": "4G - Déconnexion fréquente",
+    "intent_possible": "internet_panne",
+    "description": "Article de connaissance pour le traitement du cas « Déconnexion fréquente » sur le service 4G (technique).",
+    "symptomes": [
+      "coupures répétées",
+      "connexion qui revient puis repart",
+      "service instable"
+    ],
+    "causes_possibles": [
+      "couverture ou synchronisation instable",
+      "incident réseau",
+      "câble ou branchement défectueux",
+      "modem/routeur instable"
+    ],
+    "verification_client": [
+      "redémarrer le routeur ou le téléphone",
+      "vérifier la couverture et le niveau du signal",
+      "tester dans une autre pièce ou à l'extérieur",
+      "contrôler le volume data disponible",
+      "noter la fréquence des coupures et les horaires"
+    ],
+    "action_agent": "qualifier la fréquence des coupures et vérifier s'il existe un incident collectif.",
+    "reponse_agent": "Je comprends votre demande concernant « Déconnexion fréquente » pour le service 4G. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket réseau/mobile si le défaut persiste après vérification du signal et du volume.",
+    "mots_cles": [
+      "4G",
+      "Technique",
+      "Déconnexion fréquente",
+      "coupures répétées",
+      "connexion qui revient puis repart",
+      "service instable",
+      "internet_panne"
+    ],
+    "examples_user_queries": [
+      "pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet dans mon quartier"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_010",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "FTTx",
+    "categorie": "Technique",
+    "sous_categorie": "Chute de débit",
+    "titre": "FTTx - Chute de débit",
+    "intent_possible": "debit_lent",
+    "description": "Article de connaissance pour le traitement du cas « Chute de débit » sur le service FTTx (technique).",
+    "symptomes": [
+      "connexion lente",
+      "pages qui chargent lentement",
+      "vidéos ou appels qui se coupent"
+    ],
+    "causes_possibles": [
+      "saturation temporaire",
+      "signal ou ligne instable",
+      "équipement dégradé",
+      "usage simultané important"
+    ],
+    "verification_client": [
+      "vérifier l'alimentation de l'ONT/modem",
+      "contrôler les câbles optiques/ethernet sans les forcer",
+      "redémarrer l'équipement puis attendre 3 à 5 minutes",
+      "tester l'accès avec un seul appareil",
+      "faire un test de débit si possible"
+    ],
+    "action_agent": "vérifier l'environnement de connexion, confirmer le type d'usage et proposer un test de débit.",
+    "reponse_agent": "Je comprends votre demande concernant « Chute de débit » pour le service FTTx. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket technique fibre si le défaut persiste après vérification de l'ONT/modem.",
+    "mots_cles": [
+      "FTTx",
+      "Technique",
+      "Chute de débit",
+      "connexion lente",
+      "pages qui chargent lentement",
+      "vidéos ou appels qui se coupent",
+      "debit_lent"
+    ],
+    "examples_user_queries": [
+      "pouvez-vous m'aider internet est lent depuis plusieurs jours",
+      "internet est lent depuis ce matin",
+      "bonjour internet est lent depuis ce matin"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_011",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "FTTx",
+    "categorie": "Technique",
+    "sous_categorie": "Déconnexion fréquente",
+    "titre": "FTTx - Déconnexion fréquente",
+    "intent_possible": "internet_panne",
+    "description": "Article de connaissance pour le traitement du cas « Déconnexion fréquente » sur le service FTTx (technique).",
+    "symptomes": [
+      "coupures répétées",
+      "connexion qui revient puis repart",
+      "service instable"
+    ],
+    "causes_possibles": [
+      "couverture ou synchronisation instable",
+      "incident réseau",
+      "câble ou branchement défectueux",
+      "modem/routeur instable"
+    ],
+    "verification_client": [
+      "vérifier l'alimentation de l'ONT/modem",
+      "contrôler les câbles optiques/ethernet sans les forcer",
+      "redémarrer l'équipement puis attendre 3 à 5 minutes",
+      "tester l'accès avec un seul appareil",
+      "noter la fréquence des coupures et les horaires"
+    ],
+    "action_agent": "qualifier la fréquence des coupures et vérifier s'il existe un incident collectif.",
+    "reponse_agent": "Je comprends votre demande concernant « Déconnexion fréquente » pour le service FTTx. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket technique fibre si le défaut persiste après vérification de l'ONT/modem.",
+    "mots_cles": [
+      "FTTx",
+      "Technique",
+      "Déconnexion fréquente",
+      "coupures répétées",
+      "connexion qui revient puis repart",
+      "service instable",
+      "internet_panne"
+    ],
+    "examples_user_queries": [
+      "pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet dans mon quartier"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_012",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "FTTx",
+    "categorie": "Technique",
+    "sous_categorie": "Impossible d'afficher les pages",
+    "titre": "FTTx - Impossible d'afficher les pages",
+    "intent_possible": "internet_panne",
+    "description": "Article de connaissance pour le traitement du cas « Impossible d'afficher les pages » sur le service FTTx (technique).",
+    "symptomes": [
+      "ouverture du navigateur impossible",
+      "certaines pages ne s'affichent pas",
+      "service partiellement accessible"
+    ],
+    "causes_possibles": [
+      "problème DNS",
+      "connexion partielle",
+      "navigateur ou appareil",
+      "coupure intermittente"
+    ],
+    "verification_client": [
+      "vérifier l'alimentation de l'ONT/modem",
+      "contrôler les câbles optiques/ethernet sans les forcer",
+      "redémarrer l'équipement puis attendre 3 à 5 minutes",
+      "tester l'accès avec un seul appareil",
+      "tester l'accès à plusieurs sites différents"
+    ],
+    "action_agent": "distinguer un problème internet général d'un problème de navigation ou DNS.",
+    "reponse_agent": "Je comprends votre demande concernant « Impossible d'afficher les pages » pour le service FTTx. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket technique fibre si le défaut persiste après vérification de l'ONT/modem.",
+    "mots_cles": [
+      "FTTx",
+      "Technique",
+      "Impossible d'afficher les pages",
+      "ouverture du navigateur impossible",
+      "certaines pages ne s'affichent pas",
+      "service partiellement accessible",
+      "internet_panne"
+    ],
+    "examples_user_queries": [
+      "pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet dans mon quartier"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_013",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "FTTx",
+    "categorie": "Technique",
+    "sous_categorie": "Pas d'internet",
+    "titre": "FTTx - Pas d'internet",
+    "intent_possible": "internet_panne",
+    "description": "Article de connaissance pour le traitement du cas « Pas d'internet » sur le service FTTx (technique).",
+    "symptomes": [
+      "aucune connexion",
+      "voyant internet éteint ou rouge",
+      "aucun accès au web"
+    ],
+    "causes_possibles": [
+      "incident réseau",
+      "câble débranché",
+      "ONT/modem mal synchronisé",
+      "panne locale"
+    ],
+    "verification_client": [
+      "vérifier l'alimentation de l'ONT/modem",
+      "contrôler les câbles optiques/ethernet sans les forcer",
+      "redémarrer l'équipement puis attendre 3 à 5 minutes",
+      "tester l'accès avec un seul appareil"
+    ],
+    "action_agent": "vérifier les voyants, le branchement et l'existence d'un incident collectif.",
+    "reponse_agent": "Je comprends votre demande concernant « Pas d'internet » pour le service FTTx. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket technique fibre si le défaut persiste après vérification de l'ONT/modem.",
+    "mots_cles": [
+      "FTTx",
+      "Technique",
+      "Pas d'internet",
+      "aucune connexion",
+      "voyant internet éteint ou rouge",
+      "aucun accès au web",
+      "internet_panne"
+    ],
+    "examples_user_queries": [
+      "pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet dans mon quartier"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_014",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "FTTx",
+    "categorie": "Technique",
+    "sous_categorie": "Pas de signal réseau",
+    "titre": "FTTx - Pas de signal réseau",
+    "intent_possible": "installation_fibre",
+    "description": "Article de connaissance pour le traitement du cas « Pas de signal réseau » sur le service FTTx (technique).",
+    "symptomes": [
+      "aucun signal",
+      "barres réseau faibles ou absentes",
+      "impossibilité de se connecter"
+    ],
+    "causes_possibles": [
+      "zone faiblement couverte",
+      "incident radio",
+      "obstacle ou localisation défavorable",
+      "équipement ou SIM"
+    ],
+    "verification_client": [
+      "vérifier l'alimentation de l'ONT/modem",
+      "contrôler les câbles optiques/ethernet sans les forcer",
+      "redémarrer l'équipement puis attendre 3 à 5 minutes",
+      "tester l'accès avec un seul appareil",
+      "tester dans une autre zone ou avec un autre appareil si possible"
+    ],
+    "action_agent": "qualifier la couverture, la zone concernée et l'équipement utilisé.",
+    "reponse_agent": "Je comprends votre demande concernant « Pas de signal réseau » pour le service FTTx. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket technique fibre si le défaut persiste après vérification de l'ONT/modem.",
+    "mots_cles": [
+      "FTTx",
+      "Technique",
+      "Pas de signal réseau",
+      "aucun signal",
+      "barres réseau faibles ou absentes",
+      "impossibilité de se connecter",
+      "installation_fibre"
+    ],
+    "examples_user_queries": [
+      "pouvez-vous m'aider je veux installer la fibre depuis hier",
+      "merci de vérifier je veux installer la fibre dans mon quartier",
+      "je veux installer la fibre"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_015",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "FTTx",
+    "categorie": "Technique",
+    "sous_categorie": "Signal réseau instable",
+    "titre": "FTTx - Signal réseau instable",
+    "intent_possible": "internet_panne",
+    "description": "Article de connaissance pour le traitement du cas « Signal réseau instable » sur le service FTTx (technique).",
+    "symptomes": [
+      "coupures répétées",
+      "connexion qui revient puis repart",
+      "service instable"
+    ],
+    "causes_possibles": [
+      "couverture ou synchronisation instable",
+      "incident réseau",
+      "câble ou branchement défectueux",
+      "modem/routeur instable"
+    ],
+    "verification_client": [
+      "vérifier l'alimentation de l'ONT/modem",
+      "contrôler les câbles optiques/ethernet sans les forcer",
+      "redémarrer l'équipement puis attendre 3 à 5 minutes",
+      "tester l'accès avec un seul appareil",
+      "noter la fréquence des coupures et les horaires"
+    ],
+    "action_agent": "qualifier la fréquence des coupures et vérifier s'il existe un incident collectif.",
+    "reponse_agent": "Je comprends votre demande concernant « Signal réseau instable » pour le service FTTx. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket technique fibre si le défaut persiste après vérification de l'ONT/modem.",
+    "mots_cles": [
+      "FTTx",
+      "Technique",
+      "Signal réseau instable",
+      "coupures répétées",
+      "connexion qui revient puis repart",
+      "service instable",
+      "internet_panne"
+    ],
+    "examples_user_queries": [
+      "pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet dans mon quartier"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_016",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "Téléphonie",
+    "categorie": "Technique",
+    "sous_categorie": "Coupure de communication",
+    "titre": "Téléphonie - Coupure de communication",
+    "intent_possible": "internet_panne",
+    "description": "Article de connaissance pour le traitement du cas « Coupure de communication » sur le service Téléphonie (technique).",
+    "symptomes": [
+      "appel coupé en cours de conversation",
+      "communication interrompue",
+      "appel instable"
+    ],
+    "causes_possibles": [
+      "qualité de ligne insuffisante",
+      "incident réseau",
+      "bruit ou perturbation sur la ligne"
+    ],
+    "verification_client": [
+      "vérifier le branchement du téléphone",
+      "tester avec un autre combiné si possible",
+      "contrôler la présence de tonalité",
+      "confirmer si le problème concerne tous les appels ou certains numéros",
+      "demander si le problème touche tous les correspondants"
+    ],
+    "action_agent": "qualifier la coupure et distinguer un problème local d'un incident réseau.",
+    "reponse_agent": "Je comprends votre demande concernant « Coupure de communication » pour le service Téléphonie. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket téléphonie si le défaut persiste après test du combiné et de la ligne.",
+    "mots_cles": [
+      "Téléphonie",
+      "Technique",
+      "Coupure de communication",
+      "appel coupé en cours de conversation",
+      "communication interrompue",
+      "appel instable",
+      "internet_panne"
+    ],
+    "examples_user_queries": [
+      "pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet dans mon quartier"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_017",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "Téléphonie",
+    "categorie": "Technique",
+    "sous_categorie": "Inversion de ligne",
+    "titre": "Téléphonie - Inversion de ligne",
+    "intent_possible": "autre",
+    "description": "Article de connaissance pour le traitement du cas « Inversion de ligne » sur le service Téléphonie (technique).",
+    "symptomes": [
+      "appels ou tonalité associés à une autre ligne",
+      "mauvais numéro ou mauvaise ligne"
+    ],
+    "causes_possibles": [
+      "erreur de câblage",
+      "mauvaise affectation de ligne",
+      "incident d'infrastructure"
+    ],
+    "verification_client": [
+      "vérifier le branchement du téléphone",
+      "tester avec un autre combiné si possible",
+      "contrôler la présence de tonalité",
+      "confirmer si le problème concerne tous les appels ou certains numéros",
+      "confirmer le numéro affecté et les symptômes exacts"
+    ],
+    "action_agent": "recueillir le numéro concerné et remonter en priorité car il s'agit d'un défaut de ligne.",
+    "reponse_agent": "Je comprends votre demande concernant « Inversion de ligne » pour le service Téléphonie. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket téléphonie si le défaut persiste après test du combiné et de la ligne.",
+    "mots_cles": [
+      "Téléphonie",
+      "Technique",
+      "Inversion de ligne",
+      "appels ou tonalité associés à une autre ligne",
+      "mauvais numéro ou mauvaise ligne",
+      "autre"
+    ],
+    "examples_user_queries": [],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_018",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "Téléphonie",
+    "categorie": "Technique",
+    "sous_categorie": "Mauvaise audition et friture",
+    "titre": "Téléphonie - Mauvaise audition et friture",
+    "intent_possible": "autre",
+    "description": "Article de connaissance pour le traitement du cas « Mauvaise audition et friture » sur le service Téléphonie (technique).",
+    "symptomes": [
+      "parasites",
+      "grésillement",
+      "mauvaise qualité audio"
+    ],
+    "causes_possibles": [
+      "ligne bruitée",
+      "combiné défectueux",
+      "branchement interne",
+      "incident sur la boucle locale"
+    ],
+    "verification_client": [
+      "vérifier le branchement du téléphone",
+      "tester avec un autre combiné si possible",
+      "contrôler la présence de tonalité",
+      "confirmer si le problème concerne tous les appels ou certains numéros",
+      "tester avec un autre téléphone si possible"
+    ],
+    "action_agent": "isoler l'origine du bruit : combiné, câblage interne ou ligne réseau.",
+    "reponse_agent": "Je comprends votre demande concernant « Mauvaise audition et friture » pour le service Téléphonie. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket téléphonie si le défaut persiste après test du combiné et de la ligne.",
+    "mots_cles": [
+      "Téléphonie",
+      "Technique",
+      "Mauvaise audition et friture",
+      "parasites",
+      "grésillement",
+      "mauvaise qualité audio",
+      "autre"
+    ],
+    "examples_user_queries": [],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_019",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "Téléphonie",
+    "categorie": "Technique",
+    "sous_categorie": "Pas de tonalité téléphone",
+    "titre": "Téléphonie - Pas de tonalité téléphone",
+    "intent_possible": "internet_panne",
+    "description": "Article de connaissance pour le traitement du cas « Pas de tonalité téléphone » sur le service Téléphonie (technique).",
+    "symptomes": [
+      "aucune tonalité",
+      "impossibilité d'émettre un appel",
+      "téléphone muet"
+    ],
+    "causes_possibles": [
+      "ligne inactive",
+      "câble débranché",
+      "panne de ligne",
+      "combiné défectueux"
+    ],
+    "verification_client": [
+      "vérifier le branchement du téléphone",
+      "tester avec un autre combiné si possible",
+      "contrôler la présence de tonalité",
+      "confirmer si le problème concerne tous les appels ou certains numéros"
+    ],
+    "action_agent": "vérifier la présence de tonalité et l'état de la ligne avant création d'incident.",
+    "reponse_agent": "Je comprends votre demande concernant « Pas de tonalité téléphone » pour le service Téléphonie. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket téléphonie si le défaut persiste après test du combiné et de la ligne.",
+    "mots_cles": [
+      "Téléphonie",
+      "Technique",
+      "Pas de tonalité téléphone",
+      "aucune tonalité",
+      "impossibilité d'émettre un appel",
+      "téléphone muet",
+      "internet_panne"
+    ],
+    "examples_user_queries": [
+      "pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet dans mon quartier"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_020",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "Téléphonie",
+    "categorie": "Technique",
+    "sous_categorie": "Mélange de communication",
+    "titre": "Téléphonie - Mélange de communication",
+    "intent_possible": "internet_panne",
+    "description": "Article de connaissance pour le traitement du cas « Mélange de communication » sur le service Téléphonie (technique).",
+    "symptomes": [
+      "conversation d'un tiers entendue",
+      "interférences anormales",
+      "mélange de communications"
+    ],
+    "causes_possibles": [
+      "défaut de ligne",
+      "problème de câblage",
+      "incident réseau"
+    ],
+    "verification_client": [
+      "vérifier le branchement du téléphone",
+      "tester avec un autre combiné si possible",
+      "contrôler la présence de tonalité",
+      "confirmer si le problème concerne tous les appels ou certains numéros"
+    ],
+    "action_agent": "remonter rapidement car le problème peut affecter la confidentialité et la qualité du service.",
+    "reponse_agent": "Je comprends votre demande concernant « Mélange de communication » pour le service Téléphonie. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket téléphonie si le défaut persiste après test du combiné et de la ligne.",
+    "mots_cles": [
+      "Téléphonie",
+      "Technique",
+      "Mélange de communication",
+      "conversation d'un tiers entendue",
+      "interférences anormales",
+      "mélange de communications",
+      "internet_panne"
+    ],
+    "examples_user_queries": [
+      "pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet dans mon quartier"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_021",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "Téléphonie",
+    "categorie": "Technique",
+    "sous_categorie": "Problème de réception",
+    "titre": "Téléphonie - Problème de réception",
+    "intent_possible": "internet_panne",
+    "description": "Article de connaissance pour le traitement du cas « Problème de réception » sur le service Téléphonie (technique).",
+    "symptomes": [
+      "appels entrants non reçus",
+      "certains appels n'aboutissent pas",
+      "réception irrégulière"
+    ],
+    "causes_possibles": [
+      "incident réseau",
+      "restriction ou configuration",
+      "défaut de ligne"
+    ],
+    "verification_client": [
+      "vérifier le branchement du téléphone",
+      "tester avec un autre combiné si possible",
+      "contrôler la présence de tonalité",
+      "confirmer si le problème concerne tous les appels ou certains numéros",
+      "demander si tous les appelants sont concernés"
+    ],
+    "action_agent": "qualifier la réception des appels et vérifier si le problème est généralisé.",
+    "reponse_agent": "Je comprends votre demande concernant « Problème de réception » pour le service Téléphonie. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket téléphonie si le défaut persiste après test du combiné et de la ligne.",
+    "mots_cles": [
+      "Téléphonie",
+      "Technique",
+      "Problème de réception",
+      "appels entrants non reçus",
+      "certains appels n'aboutissent pas",
+      "réception irrégulière",
+      "internet_panne"
+    ],
+    "examples_user_queries": [
+      "pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet dans mon quartier"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_022",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "Téléphonie",
+    "categorie": "Technique",
+    "sous_categorie": "Problème émission national",
+    "titre": "Téléphonie - Problème émission national",
+    "intent_possible": "autre",
+    "description": "Article de connaissance pour le traitement du cas « Problème émission national » sur le service Téléphonie (technique).",
+    "symptomes": [
+      "impossibilité d'appeler des numéros nationaux",
+      "échec à l'émission nationale"
+    ],
+    "causes_possibles": [
+      "restriction de service",
+      "configuration erronée",
+      "incident réseau"
+    ],
+    "verification_client": [
+      "vérifier le branchement du téléphone",
+      "tester avec un autre combiné si possible",
+      "contrôler la présence de tonalité",
+      "confirmer si le problème concerne tous les appels ou certains numéros",
+      "tester plusieurs numéros nationaux"
+    ],
+    "action_agent": "vérifier si l'incident concerne tous les appels nationaux ou certains préfixes.",
+    "reponse_agent": "Je comprends votre demande concernant « Problème émission national » pour le service Téléphonie. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket téléphonie si le défaut persiste après test du combiné et de la ligne.",
+    "mots_cles": [
+      "Téléphonie",
+      "Technique",
+      "Problème émission national",
+      "impossibilité d'appeler des numéros nationaux",
+      "échec à l'émission nationale",
+      "autre"
+    ],
+    "examples_user_queries": [],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_023",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "Téléphonie",
+    "categorie": "Technique",
+    "sous_categorie": "Problème émission international",
+    "titre": "Téléphonie - Problème émission international",
+    "intent_possible": "autre",
+    "description": "Article de connaissance pour le traitement du cas « Problème émission international » sur le service Téléphonie (technique).",
+    "symptomes": [
+      "impossibilité d'appeler l'international",
+      "échec vers des destinations internationales"
+    ],
+    "causes_possibles": [
+      "service international non activé",
+      "restriction commerciale",
+      "incident réseau"
+    ],
+    "verification_client": [
+      "vérifier le branchement du téléphone",
+      "tester avec un autre combiné si possible",
+      "contrôler la présence de tonalité",
+      "confirmer si le problème concerne tous les appels ou certains numéros",
+      "confirmer si l'option internationale est active"
+    ],
+    "action_agent": "vérifier l'éligibilité et l'activation du service international.",
+    "reponse_agent": "Je comprends votre demande concernant « Problème émission international » pour le service Téléphonie. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket téléphonie si le défaut persiste après test du combiné et de la ligne.",
+    "mots_cles": [
+      "Téléphonie",
+      "Technique",
+      "Problème émission international",
+      "impossibilité d'appeler l'international",
+      "échec vers des destinations internationales",
+      "autre"
+    ],
+    "examples_user_queries": [],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_024",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "Téléphonie",
+    "categorie": "Technique",
+    "sous_categorie": "Problème émission numéros courts",
+    "titre": "Téléphonie - Problème émission numéros courts",
+    "intent_possible": "autre",
+    "description": "Article de connaissance pour le traitement du cas « Problème émission numéros courts » sur le service Téléphonie (technique).",
+    "symptomes": [
+      "impossibilité d'appeler un numéro court",
+      "échec vers short code"
+    ],
+    "causes_possibles": [
+      "restriction de service",
+      "numéro non accessible depuis l'offre",
+      "incident réseau"
+    ],
+    "verification_client": [
+      "vérifier le branchement du téléphone",
+      "tester avec un autre combiné si possible",
+      "contrôler la présence de tonalité",
+      "confirmer si le problème concerne tous les appels ou certains numéros",
+      "tester plusieurs numéros courts si possible"
+    ],
+    "action_agent": "qualifier les numéros courts concernés et l'offre utilisée.",
+    "reponse_agent": "Je comprends votre demande concernant « Problème émission numéros courts » pour le service Téléphonie. Nous pouvons d'abord vérifier les éléments de base afin d'identifier si le problème est local, lié à l'équipement ou au réseau. Si le défaut persiste après ces vérifications, le dossier devra être transmis au niveau approprié.",
+    "escalade": "ouvrir un ticket téléphonie si le défaut persiste après test du combiné et de la ligne.",
+    "mots_cles": [
+      "Téléphonie",
+      "Technique",
+      "Problème émission numéros courts",
+      "impossibilité d'appeler un numéro court",
+      "échec vers short code",
+      "autre"
+    ],
+    "examples_user_queries": [],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_025",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "ADSL",
+    "categorie": "Commercial",
+    "sous_categorie": "Ajustement",
+    "titre": "ADSL - Ajustement",
+    "intent_possible": "autre",
+    "description": "Article de connaissance pour le traitement du cas « Ajustement » sur le service ADSL (commercial).",
+    "symptomes": [
+      "écart sur la facturation",
+      "demande de correction commerciale"
+    ],
+    "causes_possibles": [
+      "erreur de calcul",
+      "mise à jour non prise en compte",
+      "écart entre usage et facturation"
+    ],
+    "verification_client": [
+      "vérifier le numéro de client/contrat",
+      "contrôler la période concernée",
+      "rassembler les éléments de facturation"
+    ],
+    "action_agent": "documenter l'écart signalé et transmettre au traitement commercial si nécessaire.",
+    "reponse_agent": "Je comprends votre demande concernant « Ajustement » pour le service ADSL. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.",
+    "escalade": "transmettre au service commercial ADSL si une action sur l'offre ou la facturation est nécessaire.",
+    "mots_cles": [
+      "ADSL",
+      "Commercial",
+      "Ajustement",
+      "écart sur la facturation",
+      "demande de correction commerciale",
+      "autre"
+    ],
+    "examples_user_queries": [],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_026",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "ADSL",
+    "categorie": "Commercial",
+    "sous_categorie": "Changement de débit",
+    "titre": "ADSL - Changement de débit",
+    "intent_possible": "debit_lent",
+    "description": "Article de connaissance pour le traitement du cas « Changement de débit » sur le service ADSL (commercial).",
+    "symptomes": [
+      "demande d'augmentation ou diminution de débit",
+      "souhait de changement d'offre technique"
+    ],
+    "causes_possibles": [
+      "besoin d'adaptation de l'offre",
+      "insatisfaction liée au débit actuel"
+    ],
+    "verification_client": [
+      "vérifier l'offre actuelle",
+      "confirmer le débit souhaité",
+      "contrôler l'éligibilité technique"
+    ],
+    "action_agent": "expliquer les options disponibles et vérifier la faisabilité avant toute demande commerciale.",
+    "reponse_agent": "Je comprends votre demande concernant « Changement de débit » pour le service ADSL. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.",
+    "escalade": "transmettre au service commercial ADSL si une action sur l'offre ou la facturation est nécessaire.",
+    "mots_cles": [
+      "ADSL",
+      "Commercial",
+      "Changement de débit",
+      "demande d'augmentation ou diminution de débit",
+      "souhait de changement d'offre technique",
+      "debit_lent"
+    ],
+    "examples_user_queries": [
+      "pouvez-vous m'aider internet est lent depuis plusieurs jours",
+      "internet est lent depuis ce matin",
+      "bonjour internet est lent depuis ce matin"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_027",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "ADSL",
+    "categorie": "Commercial",
+    "sous_categorie": "Demande de compensation",
+    "titre": "ADSL - Demande de compensation",
+    "intent_possible": "autre",
+    "description": "Article de connaissance pour le traitement du cas « Demande de compensation » sur le service ADSL (commercial).",
+    "symptomes": [
+      "réclamation commerciale",
+      "demande de geste ou compensation"
+    ],
+    "causes_possibles": [
+      "incident prolongé",
+      "indisponibilité du service",
+      "insatisfaction client"
+    ],
+    "verification_client": [
+      "vérifier la durée de l'incident",
+      "contrôler l'historique du dossier",
+      "collecter les justificatifs si nécessaires"
+    ],
+    "action_agent": "documenter l'impact subi et orienter vers le traitement commercial.",
+    "reponse_agent": "Je comprends votre demande concernant « Demande de compensation » pour le service ADSL. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.",
+    "escalade": "transmettre au service commercial ADSL si une action sur l'offre ou la facturation est nécessaire.",
+    "mots_cles": [
+      "ADSL",
+      "Commercial",
+      "Demande de compensation",
+      "réclamation commerciale",
+      "demande de geste ou compensation",
+      "autre"
+    ],
+    "examples_user_queries": [],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_028",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "ADSL",
+    "categorie": "Commercial",
+    "sous_categorie": "Omission activ/désactiv pause",
+    "titre": "ADSL - Omission activ/désactiv pause",
+    "intent_possible": "autre",
+    "description": "Article de connaissance pour le traitement du cas « Omission activ/désactiv pause » sur le service ADSL (commercial).",
+    "symptomes": [
+      "service pause non activé ou désactivé à tort",
+      "état de service incohérent"
+    ],
+    "causes_possibles": [
+      "mise à jour non appliquée",
+      "erreur de traitement commercial",
+      "demande incomplète"
+    ],
+    "verification_client": [
+      "vérifier la demande du client",
+      "contrôler le statut actuel du service",
+      "vérifier la date de prise en compte"
+    ],
+    "action_agent": "vérifier le statut du service et corriger ou transmettre au service concerné.",
+    "reponse_agent": "Je comprends votre demande concernant « Omission activ/désactiv pause » pour le service ADSL. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.",
+    "escalade": "transmettre au service commercial ADSL si une action sur l'offre ou la facturation est nécessaire.",
+    "mots_cles": [
+      "ADSL",
+      "Commercial",
+      "Omission activ/désactiv pause",
+      "service pause non activé ou désactivé à tort",
+      "état de service incohérent",
+      "autre"
+    ],
+    "examples_user_queries": [],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_029",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "ADSL",
+    "categorie": "Commercial",
+    "sous_categorie": "Accès au service refusé",
+    "titre": "ADSL - Accès au service refusé",
+    "intent_possible": "resiliation",
+    "description": "Article de connaissance pour le traitement du cas « Accès au service refusé » sur le service ADSL (commercial).",
+    "symptomes": [
+      "accès refusé",
+      "demande rejetée",
+      "service inaccessible malgré une demande"
+    ],
+    "causes_possibles": [
+      "incomplétude du dossier",
+      "ineligibilité",
+      "restriction ou impayé",
+      "erreur de traitement"
+    ],
+    "verification_client": [
+      "vérifier le statut du dossier",
+      "contrôler les conditions d'éligibilité",
+      "vérifier la situation du compte"
+    ],
+    "action_agent": "expliquer le motif probable et orienter vers la régularisation si nécessaire.",
+    "reponse_agent": "Je comprends votre demande concernant « Accès au service refusé » pour le service ADSL. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.",
+    "escalade": "transmettre au service commercial ADSL si une action sur l'offre ou la facturation est nécessaire.",
+    "mots_cles": [
+      "ADSL",
+      "Commercial",
+      "Accès au service refusé",
+      "accès refusé",
+      "demande rejetée",
+      "service inaccessible malgré une demande",
+      "resiliation"
+    ],
+    "examples_user_queries": [
+      "s'il vous plaît je veux résilier mon abonnement depuis hier",
+      "je veux résilier mon abonnement dans mon quartier",
+      "merci de vérifier je veux résilier mon abonnement depuis ce matin"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_030",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "ADSL",
+    "categorie": "Commercial",
+    "sous_categorie": "Solde non attribué",
+    "titre": "ADSL - Solde non attribué",
+    "intent_possible": "paiement_facture",
+    "description": "Article de connaissance pour le traitement du cas « Solde non attribué » sur le service ADSL (commercial).",
+    "symptomes": [
+      "bonus, crédit ou volume non visible",
+      "solde attendu non crédité"
+    ],
+    "causes_possibles": [
+      "mise à jour retardée",
+      "offre non éligible",
+      "consommation déjà déduite",
+      "anomalie commerciale"
+    ],
+    "verification_client": [
+      "vérifier l'offre et la date de rechargement/bonus",
+      "contrôler le solde actuel",
+      "confirmer la période concernée"
+    ],
+    "action_agent": "vérifier le cycle commercial et la bonne attribution du bonus ou du crédit.",
+    "reponse_agent": "Je comprends votre demande concernant « Solde non attribué » pour le service ADSL. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.",
+    "escalade": "transmettre au service commercial ADSL si une action sur l'offre ou la facturation est nécessaire.",
+    "mots_cles": [
+      "ADSL",
+      "Commercial",
+      "Solde non attribué",
+      "bonus, crédit ou volume non visible",
+      "solde attendu non crédité",
+      "paiement_facture"
+    ],
+    "examples_user_queries": [
+      "je veux payer ma facture depuis hier",
+      "pouvez-vous m'aider je veux payer ma facture",
+      "s'il vous plaît je veux payer ma facture"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_031",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "4G",
+    "categorie": "Commercial",
+    "sous_categorie": "Non disponibilité",
+    "titre": "4G - Non disponibilité",
+    "intent_possible": "autre",
+    "description": "Article de connaissance pour le traitement du cas « Non disponibilité » sur le service 4G (commercial).",
+    "symptomes": [
+      "service ou offre indisponible",
+      "demande non réalisable dans la zone"
+    ],
+    "causes_possibles": [
+      "non couverture",
+      "rupture de stock ou indisponibilité locale",
+      "offre non encore déployée"
+    ],
+    "verification_client": [
+      "vérifier la zone ou l'adresse",
+      "contrôler la disponibilité de l'offre",
+      "proposer une alternative si possible"
+    ],
+    "action_agent": "informer le client sur la disponibilité réelle et les alternatives éventuelles.",
+    "reponse_agent": "Je comprends votre demande concernant « Non disponibilité » pour le service 4G. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.",
+    "escalade": "transmettre au service commercial mobile si une vérification sur bonus, crédit ou offre est nécessaire.",
+    "mots_cles": [
+      "4G",
+      "Commercial",
+      "Non disponibilité",
+      "service ou offre indisponible",
+      "demande non réalisable dans la zone",
+      "autre"
+    ],
+    "examples_user_queries": [],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_032",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "4G",
+    "categorie": "Commercial",
+    "sous_categorie": "Perte de volume data",
+    "titre": "4G - Perte de volume data",
+    "intent_possible": "paiement_facture",
+    "description": "Article de connaissance pour le traitement du cas « Perte de volume data » sur le service 4G (commercial).",
+    "symptomes": [
+      "bonus, crédit ou volume non visible",
+      "solde attendu non crédité"
+    ],
+    "causes_possibles": [
+      "mise à jour retardée",
+      "offre non éligible",
+      "consommation déjà déduite",
+      "anomalie commerciale"
+    ],
+    "verification_client": [
+      "vérifier l'offre et la date de rechargement/bonus",
+      "contrôler le solde actuel",
+      "confirmer la période concernée"
+    ],
+    "action_agent": "vérifier le cycle commercial et la bonne attribution du bonus ou du crédit.",
+    "reponse_agent": "Je comprends votre demande concernant « Perte de volume data » pour le service 4G. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.",
+    "escalade": "transmettre au service commercial mobile si une vérification sur bonus, crédit ou offre est nécessaire.",
+    "mots_cles": [
+      "4G",
+      "Commercial",
+      "Perte de volume data",
+      "bonus, crédit ou volume non visible",
+      "solde attendu non crédité",
+      "paiement_facture"
+    ],
+    "examples_user_queries": [
+      "je veux payer ma facture depuis hier",
+      "pouvez-vous m'aider je veux payer ma facture",
+      "s'il vous plaît je veux payer ma facture"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_033",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "4G",
+    "categorie": "Commercial",
+    "sous_categorie": "Perte de bonus data",
+    "titre": "4G - Perte de bonus data",
+    "intent_possible": "paiement_facture",
+    "description": "Article de connaissance pour le traitement du cas « Perte de bonus data » sur le service 4G (commercial).",
+    "symptomes": [
+      "bonus, crédit ou volume non visible",
+      "solde attendu non crédité"
+    ],
+    "causes_possibles": [
+      "mise à jour retardée",
+      "offre non éligible",
+      "consommation déjà déduite",
+      "anomalie commerciale"
+    ],
+    "verification_client": [
+      "vérifier l'offre et la date de rechargement/bonus",
+      "contrôler le solde actuel",
+      "confirmer la période concernée"
+    ],
+    "action_agent": "vérifier le cycle commercial et la bonne attribution du bonus ou du crédit.",
+    "reponse_agent": "Je comprends votre demande concernant « Perte de bonus data » pour le service 4G. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.",
+    "escalade": "transmettre au service commercial mobile si une vérification sur bonus, crédit ou offre est nécessaire.",
+    "mots_cles": [
+      "4G",
+      "Commercial",
+      "Perte de bonus data",
+      "bonus, crédit ou volume non visible",
+      "solde attendu non crédité",
+      "paiement_facture"
+    ],
+    "examples_user_queries": [
+      "je veux payer ma facture depuis hier",
+      "pouvez-vous m'aider je veux payer ma facture",
+      "s'il vous plaît je veux payer ma facture"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_034",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "4G",
+    "categorie": "Commercial",
+    "sous_categorie": "Appel vers short code",
+    "titre": "4G - Appel vers short code",
+    "intent_possible": "autre",
+    "description": "Article de connaissance pour le traitement du cas « Appel vers short code » sur le service 4G (commercial).",
+    "symptomes": [
+      "impossibilité d'appeler un numéro court",
+      "échec vers short code"
+    ],
+    "causes_possibles": [
+      "restriction de service",
+      "numéro non accessible depuis l'offre",
+      "incident réseau"
+    ],
+    "verification_client": [
+      "redémarrer le routeur ou le téléphone",
+      "vérifier la couverture et le niveau du signal",
+      "tester dans une autre pièce ou à l'extérieur",
+      "contrôler le volume data disponible",
+      "tester plusieurs numéros courts si possible"
+    ],
+    "action_agent": "qualifier les numéros courts concernés et l'offre utilisée.",
+    "reponse_agent": "Je comprends votre demande concernant « Appel vers short code » pour le service 4G. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.",
+    "escalade": "transmettre au service commercial mobile si une vérification sur bonus, crédit ou offre est nécessaire.",
+    "mots_cles": [
+      "4G",
+      "Commercial",
+      "Appel vers short code",
+      "impossibilité d'appeler un numéro court",
+      "échec vers short code",
+      "autre"
+    ],
+    "examples_user_queries": [],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_035",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "4G",
+    "categorie": "Commercial",
+    "sous_categorie": "Appels émission et réception",
+    "titre": "4G - Appels émission et réception",
+    "intent_possible": "internet_panne",
+    "description": "Article de connaissance pour le traitement du cas « Appels émission et réception » sur le service 4G (commercial).",
+    "symptomes": [
+      "problème global sur les appels entrants et sortants",
+      "émission et réception indisponibles"
+    ],
+    "causes_possibles": [
+      "incident réseau",
+      "restriction de service",
+      "compte ou SIM non conforme"
+    ],
+    "verification_client": [
+      "redémarrer le routeur ou le téléphone",
+      "vérifier la couverture et le niveau du signal",
+      "tester dans une autre pièce ou à l'extérieur",
+      "contrôler le volume data disponible",
+      "vérifier si les données mobiles fonctionnent"
+    ],
+    "action_agent": "qualifier si le problème concerne seulement la voix ou l'ensemble des services.",
+    "reponse_agent": "Je comprends votre demande concernant « Appels émission et réception » pour le service 4G. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.",
+    "escalade": "transmettre au service commercial mobile si une vérification sur bonus, crédit ou offre est nécessaire.",
+    "mots_cles": [
+      "4G",
+      "Commercial",
+      "Appels émission et réception",
+      "problème global sur les appels entrants et sortants",
+      "émission et réception indisponibles",
+      "internet_panne"
+    ],
+    "examples_user_queries": [
+      "pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet dans mon quartier"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_036",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "4G",
+    "categorie": "Commercial",
+    "sous_categorie": "Perte de crédits",
+    "titre": "4G - Perte de crédits",
+    "intent_possible": "paiement_facture",
+    "description": "Article de connaissance pour le traitement du cas « Perte de crédits » sur le service 4G (commercial).",
+    "symptomes": [
+      "bonus, crédit ou volume non visible",
+      "solde attendu non crédité"
+    ],
+    "causes_possibles": [
+      "mise à jour retardée",
+      "offre non éligible",
+      "consommation déjà déduite",
+      "anomalie commerciale"
+    ],
+    "verification_client": [
+      "vérifier l'offre et la date de rechargement/bonus",
+      "contrôler le solde actuel",
+      "confirmer la période concernée"
+    ],
+    "action_agent": "vérifier le cycle commercial et la bonne attribution du bonus ou du crédit.",
+    "reponse_agent": "Je comprends votre demande concernant « Perte de crédits » pour le service 4G. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.",
+    "escalade": "transmettre au service commercial mobile si une vérification sur bonus, crédit ou offre est nécessaire.",
+    "mots_cles": [
+      "4G",
+      "Commercial",
+      "Perte de crédits",
+      "bonus, crédit ou volume non visible",
+      "solde attendu non crédité",
+      "paiement_facture"
+    ],
+    "examples_user_queries": [
+      "je veux payer ma facture depuis hier",
+      "pouvez-vous m'aider je veux payer ma facture",
+      "s'il vous plaît je veux payer ma facture"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_037",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "4G",
+    "categorie": "Commercial",
+    "sous_categorie": "Réception appels",
+    "titre": "4G - Réception appels",
+    "intent_possible": "internet_panne",
+    "description": "Article de connaissance pour le traitement du cas « Réception appels » sur le service 4G (commercial).",
+    "symptomes": [
+      "appels entrants non reçus",
+      "certains appels n'aboutissent pas",
+      "réception irrégulière"
+    ],
+    "causes_possibles": [
+      "incident réseau",
+      "restriction ou configuration",
+      "défaut de ligne"
+    ],
+    "verification_client": [
+      "redémarrer le routeur ou le téléphone",
+      "vérifier la couverture et le niveau du signal",
+      "tester dans une autre pièce ou à l'extérieur",
+      "contrôler le volume data disponible",
+      "demander si tous les appelants sont concernés"
+    ],
+    "action_agent": "qualifier la réception des appels et vérifier si le problème est généralisé.",
+    "reponse_agent": "Je comprends votre demande concernant « Réception appels » pour le service 4G. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.",
+    "escalade": "transmettre au service commercial mobile si une vérification sur bonus, crédit ou offre est nécessaire.",
+    "mots_cles": [
+      "4G",
+      "Commercial",
+      "Réception appels",
+      "appels entrants non reçus",
+      "certains appels n'aboutissent pas",
+      "réception irrégulière",
+      "internet_panne"
+    ],
+    "examples_user_queries": [
+      "pouvez-vous m'aider je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet depuis plusieurs jours",
+      "je n'ai plus internet dans mon quartier"
+    ],
+    "statut": "brouillon_a_valider"
+  },
+  {
+    "id": "kb_038",
+    "source": "generated_from_labels_csv_and_dataset_csv",
+    "segment": "Individual",
+    "service": "4G",
+    "categorie": "Commercial",
+    "sous_categorie": "Perte de bonus",
+    "titre": "4G - Perte de bonus",
+    "intent_possible": "paiement_facture",
+    "description": "Article de connaissance pour le traitement du cas « Perte de bonus » sur le service 4G (commercial).",
+    "symptomes": [
+      "bonus, crédit ou volume non visible",
+      "solde attendu non crédité"
+    ],
+    "causes_possibles": [
+      "mise à jour retardée",
+      "offre non éligible",
+      "consommation déjà déduite",
+      "anomalie commerciale"
+    ],
+    "verification_client": [
+      "vérifier l'offre et la date de rechargement/bonus",
+      "contrôler le solde actuel",
+      "confirmer la période concernée"
+    ],
+    "action_agent": "vérifier le cycle commercial et la bonne attribution du bonus ou du crédit.",
+    "reponse_agent": "Je comprends votre demande concernant « Perte de bonus » pour le service 4G. Je vais d'abord vérifier les informations commerciales associées (offre, solde, bonus, éligibilité ou facturation) afin de confirmer la situation et d'orienter la demande vers le bon traitement.",
+    "escalade": "transmettre au service commercial mobile si une vérification sur bonus, crédit ou offre est nécessaire.",
+    "mots_cles": [
+      "4G",
+      "Commercial",
+      "Perte de bonus",
+      "bonus, crédit ou volume non visible",
+      "solde attendu non crédité",
+      "paiement_facture"
+    ],
+    "examples_user_queries": [
+      "je veux payer ma facture depuis hier",
+      "pouvez-vous m'aider je veux payer ma facture",
+      "s'il vous plaît je veux payer ma facture"
+    ],
+    "statut": "brouillon_a_valider"
+  }
+]

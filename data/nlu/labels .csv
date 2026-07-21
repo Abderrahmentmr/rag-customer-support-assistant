@@ -1,0 +1,39 @@
+id;segment;service;categorie;sous_categorie
+1;Individual;ADSL;Technique;Chute de débit
+2;Individual;ADSL;Technique;Déconnexion fréquente
+3;Individual;ADSL;Technique;Erreur 651/678
+4;Individual;ADSL;Technique;Erreur 691 solde positive
+5;Individual;ADSL;Technique;Impossible d'afficher les pages
+6;Individual;ADSL;Technique;Link instable
+7;Individual;4G;Technique;Chute de débit
+8;Individual;4G;Technique;Couverture réseau
+9;Individual;4G;Technique;Déconnexion fréquente
+10;Individual;FTTx;Technique;Chute de débit
+11;Individual;FTTx;Technique;Déconnexion fréquente
+12;Individual;FTTx;Technique;Impossible d'afficher les pages
+13;Individual;FTTx;Technique;Pas d'internet
+14;Individual;FTTx;Technique;Pas de signal réseau
+15;Individual;FTTx;Technique;Signal réseau instable
+16;Individual;Téléphonie;Technique;Coupure de communication
+17;Individual;Téléphonie;Technique;Inversion de ligne
+18;Individual;Téléphonie;Technique;Mauvaise audition et friture
+19;Individual;Téléphonie;Technique;Pas de tonalité téléphone
+20;Individual;Téléphonie;Technique;Mélange de communication
+21;Individual;Téléphonie;Technique;Problème de réception
+22;Individual;Téléphonie;Technique;Problème émission national
+23;Individual;Téléphonie;Technique;Problème émission international
+24;Individual;Téléphonie;Technique;Problème émission numéros courts
+25;Individual;ADSL;Commercial;Ajustement
+26;Individual;ADSL;Commercial;Changement de débit
+27;Individual;ADSL;Commercial;Demande de compensation
+28;Individual;ADSL;Commercial;Omission activ/désactiv pause
+29;Individual;ADSL;Commercial;Accès au service refusé
+30;Individual;ADSL;Commercial;Solde non attribué
+31;Individual;4G;Commercial;Non disponibilité
+32;Individual;4G;Commercial;Perte de volume data
+33;Individual;4G;Commercial;Perte de bonus data
+34;Individual;4G;Commercial;Appel vers short code
+35;Individual;4G;Commercial;Appels émission et réception
+36;Individual;4G;Commercial;Perte de crédits
+37;Individual;4G;Commercial;Réception appels
+38;Individual;4G;Commercial;Perte de bonus
